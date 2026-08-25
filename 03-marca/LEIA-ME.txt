@@ -1,0 +1,13 @@
+MARCA
+
+Nome de trabalho: SheCurrent Outdoors.
+O check web inicial não encontrou concorrente outdoor direto com o nome, mas ainda é necessário fazer busca formal de marca e domínio antes de investir.
+
+Paleta:
+verde profundo #163D3A
+marfim #F5F2E9
+sálvia #E6EBDD
+coral #E57845
+texto #172322
+
+Abra a página identidade-visual.html dentro de 01-pesquisa/paginas para usar os prompts de logo, banner e produto.

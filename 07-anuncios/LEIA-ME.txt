@@ -1,0 +1,14 @@
+ANÚNCIOS
+
+Primeiro lote:
+1. vídeo problema e mecanismo, 15 a 25 segundos;
+2. UGC de organização da bolsa e destreza com luvas;
+3. imagem estática do Waterside Starter Kit por $89.
+
+Critérios de parada:
+pausar após 1.500 impressões se CTR de link ficar abaixo de 1,2%;
+pausar ao gastar $22 sem add-to-cart;
+pausar ao gastar $32 sem iniciar checkout;
+matar o produto após três criativos e $96 sem venda.
+
+O swipe curado está em 01-pesquisa/paginas/anuncios.html.

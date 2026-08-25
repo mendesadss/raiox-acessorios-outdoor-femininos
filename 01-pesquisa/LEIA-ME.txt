@@ -1,0 +1,17 @@
+COMECE AQUI
+
+Abra "Pesquisa - clique aqui.html".
+
+O relatório contém:
+1. painel executivo;
+2. estratégia;
+3. decisão de mercados;
+4. plano de ação;
+5. identidade visual;
+6. oito fichas de concorrentes;
+7. swipe curado de anúncios;
+8. mockups de home e PDP;
+9. build.json pronto para a etapa de montagem.
+
+Os três revisores do Raio-X V4 passaram com zero problemas.
+Não publiquei o relatório e não abri nenhuma janela visível do navegador.

@@ -1,0 +1,13 @@
+LOJA
+
+O contrato técnico está em 01-pesquisa/dados/build.json.
+Os mockups estão em 01-pesquisa/paginas/mockup-home.html e mockup-pdp.html.
+
+Ordem recomendada:
+1. validar amostras;
+2. confirmar nome e domínio;
+3. usar build.json na montagem;
+4. aplicar as imagens reais do produto;
+5. revisar mobile;
+6. configurar Pixel e CAPI;
+7. revisar políticas e frete.

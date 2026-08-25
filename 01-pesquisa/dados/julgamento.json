@@ -1,0 +1,36 @@
+{
+  "data": "2026-08-25",
+  "decisao": "GO CONDICIONAL",
+  "tese": "Não lançar uma loja ampla de acessórios outdoor femininos. Testar uma microloja de conforto, proteção solar e organização impermeável para pescadoras casuais nos Estados Unidos.",
+  "oportunidade_1": {
+    "nome": "Waterside Starter Kit",
+    "preco": 89,
+    "componentes": [
+      "TideSafe Waterproof Crossbody",
+      "SolShield Fingerless UPF Gloves",
+      "CoolCurrent Neck Gaiter",
+      "DryPocket Phone Pouch"
+    ],
+    "cpa_alvo": 32,
+    "cpa_equilibrio": 53.33,
+    "margem_contribuicao_alvo_pct": 24
+  },
+  "regras_iniciante": [
+    "Um país, Estados Unidos.",
+    "Um herói e um bundle.",
+    "Cinco produtos no máximo.",
+    "Sem apparel com grade no primeiro teste.",
+    "Sem barracas, móveis ou promessa de segurança.",
+    "Amostra física antes de criativo e PDP final."
+  ],
+  "scorecards": [
+    {"slug": "side-sling", "modelo": "DROPSHIP DE MARCA", "veredito": "MODELAR", "nivel": "NÍVEL INICIANTE", "score": 8},
+    {"slug": "fishewear", "modelo": "MARCA", "veredito": "OBSERVAR", "nivel": "NÍVEL AVANÇADO", "score": 10},
+    {"slug": "missmayfly", "modelo": "MARCA", "veredito": "OBSERVAR", "nivel": "NÍVEL AVANÇADO", "score": 11},
+    {"slug": "tildaoutdoors", "modelo": "MARCA", "veredito": "OBSERVAR", "nivel": "NÍVEL AVANÇADO", "score": 10},
+    {"slug": "reelgirl", "modelo": "MARCA", "veredito": "IGNORAR", "nivel": "NÍVEL MÉDIO", "score": 7},
+    {"slug": "castingqueens", "modelo": "DROPSHIP DE MARCA", "veredito": "OBSERVAR", "nivel": "NÍVEL INICIANTE", "score": 6},
+    {"slug": "freefly", "modelo": "MARCA", "veredito": "OBSERVAR", "nivel": "NÍVEL AVANÇADO", "score": 12},
+    {"slug": "yellowsally", "modelo": "DROPSHIP DE MARCA", "veredito": "IGNORAR", "nivel": "NÍVEL INICIANTE", "score": 4}
+  ]
+}

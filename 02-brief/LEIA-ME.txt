@@ -1,0 +1,4 @@
+BRIEF
+
+Use esta pasta quando a pesquisa for aprovada para execução.
+O arquivo brief.md resume o posicionamento, o avatar, a oferta e os limites do primeiro teste.
