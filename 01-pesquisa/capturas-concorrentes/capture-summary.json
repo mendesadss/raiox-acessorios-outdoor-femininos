@@ -1,0 +1,366 @@
+{
+  "startedAt": "2026-08-26T18:30:57.704Z",
+  "browser": {
+    "family": "chrome",
+    "executablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+  },
+  "playwrightCore": "1.62.1",
+  "outputDir": "C:\\Users\\nican\\OneDrive\\Documentos\\MENDES\\Mendes OS\\global-brand\\Pesquisa Mentorados\\Raiox - Acessorios Outdoor Femininos\\01-pesquisa\\capturas-concorrentes",
+  "records": [
+    {
+      "site": "freefly-home",
+      "requestedUrl": "https://freeflyapparel.com/",
+      "viewport": "mobile",
+      "status": "ok",
+      "files": {
+        "entry": "freefly-home-mobile-entry.png",
+        "fold": "freefly-home-mobile-fold.png",
+        "full": "freefly-home-mobile-full.png",
+        "data": "freefly-home-mobile-data.json"
+      },
+      "cart": null,
+      "error": null,
+      "finalUrl": "https://freeflyapparel.com/",
+      "title": "Free Fly Apparel | Bamboo & Sun Protective Clothing",
+      "dimensions": {
+        "scrollWidth": 390,
+        "scrollHeight": 8468,
+        "clientWidth": 390,
+        "clientHeight": 844
+      }
+    },
+    {
+      "site": "freefly-home",
+      "requestedUrl": "https://freeflyapparel.com/",
+      "viewport": "desktop",
+      "status": "ok",
+      "files": {
+        "entry": "freefly-home-desktop-entry.png",
+        "fold": "freefly-home-desktop-fold.png",
+        "full": "freefly-home-desktop-full.png",
+        "data": "freefly-home-desktop-data.json"
+      },
+      "cart": null,
+      "error": null,
+      "finalUrl": "https://freeflyapparel.com/",
+      "title": "Free Fly Apparel | Bamboo & Sun Protective Clothing",
+      "dimensions": {
+        "scrollWidth": 1280,
+        "scrollHeight": 7596,
+        "clientWidth": 1280,
+        "clientHeight": 900
+      }
+    },
+    {
+      "site": "freefly-pdp",
+      "requestedUrl": "https://freeflyapparel.com/products/womens-breeze-drift-pant-storm-cloud",
+      "viewport": "mobile",
+      "status": "ok",
+      "files": {
+        "entry": "freefly-pdp-mobile-entry.png",
+        "fold": "freefly-pdp-mobile-fold.png",
+        "full": "freefly-pdp-mobile-full.png",
+        "data": "freefly-pdp-mobile-data.json"
+      },
+      "cart": null,
+      "error": null,
+      "finalUrl": "https://freeflyapparel.com/products/womens-breeze-drift-pant-storm-cloud",
+      "title": "Women's Breeze Drift Pant - Storm Cloud – Free Fly Apparel",
+      "dimensions": {
+        "scrollWidth": 390,
+        "scrollHeight": 10649,
+        "clientWidth": 390,
+        "clientHeight": 844
+      }
+    },
+    {
+      "site": "freefly-pdp",
+      "requestedUrl": "https://freeflyapparel.com/products/womens-breeze-drift-pant-storm-cloud",
+      "viewport": "desktop",
+      "status": "ok",
+      "files": {
+        "entry": "freefly-pdp-desktop-entry.png",
+        "fold": "freefly-pdp-desktop-fold.png",
+        "full": "freefly-pdp-desktop-full.png",
+        "data": "freefly-pdp-desktop-data.json"
+      },
+      "cart": null,
+      "error": null,
+      "finalUrl": "https://freeflyapparel.com/products/womens-breeze-drift-pant-storm-cloud",
+      "title": "Women's Breeze Drift Pant - Storm Cloud – Free Fly Apparel",
+      "dimensions": {
+        "scrollWidth": 1280,
+        "scrollHeight": 7610,
+        "clientWidth": 1280,
+        "clientHeight": 900
+      }
+    },
+    {
+      "site": "fishewear-home",
+      "requestedUrl": "https://fishewear.com/",
+      "viewport": "mobile",
+      "status": "ok",
+      "files": {
+        "entry": "fishewear-home-mobile-entry.png",
+        "fold": "fishewear-home-mobile-fold.png",
+        "full": "fishewear-home-mobile-full.png",
+        "data": "fishewear-home-mobile-data.json"
+      },
+      "cart": null,
+      "error": null,
+      "finalUrl": "https://fishewear.com/",
+      "title": "Women’s Fishing Clothing & Fishing Gear | FisheWear",
+      "dimensions": {
+        "scrollWidth": 390,
+        "scrollHeight": 7527,
+        "clientWidth": 390,
+        "clientHeight": 844
+      }
+    },
+    {
+      "site": "fishewear-home",
+      "requestedUrl": "https://fishewear.com/",
+      "viewport": "desktop",
+      "status": "ok",
+      "files": {
+        "entry": "fishewear-home-desktop-entry.png",
+        "fold": "fishewear-home-desktop-fold.png",
+        "full": "fishewear-home-desktop-full.png",
+        "data": "fishewear-home-desktop-data.json"
+      },
+      "cart": null,
+      "error": null,
+      "finalUrl": "https://fishewear.com/",
+      "title": "Women’s Fishing Clothing & Fishing Gear | FisheWear",
+      "dimensions": {
+        "scrollWidth": 1280,
+        "scrollHeight": 9892,
+        "clientWidth": 1280,
+        "clientHeight": 900
+      }
+    },
+    {
+      "site": "fishewear-pdp",
+      "requestedUrl": "https://fishewear.com/products/enchanted-grayling-1-4-zip-sunshirt",
+      "viewport": "mobile",
+      "status": "ok",
+      "files": {
+        "entry": "fishewear-pdp-mobile-entry.png",
+        "fold": "fishewear-pdp-mobile-fold.png",
+        "full": "fishewear-pdp-mobile-full.png",
+        "data": "fishewear-pdp-mobile-data.json"
+      },
+      "cart": null,
+      "error": null,
+      "finalUrl": "https://fishewear.com/products/enchanted-grayling-1-4-zip-sunshirt",
+      "title": "Enchanted Grayling 1/4 Zip Sunshirt – Women’s UPF 50+ Fishing Shirt | FisheWear",
+      "dimensions": {
+        "scrollWidth": 390,
+        "scrollHeight": 14739,
+        "clientWidth": 390,
+        "clientHeight": 844
+      }
+    },
+    {
+      "site": "fishewear-pdp",
+      "requestedUrl": "https://fishewear.com/products/enchanted-grayling-1-4-zip-sunshirt",
+      "viewport": "desktop",
+      "status": "ok",
+      "files": {
+        "entry": "fishewear-pdp-desktop-entry.png",
+        "fold": "fishewear-pdp-desktop-fold.png",
+        "full": "fishewear-pdp-desktop-full.png",
+        "data": "fishewear-pdp-desktop-data.json"
+      },
+      "cart": null,
+      "error": null,
+      "finalUrl": "https://fishewear.com/products/enchanted-grayling-1-4-zip-sunshirt",
+      "title": "Enchanted Grayling 1/4 Zip Sunshirt – Women’s UPF 50+ Fishing Shirt | FisheWear",
+      "dimensions": {
+        "scrollWidth": 1280,
+        "scrollHeight": 13242,
+        "clientWidth": 1280,
+        "clientHeight": 900
+      }
+    },
+    {
+      "site": "missmayfly-home",
+      "requestedUrl": "https://missmayfly.com/",
+      "viewport": "mobile",
+      "status": "ok",
+      "files": {
+        "entry": "missmayfly-home-mobile-entry.png",
+        "fold": "missmayfly-home-mobile-fold.png",
+        "full": "missmayfly-home-mobile-full.png",
+        "data": "missmayfly-home-mobile-data.json"
+      },
+      "cart": null,
+      "error": null,
+      "finalUrl": "https://missmayfly.com/",
+      "title": "Miss Mayfly Fishing & Wading Gear – Miss Mayfly Women's Fishing and Wading Gear",
+      "dimensions": {
+        "scrollWidth": 390,
+        "scrollHeight": 5294,
+        "clientWidth": 390,
+        "clientHeight": 844
+      }
+    },
+    {
+      "site": "missmayfly-home",
+      "requestedUrl": "https://missmayfly.com/",
+      "viewport": "desktop",
+      "status": "ok",
+      "files": {
+        "entry": "missmayfly-home-desktop-entry.png",
+        "fold": "missmayfly-home-desktop-fold.png",
+        "full": "missmayfly-home-desktop-full.png",
+        "data": "missmayfly-home-desktop-data.json"
+      },
+      "cart": null,
+      "error": null,
+      "finalUrl": "https://missmayfly.com/",
+      "title": "Miss Mayfly Fishing & Wading Gear – Miss Mayfly Women's Fishing and Wading Gear",
+      "dimensions": {
+        "scrollWidth": 1280,
+        "scrollHeight": 6178,
+        "clientWidth": 1280,
+        "clientHeight": 900
+      }
+    },
+    {
+      "site": "missmayfly-pdp",
+      "requestedUrl": "https://missmayfly.com/products/evo-chest-wader",
+      "viewport": "mobile",
+      "status": "ok",
+      "files": {
+        "entry": "missmayfly-pdp-mobile-entry.png",
+        "fold": "missmayfly-pdp-mobile-fold.png",
+        "full": "missmayfly-pdp-mobile-full.png",
+        "data": "missmayfly-pdp-mobile-data.json"
+      },
+      "cart": null,
+      "error": null,
+      "finalUrl": "https://missmayfly.com/products/evo-chest-wader",
+      "title": "EVO Chest Wader – Miss Mayfly Women's Fishing and Wading Gear",
+      "dimensions": {
+        "scrollWidth": 390,
+        "scrollHeight": 6744,
+        "clientWidth": 390,
+        "clientHeight": 844
+      }
+    },
+    {
+      "site": "missmayfly-pdp",
+      "requestedUrl": "https://missmayfly.com/products/evo-chest-wader",
+      "viewport": "desktop",
+      "status": "ok",
+      "files": {
+        "entry": "missmayfly-pdp-desktop-entry.png",
+        "fold": "missmayfly-pdp-desktop-fold.png",
+        "full": "missmayfly-pdp-desktop-full.png",
+        "data": "missmayfly-pdp-desktop-data.json"
+      },
+      "cart": null,
+      "error": null,
+      "finalUrl": "https://missmayfly.com/products/evo-chest-wader",
+      "title": "EVO Chest Wader – Miss Mayfly Women's Fishing and Wading Gear",
+      "dimensions": {
+        "scrollWidth": 1280,
+        "scrollHeight": 6334,
+        "clientWidth": 1280,
+        "clientHeight": 900
+      }
+    },
+    {
+      "site": "tilda-home",
+      "requestedUrl": "https://tildaoutdoors.com.au/",
+      "viewport": "mobile",
+      "status": "ok",
+      "files": {
+        "entry": "tilda-home-mobile-entry.png",
+        "fold": "tilda-home-mobile-fold.png",
+        "full": "tilda-home-mobile-full.png",
+        "data": "tilda-home-mobile-data.json"
+      },
+      "cart": null,
+      "error": null,
+      "finalUrl": "https://tildaoutdoors.com.au/",
+      "title": "Tilda Outdoors | Camping gear for the outdoor girl",
+      "dimensions": {
+        "scrollWidth": 390,
+        "scrollHeight": 8794,
+        "clientWidth": 390,
+        "clientHeight": 844
+      }
+    },
+    {
+      "site": "tilda-home",
+      "requestedUrl": "https://tildaoutdoors.com.au/",
+      "viewport": "desktop",
+      "status": "ok",
+      "files": {
+        "entry": "tilda-home-desktop-entry.png",
+        "fold": "tilda-home-desktop-fold.png",
+        "full": "tilda-home-desktop-full.png",
+        "data": "tilda-home-desktop-data.json"
+      },
+      "cart": null,
+      "error": null,
+      "finalUrl": "https://tildaoutdoors.com.au/",
+      "title": "Tilda Outdoors | Camping gear for the outdoor girl",
+      "dimensions": {
+        "scrollWidth": 1280,
+        "scrollHeight": 6866,
+        "clientWidth": 1280,
+        "clientHeight": 900
+      }
+    },
+    {
+      "site": "tilda-pdp",
+      "requestedUrl": "https://tildaoutdoors.com.au/products/hanging-camp-organiser",
+      "viewport": "mobile",
+      "status": "ok",
+      "files": {
+        "entry": "tilda-pdp-mobile-entry.png",
+        "fold": "tilda-pdp-mobile-fold.png",
+        "full": "tilda-pdp-mobile-full.png",
+        "data": "tilda-pdp-mobile-data.json"
+      },
+      "cart": null,
+      "error": null,
+      "finalUrl": "https://tildaoutdoors.com.au/products/hanging-camp-organiser",
+      "title": "Hanging Camp Organiser - PRE ORDER – Tilda",
+      "dimensions": {
+        "scrollWidth": 390,
+        "scrollHeight": 4404,
+        "clientWidth": 390,
+        "clientHeight": 844
+      }
+    },
+    {
+      "site": "tilda-pdp",
+      "requestedUrl": "https://tildaoutdoors.com.au/products/hanging-camp-organiser",
+      "viewport": "desktop",
+      "status": "ok",
+      "files": {
+        "entry": "tilda-pdp-desktop-entry.png",
+        "fold": "tilda-pdp-desktop-fold.png",
+        "full": "tilda-pdp-desktop-full.png",
+        "data": "tilda-pdp-desktop-data.json"
+      },
+      "cart": null,
+      "error": null,
+      "finalUrl": "https://tildaoutdoors.com.au/products/hanging-camp-organiser",
+      "title": "Hanging Camp Organiser - PRE ORDER – Tilda",
+      "dimensions": {
+        "scrollWidth": 1280,
+        "scrollHeight": 2972,
+        "clientWidth": 1280,
+        "clientHeight": 900
+      }
+    }
+  ],
+  "finishedAt": "2026-08-26T18:36:57.732Z",
+  "ok": 16,
+  "errors": 0
+}

@@ -1,0 +1,31 @@
+{
+  "reviewed_at": "2026-08-26",
+  "review_method": [
+    "visual product identity review",
+    "manifest and competitor PDP comparison",
+    "file integrity check",
+    "SHA-256 exact duplicate detection"
+  ],
+  "summary": {
+    "products": 5,
+    "expected": 32,
+    "downloaded": 32,
+    "correct_product": 32,
+    "unique_scenes": 29,
+    "wrong_product": 0,
+    "broken_files": 0,
+    "source_duplicates": 3
+  },
+  "products": [
+    {"handle":"tidesafe-crossbody","expected":6,"downloaded":6,"correct":6,"unique":6,"status":"approved"},
+    {"handle":"solshield-fingerless-gloves","expected":10,"downloaded":10,"correct":10,"unique":7,"status":"approved_with_source_duplicates"},
+    {"handle":"coolcurrent-neck-gaiter","expected":6,"downloaded":6,"correct":6,"unique":6,"status":"approved"},
+    {"handle":"drypocket-phone-pouch","expected":4,"downloaded":4,"correct":4,"unique":4,"status":"approved"},
+    {"handle":"campnest-hanging-organizer","expected":6,"downloaded":6,"correct":6,"unique":6,"status":"approved"}
+  ],
+  "exact_duplicates": [
+    {"file":"solshield-fingerless-gloves/carrossel-concorrente/referencia-08.jpg","same_as":"solshield-fingerless-gloves/carrossel-concorrente/referencia-06.jpg"},
+    {"file":"solshield-fingerless-gloves/carrossel-concorrente/referencia-09.jpg","same_as":"solshield-fingerless-gloves/carrossel-concorrente/referencia-07.jpg"},
+    {"file":"solshield-fingerless-gloves/carrossel-concorrente/referencia-10.jpg","same_as":"solshield-fingerless-gloves/carrossel-concorrente/referencia-05.jpg"}
+  ]
+}

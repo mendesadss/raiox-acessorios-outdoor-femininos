@@ -15,7 +15,10 @@ const { pathToFileURL } = require('url');
     ['demanda', 'paginas/demanda.html'],
     ['criativos', 'paginas/anuncios.html'],
     ['identidade', 'paginas/identidade-visual.html'],
-    ['plano', 'paginas/plano-de-acao.html']
+    ['plano', 'paginas/plano-de-acao.html'],
+    ['benchmark', 'paginas/benchmark-visual.html'],
+    ['blueprint-home', 'paginas/mockup-home.html'],
+    ['blueprint-pdp', 'paginas/mockup-pdp.html']
   ];
   const viewports = [
     ['mobile', { width: 390, height: 844 }],
@@ -27,12 +30,12 @@ const { pathToFileURL } = require('url');
     for (const [viewportName, viewport] of viewports) {
       const context = await browser.newContext({ viewport });
       const page = await context.newPage();
-      await page.goto(pathToFileURL(path.join(base, relative)).href, { waitUntil: 'networkidle' });
-      await page.waitForTimeout(400);
+      await page.goto(pathToFileURL(path.join(base, relative)).href, { waitUntil: 'load' });
+      await page.waitForTimeout(100);
       await page.evaluate(async () => {
         for (let y = 0; y < document.documentElement.scrollHeight; y += 700) {
           window.scrollTo(0, y);
-          await new Promise(resolve => setTimeout(resolve, 12));
+          await new Promise(resolve => setTimeout(resolve, 1));
         }
         window.scrollTo(0, 0);
       });
@@ -58,8 +61,10 @@ const { pathToFileURL } = require('url');
       if (pageName === 'criativos' && viewportName === 'desktop' && audit.galleryColumns !== 3) problems.push(`${pageName}/${viewportName}: galeria tem ${audit.galleryColumns} colunas, esperado 3`);
       if (pageName === 'criativos' && viewportName === 'mobile' && audit.galleryColumns !== 1) problems.push(`${pageName}/${viewportName}: galeria tem ${audit.galleryColumns} colunas, esperado 1`);
       if (pageName === 'demanda') for (const marker of ['57M', '918M', '6,3M', '19M', '68%', '21,1M', '15,5M']) if (!audit.text.includes(marker)) problems.push(`${pageName}/${viewportName}: dado ausente ${marker}`);
+      if (pageName === 'benchmark' && audit.imageCount < 20) problems.push(`${pageName}/${viewportName}: somente ${audit.imageCount}/20 comparações visuais`);
+      if (pageName.startsWith('blueprint') && audit.imageCount < 3) problems.push(`${pageName}/${viewportName}: blueprint sem imagens suficientes`);
 
-      if (viewportName !== 'tablet') await page.screenshot({ path: path.join(out, `${pageName}-${viewportName}.png`), fullPage: pageName === 'demanda' || pageName === 'criativos' });
+      if (pageName === 'benchmark' && viewportName !== 'tablet') await page.screenshot({ path: path.join(out, `${pageName}-${viewportName}.png`) });
       await context.close();
     }
   }
@@ -70,7 +75,7 @@ const { pathToFileURL } = require('url');
     problems.forEach(problem => console.log('x ' + problem));
     process.exit(1);
   }
-  console.log('PROBLEMAS: nenhum. 5 páginas, 3 viewports, imagens, paletas, dados e grid responsivo aprovados.');
+  console.log('PROBLEMAS: nenhum. 8 páginas, 3 viewports, imagens, paletas, dados, benchmark e responsividade aprovados.');
   console.log(`Evidências: ${out}`);
 })().catch(error => {
   console.error(error);

@@ -38,6 +38,10 @@ const plan = fs.readFileSync(path.join(root, 'paginas', 'plano-de-acao.html'), '
 const visual = fs.readFileSync(path.join(root, 'paginas', 'identidade-visual.html'), 'utf8');
 const demand = fs.readFileSync(path.join(root, 'paginas', 'demanda.html'), 'utf8');
 const ads = fs.readFileSync(path.join(root, 'paginas', 'anuncios.html'), 'utf8');
+const benchmark = fs.readFileSync(path.join(root, 'paginas', 'benchmark-visual.html'), 'utf8');
+const homeBlueprint = fs.readFileSync(path.join(root, 'paginas', 'mockup-home.html'), 'utf8');
+const pdpBlueprint = fs.readFileSync(path.join(root, 'paginas', 'mockup-pdp.html'), 'utf8');
+const imageAudit = JSON.parse(fs.readFileSync(path.join(here, 'auditoria-imagens.json'), 'utf8'));
 if ((plan.match(/display:block;background:/g) || []).length < 7) problems.push('plano: paleta não exibe sete blocos de cor');
 if ((visual.match(/display:block;background:/g) || []).length < 7) problems.push('identidade: paleta não exibe sete blocos de cor');
 if ((visual.match(/carrossel-concorrente\/referencia-/g) || []).length !== 64) problems.push('identidade: referências 1:1 não aparecem como imagem e caminho em todos os 32 cards');
@@ -45,6 +49,18 @@ if (!demand.includes('O que a mídia qualificada confirma')) problems.push('dema
 for (const marker of ['57M', '918M', '6,3M', '19M', '68%', '21,1M', '15,5M']) if (!demand.includes(marker)) problems.push(`demanda: dado oficial ausente, ${marker}`);
 if ((ads.match(/src="criativos\//g) || []).length < 16) problems.push('criativos: galeria local com menos de 16 peças');
 if ((ads.match(/max-width:100%;height:auto;max-height:520px/g) || []).length < 24) problems.push('criativos: mídia sem limite responsivo em todos os cards');
+if (!benchmark.includes('Quatro referências fortes') || !benchmark.includes('Nossa SheCurrent')) problems.push('benchmark: comparação visual das quatro lojas com a nossa ausente');
+for (const marker of ['Free Fly', 'FisheWear', 'Miss Mayfly', 'Tilda Outdoors', '32', '29', '3']) if (!benchmark.includes(marker)) problems.push(`benchmark: marcador ausente, ${marker}`);
+if ((benchmark.match(/capturas-concorrentes\//g) || []).length < 16) problems.push('benchmark: menos de 16 prints concorrentes integrados');
+if ((benchmark.match(/capturas-blueprint\//g) || []).length < 4) problems.push('benchmark: prints dos blueprints próprios ausentes');
+if (imageAudit.summary.correct_product !== 32 || imageAudit.summary.unique_scenes !== 29 || imageAudit.summary.source_duplicates !== 3) problems.push('auditoria: totais visuais inconsistentes');
+for (const file of [...benchmark.matchAll(/src="\.\.\/(capturas-(?:concorrentes|blueprint)\/[^"?]+)"/g)].map(match => match[1])) {
+  if (!fs.existsSync(path.join(root, file))) problems.push(`benchmark: print ausente ${file}`);
+}
+for (const [label, blueprint] of [['home', homeBlueprint], ['pdp', pdpBlueprint]]) {
+  if (!blueprint.includes('<img')) problems.push(`blueprint ${label}: sem imagens reais`);
+  if (blueprint.includes('IMAGEM ') || blueprint.includes('BANNER IMAGE')) problems.push(`blueprint ${label}: placeholder visual remanescente`);
+}
 console.log('REVISÃO VISUAL RAIO-X');
 if (problems.length) { problems.forEach(problem => console.log('x ' + problem)); process.exit(1); }
-console.log('PROBLEMAS: nenhum. Referências, prompts, paletas, demanda e galeria atendem o padrão reforçado.');
+console.log('PROBLEMAS: nenhum. Referências, prompts, paletas, demanda, galeria, benchmark e blueprints atendem o padrão reforçado.');

@@ -1,0 +1,1141 @@
+{
+  "capturedAt": "2026-08-26T18:44:37.314Z",
+  "viewport": "390x844",
+  "results": [
+    {
+      "competitor": "Free Fly",
+      "pageType": "home",
+      "requestedUrl": "https://freeflyapparel.com/",
+      "status": "ok",
+      "elapsedObservedMs": 6609,
+      "title": "Free Fly Apparel | Bamboo & Sun Protective Clothing",
+      "finalUrl": "https://freeflyapparel.com/",
+      "h1": [
+        "Powered By Bamboo",
+        "SUNSET, AGAIN",
+        "FLOW STATE"
+      ],
+      "domContentLoadedMs": 1563.800000011921,
+      "loadEventMs": 3092.0999999940395,
+      "responseEndMs": 779.6999999880791,
+      "resourceCount": 481,
+      "transferBytes": 3520335,
+      "encodedBytes": 3443805,
+      "byType": {
+        "other": {
+          "count": 12,
+          "transferBytes": 6851,
+          "encodedBytes": 3251
+        },
+        "early-hints": {
+          "count": 7,
+          "transferBytes": 0,
+          "encodedBytes": 15181
+        },
+        "fetch": {
+          "count": 79,
+          "transferBytes": 103593,
+          "encodedBytes": 87393
+        },
+        "script": {
+          "count": 127,
+          "transferBytes": 777333,
+          "encodedBytes": 756333
+        },
+        "beacon": {
+          "count": 24,
+          "transferBytes": 6000,
+          "encodedBytes": 0
+        },
+        "link": {
+          "count": 66,
+          "transferBytes": 642537,
+          "encodedBytes": 623337
+        },
+        "css": {
+          "count": 7,
+          "transferBytes": 142944,
+          "encodedBytes": 140844
+        },
+        "img": {
+          "count": 140,
+          "transferBytes": 1822730,
+          "encodedBytes": 1801219
+        },
+        "iframe": {
+          "count": 9,
+          "transferBytes": 18347,
+          "encodedBytes": 16247
+        },
+        "xmlhttprequest": {
+          "count": 10,
+          "transferBytes": 0,
+          "encodedBytes": 0
+        }
+      },
+      "domImages": 579,
+      "lazyImages": 563,
+      "scripts": 243,
+      "scrollHeight": 8468,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "failedRequestCount": 17,
+      "failures": [
+        {
+          "url": "https://freeflyapparel.com/api/collect",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://shop.app/pay/hop?analytics_trace_id=b6c750ea-5a69-4a52-a906-69790e1fe0c0&target_origin=https%3A%2F%2Ffreeflyapparel.com&client_handle=freeflyapparel.myshopify.com",
+          "error": "net::ERR_BLOCKED_BY_RESPONSE"
+        },
+        {
+          "url": "https://freeflyapparel.com/shopify_pay/accelerated_checkout",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://dev.visualwebsiteoptimizer.com/events/t?en=shopify.pageViewed&a=599689",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://cdn.attn.tv/attentive/dtag.js",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://ad.doubleclick.net/ccm/s/collect?auid=282034195.1787769828&gtm=45be68o1v9138645198za200zd9138645198xec&fmt=8",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com/ccm/collect?rcb=13&frm=2&apvc=1&auid=282034195.1787769828&dt=Free%20Fly%20Apparel%20%7C%20Bamboo%20%26%20Sun%20Protective%20Clothing&tid=AW-962908546&en=page_view&dl=https%3A%2F%2Ffreeflyapparel.com%2Fweb-pixels%40a6b9c454w7b023680pb7fefabem62184d01%2Fcustom%2Fweb-pixel-5013538%409%2Fsandbox%2Fmodern%2F&scrsrc=www.googletagmanager.com&rnd=931834399.1787769828&navt=n&npa=0&did=dMDg0Yz&gdid=dMDg0Yz&gtm=45be68o1v9138645198za200zd9138645198xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~118131810~118897920~118897930~119367802~119367810~120385423&tft=1787769827872&tfd=953&tids=AW-962908546&fmt=8",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com/rmkt/collect/962908546/?random=1787769827839&cv=11&fst=1787769827839&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be68o1v9138645198za200zd9138645198xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~118131810~118897920~118897930~119367802~119367810~120385423&u_w=800&u_h=600&url=https%3A%2F%2Ffreeflyapparel.com%2Fweb-pixels%40a6b9c454w7b023680pb7fefabem62184d01%2Fcustom%2Fweb-pixel-5013538%409%2Fsandbox%2Fmodern%2F&rcb=13&frm=2&tiba=Free%20Fly%20Apparel%20%7C%20Bamboo%20%26%20Sun%20Protective%20Clothing&did=dMDg0Yz&gdid=dMDg0Yz&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=282034195.1787769828&data=event%3Dgtag.config&ept=68&gcp=5",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1642917625.1787769828&gtm=45be68o1v9138645198za200zd9138645198xec&fmt=8",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com/ccm/collect?rcb=2&frm=0&apvc=1&auid=1642917625.1787769828&dt=Free%20Fly%20Apparel%20%7C%20Bamboo%20%26%20Sun%20Protective%20Clothing&tid=AW-962908546&en=page_view&dl=https%3A%2F%2Ffreeflyapparel.com%2F&scrsrc=www.googletagmanager.com&rnd=1506905124.1787769828&navt=n&npa=0&did=dN2ZkMj%2CdNTU0Yz%2CdYmNjMT&gdid=dN2ZkMj.dNTU0Yz.dYmNjMT&_tu=AAI&gtm=45be68o1v9138645198za200zd9138645198xec&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938465~115938469~117776795~118897920~118897930~119259605~119367802~119367810~120385423&tft=1787769827966&tfd=2312&tids=AW-962908546&fmt=8",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.merchant-center-analytics.goog/mc/collect?v=2&tid=MC-Y7P23C8TKC&gtm=45Pe68o1v9243183811za200zb9138645198zd9138645198&_p=1787769827154&gcs=G111&gcd=13v3v3v3v5l1&npa=0&dma=0&gdid=dN2ZkMj.dNTU0Yz.dYmNjMT.dMTZkMj&are=1&cid=1014468221.1787769828&excid=shp.3f10c258-d70f-45af-8cb3-33f5cbf0b795&frm=0&pscdl=noapi&rcb=8&sr=390x844&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B151.0.7922.174%7CChromium%3B151.0.7922.174&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=1&tag_exp=115938465~115938468~118897920~118897930~119259605~119367802~119367810~120213116~120385422&dp=%2F&dt=Free%20Fly%20Apparel%20%7C%20Bamboo%20%26%20Sun%20Protective%20Clothing&dl=https%3A%2F%2Ffreeflyapparel.com%2F&sid=1787769828&sct=1&seg=0&_tu=CAI&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&edid=dNzYwYj&ep.shopify_event_name=page_viewed&evnid=sh-3f62b2b8-B72A-44A8-BF44-66E0C0C1EAAA&tfd=2428",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://a.klaviyo.com/client/sessions/?company_id=q94kyj",
+          "error": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://adsmeasurement.com/v1/activity",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com.br/pagead/1p-conversion/962908546/?random=1976513586&cv=11&fst=1787769827953&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be68o1v9138645198za200zd9138645198xec&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938465~115938469~117776795~118897920~118897930~119259605~119367802~119367810~120385423&u_w=390&u_h=844&url=https%3A%2F%2Ffreeflyapparel.com%2F&rcb=2&label=kPNUCJ7F2_UbEIKjk8sD&capi=1&gtm_ee=1&evnid=sh-3f62b2b8-B72A-44A8-BF44-66E0C0C1EAAA&excid=shp.3f10c258-d70f-45af-8cb3-33f5cbf0b795&tiba=Free%20Fly%20Apparel%20%7C%20Bamboo%20%26%20Sun%20Protective%20Clothing&frm=0&did=dN2ZkMj%2CdNTU0Yz%2CdYmNjMT%2CdNzYwYj&gdid=dN2ZkMj.dNTU0Yz.dYmNjMT&edid=dNzYwYj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1642917625.1787769828&ec_mode=c&oidsrc=3&ecsid2=1990750508.1787769828&_tu=ABI&gcl_ctr=1~0~0~0&data=event%3Dpage_view%3Bshopify_event_name%3Dpage_viewed%3Bpage_path%3D%2F&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkMKEAjwnbrUBhD-mPyPiqGe3SESLwBDRQTUHpXqnbQlNVYWLLEFVJBa8JrUo05AgZkAFWfyAacPkBFqNSCdfXZpbPB48P8HAQ&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgji6rECCJLrsQIIyeOxAgiX1LECCMnbsQIIzeaxAgix4bECCLPhsQIIpt2xAgiA27ECSiZ0cmlnZ2VyPWV2ZW50LXNvdXJjZTtuYXZpZ2F0aW9uLXNvdXJjZVoDCgEBYgMKAQM&cerd=ChDs370tp6e-LYS-vi3wzr4t&fsk=ChAI8J261AYQjoaooMCKg49FEiwAh_KUGvDC_2I2dk_5IIGTqUAMV1S7jMlES3WOC3g4vd-Lu-6_UAWfs7oLBRoCCOo&is_vtc=1&cid=CAQS7AEAQM4h3DzitBk40Pi9f6256tx0m82UWhWHV5-40bidEF5pLUqPxiOt7FtUujyey-geHB3kFCKEoJFE-HTHCprnBiSezDPatVSt7pj5GS1t2puC074AoFR68dBKme1bS2xPmG4T-MRguZkJ8SWv9MdaXsKce3aTrnX01Dxv2PfY78nRnF7_zw4oGTNkgmWhmsWTcbWZ3iWrMbMfve0d8orak_zDzkYj6a1A4KnR_8M0zJcsvnM14eHNaClszBaRQMJ7kqw-r5uxWzar7rwdGVny5Gu72bv7wvWFmuRdvaZAMMNXe2vmiCOkuszNyA&random=3900962150&ipr=y&pscrd=IhMIwdvKzPm-lgMVCgweAB1cPDmXOhtodHRwczovL2ZyZWVmbHlhcHBhcmVsLmNvbS9CVkNoQUk4SjI2MUFZUTQ5VDQxb2Jzbjh0bUVpd0FXYnBkYnNLWlc3bTFKeEsxcWVfTXRGeTdyRk95YkNSX3g2bFl0MjZLMnV2bmhOQ19POFJaNHd6SGFnegwICWIICAAQABgAIACCAQlwAYgBAeIBAQI",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://freefly.attn.tv/unrenderedCreative?v=2026.08.1&r=&id=bbe025830cd54948a755f5c4b410d2ee&pv=1&l=https%3A%2F%2Ffreeflyapparel.com%2F&w=390&h=844&ss_ref=ORGANIC&f=3",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://a.klaviyo.com/onsite/track-analytics?company_id=q94kyj",
+          "error": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://a.klaviyo.com/onsite/track-analytics?company_id=q94kyj",
+          "error": "net::ERR_FAILED"
+        }
+      ],
+      "consoleErrorCount": 27,
+      "consoleErrors": [
+        "SyntaxError: Failed to execute 'json' on 'Response': Unexpected end of JSON input\n    at https://freeflyapparel.com/:25:28327",
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Access to fetch at 'https://a.klaviyo.com/client/sessions/?company_id=q94kyj' from origin 'https://freeflyapparel.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Failed to load resource: the server responded with a status of 400 ()"
+      ],
+      "error": null,
+      "note": "Laboratory snapshot without network throttling. This is diagnostic evidence, not field Core Web Vitals."
+    },
+    {
+      "competitor": "Free Fly",
+      "pageType": "pdp",
+      "requestedUrl": "https://freeflyapparel.com/products/womens-breeze-drift-pant-storm-cloud",
+      "status": "ok",
+      "elapsedObservedMs": 6550,
+      "title": "Women's Breeze Drift Pant - Storm Cloud – Free Fly Apparel",
+      "finalUrl": "https://freeflyapparel.com/products/womens-breeze-drift-pant-storm-cloud",
+      "h1": [
+        "Women's Breeze Drift Pant"
+      ],
+      "domContentLoadedMs": 1426.8999999761581,
+      "loadEventMs": 3033.2999999821186,
+      "responseEndMs": 631.0999999940395,
+      "resourceCount": 442,
+      "transferBytes": 3286533,
+      "encodedBytes": 3214114,
+      "byType": {
+        "other": {
+          "count": 12,
+          "transferBytes": 6851,
+          "encodedBytes": 3251
+        },
+        "early-hints": {
+          "count": 7,
+          "transferBytes": 0,
+          "encodedBytes": 15181
+        },
+        "link": {
+          "count": 80,
+          "transferBytes": 799534,
+          "encodedBytes": 781834
+        },
+        "fetch": {
+          "count": 59,
+          "transferBytes": 378384,
+          "encodedBytes": 367584
+        },
+        "script": {
+          "count": 144,
+          "transferBytes": 863146,
+          "encodedBytes": 842446
+        },
+        "beacon": {
+          "count": 33,
+          "transferBytes": 8100,
+          "encodedBytes": 0
+        },
+        "img": {
+          "count": 79,
+          "transferBytes": 1023347,
+          "encodedBytes": 1001147
+        },
+        "css": {
+          "count": 8,
+          "transferBytes": 142944,
+          "encodedBytes": 140844
+        },
+        "video": {
+          "count": 1,
+          "transferBytes": 45880,
+          "encodedBytes": 45580
+        },
+        "iframe": {
+          "count": 9,
+          "transferBytes": 18347,
+          "encodedBytes": 16247
+        },
+        "xmlhttprequest": {
+          "count": 10,
+          "transferBytes": 0,
+          "encodedBytes": 0
+        }
+      },
+      "domImages": 260,
+      "lazyImages": 231,
+      "scripts": 227,
+      "scrollHeight": 10001,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "failedRequestCount": 20,
+      "failures": [
+        {
+          "url": "https://freeflyapparel.com/api/collect",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://shop.app/pay/hop?analytics_trace_id=22756017-4176-4d1a-9f7d-bd0e15985299&target_origin=https%3A%2F%2Ffreeflyapparel.com&client_handle=freeflyapparel.myshopify.com",
+          "error": "net::ERR_BLOCKED_BY_RESPONSE"
+        },
+        {
+          "url": "https://cdn.attn.tv/attentive/dtag.js",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://freeflyapparel.com/shopify_pay/accelerated_checkout",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com/ccm/collect?rcb=9&frm=2&apvc=1&auid=1267051733.1787769834&dt=Women%27s%20Breeze%20Drift%20Pant%20-%20Storm%20Cloud%20%E2%80%93%20Free%20Fly%20Apparel&tid=AW-962908546&en=page_view&dl=https%3A%2F%2Ffreeflyapparel.com%2Fweb-pixels%40a6b9c454w7b023680pb7fefabem62184d01%2Fcustom%2Fweb-pixel-5013538%409%2Fsandbox%2Fmodern%2Fproducts%2Fwomens-breeze-drift-pant-storm-cloud&scrsrc=www.googletagmanager.com&rnd=519271693.1787769834&navt=n&npa=0&did=dMDg0Yz&gdid=dMDg0Yz&gtm=45be68o1v9138645198za200zd9138645198xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776795~118897920~118897930~119259605~119367802~119367810~120385423~120476659~120763598&tft=1787769834438&tfd=1087&tids=AW-962908546&fmt=8",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com/rmkt/collect/962908546/?random=1787769834405&cv=11&fst=1787769834405&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be68o1v9138645198za200zd9138645198xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776795~118897920~118897930~119259605~119367802~119367810~120385423~120476659~120763598&u_w=800&u_h=600&url=https%3A%2F%2Ffreeflyapparel.com%2Fweb-pixels%40a6b9c454w7b023680pb7fefabem62184d01%2Fcustom%2Fweb-pixel-5013538%409%2Fsandbox%2Fmodern%2Fproducts%2Fwomens-breeze-drift-pant-storm-cloud&rcb=9&frm=2&tiba=Women%27s%20Breeze%20Drift%20Pant%20-%20Storm%20Cloud%20%E2%80%93%20Free%20Fly%20Apparel&did=dMDg0Yz&gdid=dMDg0Yz&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1267051733.1787769834&data=event%3Dgtag.config&ept=68&gcp=5",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.merchant-center-analytics.goog/mc/collect?v=2&tid=MC-Y7P23C8TKC&gtm=45Pe68o1v9243183811za200zb888195719zd888195719&_p=1787769833161&gcs=G111&gcd=13v3v3v3v5l1&npa=0&dma=0&gdid=dN2ZkMj.dNTU0Yz.dMTZkMj.dYmNjMT&are=1&cid=1153307074.1787769834&excid=shp.85e254f5-d490-4234-afe6-c9df591aa12d&frm=0&pscdl=noapi&rcb=18&sr=390x844&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B151.0.7922.174%7CChromium%3B151.0.7922.174&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=1&tag_exp=115616986~115938466~115938468~118897920~118897930~119367802~119367810~120213116~120385423&dp=%2Fproducts%2Fwomens-breeze-drift-pant-storm-cloud&dt=Women%27s%20Breeze%20Drift%20Pant%20-%20Storm%20Cloud%20%E2%80%93%20Free%20Fly%20Apparel&dl=https%3A%2F%2Ffreeflyapparel.com%2Fproducts%2Fwomens-breeze-drift-pant-storm-cloud&sid=1787769834&sct=1&seg=0&_tu=CAI&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&edid=dNzYwYj&ep.shopify_event_name=page_viewed&evnid=sh-3f62c97e-A846-4C44-F374-DD3CF8CB87DC&tfd=1934",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1267051733.1787769834&gtm=45be68o1v9138645198za200zd9138645198xec&fmt=8",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://a.klaviyo.com/client/sessions/?company_id=q94kyj",
+          "error": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://www.google.com/ccm/collect?rcb=6&frm=0&apvc=1&auid=1267051733.1787769834&dt=Women%27s%20Breeze%20Drift%20Pant%20-%20Storm%20Cloud%20%E2%80%93%20Free%20Fly%20Apparel&tid=AW-962908546&en=page_view&dl=https%3A%2F%2Ffreeflyapparel.com%2Fproducts%2Fwomens-breeze-drift-pant-storm-cloud&scrsrc=www.googletagmanager.com&rnd=1343182888.1787769835&navt=n&npa=0&did=dN2ZkMj%2CdNTU0Yz%2CdMTZkMj%2CdYmNjMT&gdid=dN2ZkMj.dNTU0Yz.dMTZkMj.dYmNjMT&_tu=CAI&gtm=45be68o1h1v9138645198za200zb888195719zd888195719xec&gcs=G111&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938466~115938469~117776795~118897920~118897930~119367802~119367810~120385422&tft=1787769834696&tfd=2259&tids=AW-962908546&fmt=8",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://dev.visualwebsiteoptimizer.com/events/t?en=shopify.productViewed&a=599689",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://dev.visualwebsiteoptimizer.com/events/t?en=shopify.pageViewed&a=599689",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com.br/pagead/1p-conversion/962908546/?random=1127068021&cv=11&fst=1787769834429&fmt=8&bg=ffffff&guid=ON&async=1&en=view_item&gtm=45be68o1v9138645198za200zd9138645198xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776795~118897920~118897930~119259605~119367802~119367810~120385423~120476659~120763598&u_w=800&u_h=600&url=https%3A%2F%2Ffreeflyapparel.com%2Fweb-pixels%40a6b9c454w7b023680pb7fefabem62184d01%2Fcustom%2Fweb-pixel-5013538%409%2Fsandbox%2Fmodern%2Fproducts%2Fwomens-breeze-drift-pant-storm-cloud&rcb=9&label=K8iYCOyYoY8YEIKjk8sD&capi=1&gtm_ee=1&frm=2&tiba=Women%27s%20Breeze%20Drift%20Pant%20-%20Storm%20Cloud%20%E2%80%93%20Free%20Fly%20Apparel&did=dMDg0Yz&gdid=dMDg0Yz&value=98&currency_code=USD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1267051733.1787769834&ec_mode=a&oidsrc=3&ecsid2=1362442514.1787769834&_tu=ABA&gcl_ctr=1~0~0~0&data=event%3Dview_item&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkQKEAjwnbrUBhD-mPyPiqGe3SESMABDRQTUELnK23m_2UI3tcjq0gHowSheH7u_ulMjiZ-ijgzelmzFSpwtpGe9PYe89vD_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgjj6rECCJLrsQIIyeOxAgiX1LECCMnbsQIIzeaxAgix4bECCLPhsQIIpt2xAgiA27ECShR0cmlnZ2VyPWV2ZW50LXNvdXJjZVoDCgEBYgMKAQM&cerd=Chjs370tp6e-LYKwvi2Evr4t786-LefVvi0&fsk=ChAI8J261AYQjoaooMCKg49FEiwAh_KUGkNu6-Vbabuvexi1YkEq3HbsFnU2tZ1AqduSRxemobT8Mk92Pie0axoCj2g&is_vtc=1&cid=CAQS7AEAQM4h3FAKtyKyvZV8K85IP0kORp00IJzhHwtrPRknU5nsH1EwssnVl34vgmBibQEndT9-Z4P3AG0Wy3INVzpyfXLJMlM5SFNvw7u7dklrHpxNrcKj8EUl_9uoEpyOiwFYsn5AHmADHr2U2YKA7PEjHozv42YmJ9wLTT8bbmPCv_TfDmvhcRZfq1guZrWc-IuZUuj1-L48VS9nu-6OTUbOmGs56-nDtpOpRJMRbEJ3q-EH8R9JjlkqtGGWofwe7USSLmTcZZ05mk5oYqsHfY1zEPUHLNgJuNixR0hCYTX9LPnUaxNgWv0RPXclvg&random=3766846025&ipr=y&pscrd=IhMI0PnVz_m-lgMVrwseAB2DxRcXQldDaEFJOEoyNjFBWVE0OVQ0MW9ic244dG1FaTBBV2JwZGJ2eVRRLVFHZkpBeEloUVV4azJhazV4bURGRE5hLXdrWnhiekVEeXN4UUcyZjNXVml6bkRxR3N6DAgJYggIABAAGAAgAIIBBXABiAEB",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://adsmeasurement.com/v1/activity",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://adsmeasurement.com/v1/activity",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com.br/pagead/1p-conversion/962908546/?random=910118623&cv=11&fst=1787769834682&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be68o1h1v9138645198za200zb888195719zd888195719xec&gcs=G111&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938466~115938469~117776795~118897920~118897930~119367802~119367810~120385422&u_w=390&u_h=844&url=https%3A%2F%2Ffreeflyapparel.com%2Fproducts%2Fwomens-breeze-drift-pant-storm-cloud&rcb=6&label=kPNUCJ7F2_UbEIKjk8sD&capi=1&gtm_ee=1&evnid=sh-3f62c97e-A846-4C44-F374-DD3CF8CB87DC&excid=shp.85e254f5-d490-4234-afe6-c9df591aa12d&tiba=Women%27s%20Breeze%20Drift%20Pant%20-%20Storm%20Cloud%20%E2%80%93%20Free%20Fly%20Apparel&frm=0&did=dN2ZkMj%2CdNTU0Yz%2CdMTZkMj%2CdYmNjMT%2CdNzYwYj&gdid=dN2ZkMj.dNTU0Yz.dMTZkMj.dYmNjMT&edid=dNzYwYj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1267051733.1787769834&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B151.0.7922.174%7CChromium%3B151.0.7922.174&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=c&oidsrc=3&ecsid2=1362442514.1787769834&_tu=CBI&gcl_ctr=2~0~0~0&data=event%3Dpage_view%3Bshopify_event_name%3Dpage_viewed%3Bpage_path%3D%2Fproducts%2Fwomens-breeze-drift-pant-storm-cloud&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkQKEAjwnbrUBhD-mPyPiqGe3SESMABDRQTUxyrNhpJNirgs-uphJ8FBO9R_jucOEUnIxYMsjHhrFcHq838gfIkK0Phv8_D_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgjj6rECCJLrsQIIyeOxAgiX1LECCMnbsQIIzeaxAgix4bECCLPhsQIIpt2xAgiA27ECSit0cmlnZ2VyO2V2ZW50LXNvdXJjZSwgbm90LW5hdmlnYXRpb24tc291cmNlWgMKAQFiAwoBAw&cerd=ChTs370tpqe-LYO-vi3vzr4t6NW-LQ&fsk=ChAI8J261AYQjoaooMCKg49FEiwAh_KUGoDRTwMna_55wsUD4CcPg8dTsOQPMwKIfiVUyIcOXcvHYO-GIDzgfBoC86g&is_vtc=1&cid=CAQS-gEAQM4h3LAZnz_3KeEuNw86aKtKNNHjx1sFDg71JMC9dvd0mTmYPfPhrkZ-mamN_gVt5BfpT9bWAyyrqImRMO2NYn-CT1pyaalVNTC2fIAXgiYFuEWd9Xb1az567inOhxn-Ctx2-0mRWB5tsgs0JoMbdGHmE0W5rELeuoS7jv4UEqD3nGMvMxYv2r4w3Dgawyc-Le-hxB_DrAEwaabhy7xQ-4LhMpgirWrw5heGcL0lXp4zMqydfDrGnnX1ff4Rbr_yeIsvOUdqAiaSGEv2vWtvyn7Zv85LbWkAnWoH8-6wmWzNB6PsKb5Uz1nemgAUzuDG6GTaiw9P-rNn&random=11404625&ipr=y&pscrd=IhMIx-_kz_m-lgMVtQ4eAB1GlCWpOhtodHRwczovL2ZyZWVmbHlhcHBhcmVsLmNvbS9CV0NoQUk4SjI2MUFZUTQ5VDQxb2Jzbjh0bUVpMEFXYnBkYms5MDZSZmFJVnBRODh1NEd1M2tHNFZWZFdLdDB0aVhhdWZuNVVFMHpqN1JvVWRkeHVtaEtHQXoMCAliCAgAEAAYACAAggEJcAGIAQHiAQEC",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com.br/pagead/1p-conversion/962908546/?random=2029712007&cv=11&fst=1787769834691&fmt=8&bg=ffffff&guid=ON&async=1&en=view_item&gtm=45be68o1h1v9138645198za200zb888195719zd888195719xec&gcs=G111&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938466~115938469~117776795~118897920~118897930~119367802~119367810~120385422&u_w=390&u_h=844&url=https%3A%2F%2Ffreeflyapparel.com%2Fproducts%2Fwomens-breeze-drift-pant-storm-cloud&rcb=6&label=9EtOCKHF2_UbEIKjk8sD&capi=1&gtm_ee=1&evnid=sh-3f62c972-0016-469C-9541-E62020CE382B&excid=shp.85e254f5-d490-4234-afe6-c9df591aa12d&frm=0&tiba=Women%27s%20Breeze%20Drift%20Pant%20-%20Storm%20Cloud%20%E2%80%93%20Free%20Fly%20Apparel&did=dN2ZkMj%2CdNTU0Yz%2CdMTZkMj%2CdYmNjMT%2CdNzYwYj&gdid=dN2ZkMj.dNTU0Yz.dMTZkMj.dYmNjMT&edid=dNzYwYj&value=98&currency_code=USD&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1267051733.1787769834&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B151.0.7922.174%7CChromium%3B151.0.7922.174&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=c&oidsrc=3&ecsid2=1362442514.1787769834&_tu=CBI&gcl_ctr=3~0~0~0&data=event%3Dview_item%3Bshopify_event_name%3Dproduct_viewed%3Becomm_prodid%3Dshopify_US_7856182394914_43290104660002%3Becomm_totalvalue%3D98%3Becomm_pagetype%3Dproduct&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkQKEAjwnbrUBhD-mPyPiqGe3SESMABDRQTUmDuCAM6gVS1x5L0b7ODrYykJEHy5iYNgESDyOCzTe4U7HLkINxUxXFN6BPD_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgjj6rECCJLrsQIIyeOxAgiX1LECCMnbsQIIzeaxAgix4bECCLPhsQIIpt2xAgiA27ECShR0cmlnZ2VyPWV2ZW50LXNvdXJjZVoDCgEBYgMKAQM&cerd=ChTs370t2Ym-Laenvi2Evr4t786-LQ&fsk=ChAI8J261AYQjoaooMCKg49FEiwAh_KUGkyY0FpfMI6H2h1Al13G4PF3WwiE6dz-9oAGzjFvad6L8YhsAVLlARoCJxc&is_vtc=1&cid=CAQS-gEAQM4h3IcQiITLiO-EcakpgfaxUCxBtvOCYbRchQfpbF8C-AhYCzSdRuXhTSiVApEwRCzWnfVVXaQQcQmkNzWV_UVKW2rBP0xWW5CNrMRGXyY6oXzzCa1fonR7E_WCpb3d5jiXAz4NkEf-m8sr9wKkYOUVXTQP-gFRGCX1jETy1LPhdav9NlYtc5ZNDx1Z0WVrtAtp4drP57UXTd5K2haKey6hxL5RZ2wEufgwL3uC8cjOwvK0oNnwmj0Cr6EepTKRMWi5rE1rkzmRMZK1_WihoBCoNhUWdj2dhdRp8K55SmDfJgzDR99LjpOus-zh6ROlUDvQGq230a-V&random=1883900454&ipr=y&pscrd=IhMImablz_m-lgMVvcmgBh1J2Q2wOhtodHRwczovL2ZyZWVmbHlhcHBhcmVsLmNvbS9CV0NoQUk4SjI2MUFZUTQ5VDQxb2Jzbjh0bUVpMEFXYnBkYm5xRmM0N01IQWdGRjhWZzZqYnBMcV9zRzZ1WVRuZC1oWHZ1Q3FiQjhwTnMtUmRlVWt2T0VyWXoMCAliCAgAEAAYACAAggEJcAGIAQHiAQEC",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://freefly.attn.tv/unrenderedCreative?v=2026.08.1&r=&id=528c0c722b9547148b3d31014c32b6d7&pv=1&l=https%3A%2F%2Ffreeflyapparel.com%2Fproducts%2Fwomens-breeze-drift-pant-storm-cloud&w=390&h=844&ss_ref=ORGANIC&f=3",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://a.klaviyo.com/onsite/track-analytics?company_id=q94kyj",
+          "error": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://a.klaviyo.com/onsite/track-analytics?company_id=q94kyj",
+          "error": "net::ERR_FAILED"
+        }
+      ],
+      "consoleErrorCount": 21,
+      "consoleErrors": [
+        "SyntaxError: Failed to execute 'json' on 'Response': Unexpected end of JSON input\n    at https://freeflyapparel.com/products/womens-breeze-drift-pant-storm-cloud:47:28327",
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Access to fetch at 'https://a.klaviyo.com/client/sessions/?company_id=q94kyj' from origin 'https://freeflyapparel.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Failed to load resource: the server responded with a status of 400 ()",
+        "RequestError: Failed sending request to url https://idx.liadm.com/idex/did-004t/any?duid=f0e0d45bf5b8--01m0zp5mg6fe20v6b311yj58q0&cd=.freeflyapparel.com&pu=https%3A%2F%2Ffreeflyapparel.com%2F&_shopify_y=85e254f5-d490-4234-afe6-c9df591aa12d&_fbp=fb.1.1787769834887.694942535662962244&resolve=nonId&resolve=md5&resolve=sha2&did=did-004t\n    at https://d-code.liadm.com/did-004t.min.js:1:88144",
+        "Failed to load resource: the server responded with a status of 400 ()",
+        "RequestError: Failed sending request to url https://idx.liadm.com/idex/did-003x/any?duid=f0e0d45bf5b8--01m0zp5mg6fe20v6b311yj58q0&cd=.freeflyapparel.com&pu=https%3A%2F%2Ffreeflyapparel.com%2F&_shopify_y=85e254f5-d490-4234-afe6-c9df591aa12d&_fbp=fb.1.1787769834887.694942535662962244&resolve=nonId&resolve=md5&resolve=sha2&did=did-003x\n    at https://d-code.liadm.com/did-004t.min.js:1:88144",
+        "Access to XMLHttpRequest at 'https://a.klaviyo.com/onsite/track-analytics?company_id=q94kyj' from origin 'https://freeflyapparel.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to XMLHttpRequest at 'https://a.klaviyo.com/onsite/track-analytics?company_id=q94kyj' from origin 'https://freeflyapparel.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource."
+      ],
+      "error": null,
+      "note": "Laboratory snapshot without network throttling. This is diagnostic evidence, not field Core Web Vitals."
+    },
+    {
+      "competitor": "FisheWear",
+      "pageType": "home",
+      "requestedUrl": "https://fishewear.com/",
+      "status": "ok",
+      "elapsedObservedMs": 6572,
+      "title": "Women’s Fishing Clothing & Fishing Gear | FisheWear",
+      "finalUrl": "https://fishewear.com/",
+      "h1": [
+        "FisheWear"
+      ],
+      "domContentLoadedMs": 1374.4000000059605,
+      "loadEventMs": 3054.4000000059605,
+      "responseEndMs": 1016.7999999821186,
+      "resourceCount": 457,
+      "transferBytes": 3480963,
+      "encodedBytes": 3593486,
+      "byType": {
+        "other": {
+          "count": 8,
+          "transferBytes": 183999,
+          "encodedBytes": 181599
+        },
+        "early-hints": {
+          "count": 8,
+          "transferBytes": 0,
+          "encodedBytes": 35156
+        },
+        "link": {
+          "count": 61,
+          "transferBytes": 694390,
+          "encodedBytes": 676690
+        },
+        "script": {
+          "count": 186,
+          "transferBytes": 1098982,
+          "encodedBytes": 1060882
+        },
+        "beacon": {
+          "count": 19,
+          "transferBytes": 4500,
+          "encodedBytes": 0
+        },
+        "img": {
+          "count": 26,
+          "transferBytes": 1162702,
+          "encodedBytes": 1154902
+        },
+        "css": {
+          "count": 7,
+          "transferBytes": 186132,
+          "encodedBytes": 184032
+        },
+        "fetch": {
+          "count": 118,
+          "transferBytes": 77604,
+          "encodedBytes": 58404
+        },
+        "iframe": {
+          "count": 6,
+          "transferBytes": 63422,
+          "encodedBytes": 62822
+        },
+        "xmlhttprequest": {
+          "count": 18,
+          "transferBytes": 9232,
+          "encodedBytes": 178999
+        }
+      },
+      "domImages": 68,
+      "lazyImages": 43,
+      "scripts": 155,
+      "scrollHeight": 7521,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "failedRequestCount": 12,
+      "failures": [
+        {
+          "url": "https://fishewear.com/api/collect",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://monorail-edge.shopifysvc.com/v1/produce",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://shop.app/pay/hop?analytics_trace_id=9254bb2d-c456-4f44-b21f-a336ee804162&target_origin=https%3A%2F%2Ffishewear.com&client_handle=fishewear.myshopify.com",
+          "error": "net::ERR_BLOCKED_BY_RESPONSE"
+        },
+        {
+          "url": "https://fishewear.com/shopify_pay/accelerated_checkout",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.merchant-center-analytics.goog/mc/collect?v=2&tid=MC-G57F4TSW4G&gtm=45Pe68o1v9192851737za200zd9192851737&_p=1787769840581&gcs=G111&gcd=13t3t3t3t5l1&npa=0&dma=0&gdid=dN2ZkMj.dNTU0Yz.dYmNjMT&are=1&cid=1466169013.1787769841&excid=shp.9ad38a67-aa53-416b-864c-a22cef751e55&frm=0&pscdl=noapi&rcb=19&sr=390x844&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B151.0.7922.174%7CChromium%3B151.0.7922.174&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=1&tag_exp=115616985~115938465~115938469~118897920~118897930~119367802~119367810~120213116~120385423&dp=%2F&dt=Women%E2%80%99s%20Fishing%20Clothing%20%26%20Fishing%20Gear%20%7C%20FisheWear&dl=https%3A%2F%2Ffishewear.com%2F&sid=1787769841&sct=1&seg=0&_tu=AAI&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&edid=dNzYwYj&ep.shopify_event_name=page_viewed&evnid=sh-3f62e73a-E06E-4C9C-1B1E-33D134700AFE&tfd=1939",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=1&auid=1974886752.1787769841&dt=Women%E2%80%99s%20Fishing%20Clothing%20%26%20Fishing%20Gear%20%7C%20FisheWear&tid=AW-852769552&en=page_view&dl=https%3A%2F%2Ffishewear.com%2F&scrsrc=www.googletagmanager.com&rnd=1801009431.1787769841&navt=n&npa=0&did=dN2ZkMj%2CdNTU0Yz%2CdYmNjMT&gdid=dN2ZkMj.dNTU0Yz.dYmNjMT&_tu=AAI&gtm=45be68o1v9102037266za200zb9192851737zd9192851737xec&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~119367802~119367810~120385423~120476659&tft=1787769841219&tfd=2066&tids=AW-852769552&fmt=8",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1974886752.1787769841&gtm=45be68o1v9102037266za200zb9192851737zd9192851737xec&fmt=8",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://analytics.google.com/g/collect?v=2&tid=G-C7N1MZTZGJ&gtm=45be68o1v9102037266za200zb9192851737zd9192851737&_p=1787769840581&_gaz=1&gcs=G111&gcd=13t3t3t3t5l1&npa=0&dma=0&gdid=dN2ZkMj.dNTU0Yz.dYmNjMT&ecid=1721328746&_eu=AAAAAGAC&are=1&cid=1466169013.1787769841&ec_mode=c&excid=shp.9ad38a67-aa53-416b-864c-a22cef751e55&frm=0&pscdl=noapi&rcb=8&sr=390x844&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B151.0.7922.174%7CChromium%3B151.0.7922.174&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115938465~115938468~117776796~118897920~118897930~119367802~119367810~120385423~120476659&dp=%2F&dt=Women%E2%80%99s%20Fishing%20Clothing%20%26%20Fishing%20Gear%20%7C%20FisheWear&dl=https%3A%2F%2Ffishewear.com%2F&sid=1787769841&sct=1&seg=0&_tu=AAI&en=page_view&_fv=1&_ss=1&_ee=1&edid=dNzYwYj&ep.shopify_event_name=page_viewed&evnid=sh-3f62e73a-E06E-4C9C-1B1E-33D134700AFE&tfd=2064",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://analytics.tiktok.com/api/v2/shopify_pixel",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://analytics-ipv6.tiktokw.us/ipv6/enrich_ipv6",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://fishewear.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=e0f41724-e809-48c7-a80b-d0da94ce94f8&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Ffishewear.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Ffishewear.com&target_origin=https%3A%2F%2Ffishewear.com&ux_mode=windoid&ux_role=prompt",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://fishewear.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=1e0600fe-ea0a-4c64-a516-ea5dab881644&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Ffishewear.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Ffishewear.com&target_origin=https%3A%2F%2Ffishewear.com&ux_mode=windoid&ux_role=prompt",
+          "error": "net::ERR_ABORTED"
+        }
+      ],
+      "consoleErrorCount": 4,
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n",
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "error": null,
+      "note": "Laboratory snapshot without network throttling. This is diagnostic evidence, not field Core Web Vitals."
+    },
+    {
+      "competitor": "FisheWear",
+      "pageType": "pdp",
+      "requestedUrl": "https://fishewear.com/products/enchanted-grayling-1-4-zip-sunshirt",
+      "status": "ok",
+      "elapsedObservedMs": 7491,
+      "title": "Enchanted Grayling 1/4 Zip Sunshirt – Women’s UPF 50+ Fishing Shirt | FisheWear",
+      "finalUrl": "https://fishewear.com/products/enchanted-grayling-1-4-zip-sunshirt",
+      "h1": [
+        "Enchanted Grayling 1/4 Zip Sunshirt",
+        "☀️ Women’s 1/4 Zip Sunshirt Size Chart"
+      ],
+      "domContentLoadedMs": 1878.1000000238419,
+      "loadEventMs": 3968.800000011921,
+      "responseEndMs": 1463,
+      "resourceCount": 463,
+      "transferBytes": 3569351,
+      "encodedBytes": 3641691,
+      "byType": {
+        "other": {
+          "count": 8,
+          "transferBytes": 183999,
+          "encodedBytes": 181599
+        },
+        "link": {
+          "count": 77,
+          "transferBytes": 755898,
+          "encodedBytes": 733698
+        },
+        "early-hints": {
+          "count": 1,
+          "transferBytes": 0,
+          "encodedBytes": 1605
+        },
+        "script": {
+          "count": 206,
+          "transferBytes": 1637694,
+          "encodedBytes": 1594194
+        },
+        "img": {
+          "count": 33,
+          "transferBytes": 572378,
+          "encodedBytes": 563378
+        },
+        "beacon": {
+          "count": 20,
+          "transferBytes": 4800,
+          "encodedBytes": 0
+        },
+        "css": {
+          "count": 16,
+          "transferBytes": 286256,
+          "encodedBytes": 281456
+        },
+        "fetch": {
+          "count": 77,
+          "transferBytes": 55672,
+          "encodedBytes": 43940
+        },
+        "iframe": {
+          "count": 6,
+          "transferBytes": 63422,
+          "encodedBytes": 62822
+        },
+        "xmlhttprequest": {
+          "count": 19,
+          "transferBytes": 9232,
+          "encodedBytes": 178999
+        }
+      },
+      "domImages": 81,
+      "lazyImages": 52,
+      "scripts": 182,
+      "scrollHeight": 14739,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "failedRequestCount": 18,
+      "failures": [
+        {
+          "url": "https://fishewear.com/api/collect",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://shop.app/pay/hop?analytics_trace_id=ce08c3bb-bcb6-4859-b983-6fb46922f043&target_origin=https%3A%2F%2Ffishewear.com&client_handle=fishewear.myshopify.com",
+          "error": "net::ERR_BLOCKED_BY_RESPONSE"
+        },
+        {
+          "url": "https://loox.io/widget/E1e5e8hWfu/rating?h=1787603036766",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://fishewear.com/shopify_pay/accelerated_checkout",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://monorail-edge.shopifysvc.com/v1/produce",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://ad.doubleclick.net/ccm/s/collect?auid=714122086.1787769848&gtm=45be68o1v9102037266za200zd9102037266xec&fmt=8",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com/ccm/collect?rcb=3&frm=0&apvc=1&auid=714122086.1787769848&dt=Enchanted%20Grayling%201%2F4%20Zip%20Sunshirt%20%E2%80%93%20Women%E2%80%99s%20UPF%2050%2B%20Fishing%20Shirt%20%7C%20FisheWear&tid=AW-852769552&en=page_view&dl=https%3A%2F%2Ffishewear.com%2Fproducts%2Fenchanted-grayling-1-4-zip-sunshirt&scrsrc=www.googletagmanager.com&rnd=1070906655.1787769849&navt=n&npa=0&did=dN2ZkMj%2CdNTU0Yz%2CdYmNjMT&gdid=dN2ZkMj.dNTU0Yz.dYmNjMT&_tu=AAI&gtm=45be68o1v9102037266za200zd9102037266xec&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938466~115938468~118897920~118897930~119367802~119367810~120032689~120385423&tft=1787769848516&tfd=2655&tids=AW-852769552&fmt=8",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://analytics.google.com/g/collect?v=2&tid=G-C7N1MZTZGJ&gtm=45be68o1v9102037266za200zd9102037266&_p=1787769847832&gcs=G111&gcd=13t3t3t3t5l1&npa=0&dma=0&gdid=dN2ZkMj.dNTU0Yz.dYmNjMT&ecid=587411435&_eu=AAAAAGQC&are=1&cid=1987378357.1787769849&ec_mode=c&excid=shp.a01a1efb-a0d9-4c92-9f01-b2664f7b37c0&frm=0&pscdl=noapi&rcb=3&sr=390x844&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B151.0.7922.174%7CChromium%3B151.0.7922.174&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&gaf=2&_s=2&tag_exp=115616985~115938466~115938468~118897920~118897930~119367802~119367810~120032689~120385423&cu=USD&sid=1787769848&sct=1&seg=0&dl=https%3A%2F%2Ffishewear.com%2Fproducts%2Fenchanted-grayling-1-4-zip-sunshirt&dt=Enchanted%20Grayling%201%2F4%20Zip%20Sunshirt%20%E2%80%93%20Women%E2%80%99s%20UPF%2050%2B%20Fishing%20Shirt%20%7C%20FisheWear&_tu=AAI&en=view_item&_ee=1&pr1=idshopify_US_8944098148584_46662270812392~nmEnchanted%20Grayling%201%2F4%20Zip%20Sunshirt~brFisheWear~ca1~c24%20Zip%20Sunshirt~pr95~vaXS~qt1~k0sku~v0FSTO26-EGR-1~k1variant_id~v146662270812392&edid=dNzYwYj&ep.shopify_event_name=product_viewed&evnid=sh-3f63057b-B131-4DAF-97F8-407FC677D496&ep.ecomm_prodid=shopify_US_8944098148584_46662270812392&epn.ecomm_totalvalue=95&ep.ecomm_pagetype=product&epn.value=95&_et=3&tfd=2687",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://analytics.google.com/g/collect?v=2&tid=G-C7N1MZTZGJ&gtm=45be68o1v9102037266za200zd9102037266&_p=1787769847832&_gaz=1&gcs=G111&gcd=13t3t3t3t5l1&npa=0&dma=0&gdid=dN2ZkMj.dNTU0Yz.dYmNjMT&ecid=587411435&_eu=AAAAAGAC&are=1&cid=1987378357.1787769849&ec_mode=c&excid=shp.a01a1efb-a0d9-4c92-9f01-b2664f7b37c0&frm=0&pscdl=noapi&rcb=3&sr=390x844&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B151.0.7922.174%7CChromium%3B151.0.7922.174&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115616985~115938466~115938468~118897920~118897930~119367802~119367810~120032689~120385423&dp=%2Fproducts%2Fenchanted-grayling-1-4-zip-sunshirt&dt=Enchanted%20Grayling%201%2F4%20Zip%20Sunshirt%20%E2%80%93%20Women%E2%80%99s%20UPF%2050%2B%20Fishing%20Shirt%20%7C%20FisheWear&dl=https%3A%2F%2Ffishewear.com%2Fproducts%2Fenchanted-grayling-1-4-zip-sunshirt&sid=1787769848&sct=1&seg=0&_tu=AAI&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&edid=dNzYwYj&ep.shopify_event_name=page_viewed&evnid=sh-3f630563-731A-4648-1F3D-9D534A4312A6&tfd=2684",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://analytics.tiktok.com/api/v2/shopify_pixel",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://analytics.tiktok.com/api/v2/shopify_pixel",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://fishewear.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=739efcb4-c492-492e-9427-d32acf235af3&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Ffishewear.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Ffishewear.com&target_origin=https%3A%2F%2Ffishewear.com&ux_mode=windoid&ux_role=prompt",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://fishewear.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=98265918-a044-4e48-9592-46c35fe8fdcd&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Ffishewear.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Ffishewear.com&target_origin=https%3A%2F%2Ffishewear.com&ux_mode=windoid&ux_role=prompt",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://analytics-ipv6.tiktokw.us/ipv6/enrich_ipv6",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.merchant-center-analytics.goog/mc/collect?v=2&tid=MC-G57F4TSW4G&gtm=45Pe68o1v9192851737za200zb9102037266zd9102037266&_p=1787769847832&gcs=G111&gcd=13t3t3t3t5l1&npa=0&dma=0&gdid=dN2ZkMj.dNTU0Yz.dYmNjMT&are=1&cid=1987378357.1787769849&excid=shp.a01a1efb-a0d9-4c92-9f01-b2664f7b37c0&frm=0&pscdl=noapi&rcb=4&sr=390x844&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B151.0.7922.174%7CChromium%3B151.0.7922.174&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=1&tag_exp=115616985~115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422~120476659&dp=%2Fproducts%2Fenchanted-grayling-1-4-zip-sunshirt&dt=Enchanted%20Grayling%201%2F4%20Zip%20Sunshirt%20%E2%80%93%20Women%E2%80%99s%20UPF%2050%2B%20Fishing%20Shirt%20%7C%20FisheWear&dl=https%3A%2F%2Ffishewear.com%2Fproducts%2Fenchanted-grayling-1-4-zip-sunshirt&sid=1787769848&sct=1&seg=0&_tu=AAI&en=page_view&_fv=1&_ss=1&_ee=1&edid=dNzYwYj&ep.shopify_event_name=page_viewed&evnid=sh-3f630563-731A-4648-1F3D-9D534A4312A6&tfd=2748",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1347/4439/products/e111031e8809d1defc329c933fa5c2fc_x50.png?v=1681411382",
+          "error": "net::ERR_BLOCKED_BY_ORB"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1347/4439/products/7d095d1bf49098ca7ad608fc46789d92_x50.png?v=1681411391",
+          "error": "net::ERR_BLOCKED_BY_ORB"
+        },
+        {
+          "url": "https://fishewear.com/api/collect",
+          "error": "net::ERR_ABORTED"
+        }
+      ],
+      "consoleErrorCount": 4,
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n",
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "error": null,
+      "note": "Laboratory snapshot without network throttling. This is diagnostic evidence, not field Core Web Vitals."
+    },
+    {
+      "competitor": "Miss Mayfly",
+      "pageType": "home",
+      "requestedUrl": "https://missmayfly.com/",
+      "status": "ok",
+      "elapsedObservedMs": 5304,
+      "title": "Miss Mayfly Fishing & Wading Gear – Miss Mayfly Women's Fishing and Wading Gear",
+      "finalUrl": "https://missmayfly.com/",
+      "h1": [
+        "Miss Mayfly Women's Fishing and Wading Gear"
+      ],
+      "domContentLoadedMs": 770.4000000059605,
+      "loadEventMs": 1792.199999988079,
+      "responseEndMs": 564.5999999940395,
+      "resourceCount": 232,
+      "transferBytes": 2664902,
+      "encodedBytes": 2825384,
+      "byType": {
+        "other": {
+          "count": 5,
+          "transferBytes": 5549,
+          "encodedBytes": 4049
+        },
+        "early-hints": {
+          "count": 3,
+          "transferBytes": 0,
+          "encodedBytes": 163138
+        },
+        "script": {
+          "count": 89,
+          "transferBytes": 1212518,
+          "encodedBytes": 1192418
+        },
+        "img": {
+          "count": 7,
+          "transferBytes": 369918,
+          "encodedBytes": 368118
+        },
+        "beacon": {
+          "count": 14,
+          "transferBytes": 3660,
+          "encodedBytes": 60
+        },
+        "css": {
+          "count": 5,
+          "transferBytes": 92263,
+          "encodedBytes": 90763
+        },
+        "xmlhttprequest": {
+          "count": 11,
+          "transferBytes": 105183,
+          "encodedBytes": 152327
+        },
+        "fetch": {
+          "count": 25,
+          "transferBytes": 5566,
+          "encodedBytes": 2866
+        },
+        "link": {
+          "count": 69,
+          "transferBytes": 865402,
+          "encodedBytes": 847702
+        },
+        "iframe": {
+          "count": 4,
+          "transferBytes": 4843,
+          "encodedBytes": 3943
+        }
+      },
+      "domImages": 68,
+      "lazyImages": 49,
+      "scripts": 84,
+      "scrollHeight": 5314,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "failedRequestCount": 8,
+      "failures": [
+        {
+          "url": "https://missmayfly.com/api/collect",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://shop.app/pay/hop?analytics_trace_id=093a8c66-3774-49bf-b2b2-570f480334ca&target_origin=https%3A%2F%2Fmissmayfly.com&client_handle=miss-mayfly.myshopify.com",
+          "error": "net::ERR_BLOCKED_BY_RESPONSE"
+        },
+        {
+          "url": "https://missmayfly.com/shopify_pay/accelerated_checkout",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.merchant-center-analytics.goog/mc/collect?v=2&tid=MC-EPH0ECJ6NK&gtm=45Pe68o1v9205683552za200zd9205683552&_p=1787769854434&gcs=G111&gcd=13t3t3t3t5l1&npa=0&dma=0&gdid=dN2ZkMj.dNTU0Yz.dYmNjMT&are=1&cid=976277624.1787769855&excid=shp.86b6a749-5b8e-48dc-9d13-07e35ff49b4c&frm=0&pscdl=noapi&rcb=12&sr=390x844&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B151.0.7922.174%7CChromium%3B151.0.7922.174&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=1&tag_exp=115938466~115938468~118897920~118897930~119367802~119367810~119381664~120385423~120420416&dp=%2F&dt=Miss%20Mayfly%20Fishing%20%26%20Wading%20Gear%20%E2%80%93%20Miss%20Mayfly%20Women%27s%20Fishing%20and%20Wading%20Gear&dl=https%3A%2F%2Fmissmayfly.com%2F&sid=1787769854&sct=1&seg=0&_tu=AAI&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&edid=dNzYwYj&ep.shopify_event_name=page_viewed&evnid=sh-3f631b6d-AE05-4C2D-C9D7-755416B380C5&tfd=1374",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1685003176.1787769855&gtm=45be68o1v9170915718za200zb9205683552zd9205683552xec&fmt=8",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com/ccm/collect?rcb=16&frm=0&apvc=1&auid=1685003176.1787769855&dt=Miss%20Mayfly%20Fishing%20%26%20Wading%20Gear%20%E2%80%93%20Miss%20Mayfly%20Women%27s%20Fishing%20and%20Wading%20Gear&tid=AW-11298060824&en=page_view&dl=https%3A%2F%2Fmissmayfly.com%2F&scrsrc=www.googletagmanager.com&rnd=1918429329.1787769855&navt=n&npa=0&did=dN2ZkMj%2CdNTU0Yz%2CdYmNjMT&gdid=dN2ZkMj.dNTU0Yz.dYmNjMT&_tu=AAI&gtm=45be68o1v9170915718za200zb9205683552zd9205683552xec&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~117776795~118131809~118897920~118897930~119317811~119367802~119367810~120213116~120385422~120763597&tft=1787769854918&tfd=1433&tids=AW-11298060824&fmt=8",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com.br/pagead/1p-conversion/11298060824/?random=674061326&cv=11&fst=1787769854909&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be68o1v9170915718za200zb9205683552zd9205683552xec&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~117776795~118131809~118897920~118897930~119317811~119367802~119367810~120213116~120385422~120763597&u_w=390&u_h=844&url=https%3A%2F%2Fmissmayfly.com%2F&rcb=16&label=GgRzCMiarpoaEJj0qosq&capi=1&gtm_ee=1&evnid=sh-3f631b6d-AE05-4C2D-C9D7-755416B380C5&excid=shp.86b6a749-5b8e-48dc-9d13-07e35ff49b4c&tiba=Miss%20Mayfly%20Fishing%20%26%20Wading%20Gear%20%E2%80%93%20Miss%20Mayfly%20Women%27s%20Fishing%20and%20Wading%20Gear&frm=0&did=dN2ZkMj%2CdNTU0Yz%2CdYmNjMT%2CdNzYwYj&gdid=dN2ZkMj.dNTU0Yz.dYmNjMT&edid=dNzYwYj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1685003176.1787769855&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B151.0.7922.174%7CChromium%3B151.0.7922.174&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=c&oidsrc=3&ecsid2=1516675900.1787769855&_tu=ABI&gcl_ctr=1~0~0~0&data=event%3Dpage_view%3Bshopify_event_name%3Dpage_viewed%3Bpage_path%3D%2F&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkMKEAjwnbrUBhD-mPyPiqGe3SESLwBDRQTUrXk2_DD88NOFnrNKaRLDYruQmyIyZVwJvxSv24r_XClcGxJe_FFim0wK8P8HAQ&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgjj6rECCJLrsQIIyeOxAgiX1LECCMnbsQIIzeaxAgix4bECCLPhsQIIpt2xAgiA27ECShlub3QtZXZlbnQtc291cmNlLCB0cmlnZ2VyWgMKAQFiAwoBAw&cerd=ChDs370tpqe-LYS-vi3vzr4t&fsk=ChAI8J261AYQjoaooMCKg49FEiwAh_KUGp8a0gngb5rdl9yPI0NBmoKesJUYYnsY-1MsQWvw_JqSfeMNB3wfNxoCElQ&is_vtc=1&cid=CAQS7AEAQM4h3NSqPsFo_rwFeemHg46v-T4tgQc2PDkZGp1S-DyZhO571LPM4vblv-TZKnOGjtKeITJ-8kWKPKjPvw67LEbnuBmQvCYGSbNeb77B8r87umEwh-ywcSKK9rYaZcMhaLMyIRP-TLzbgkdrbHQh2D9oetJFNKz6qkvv6W-kjK3r_FsrAxTUmcgXqdNtE-iaLokJGk_F311pCqnnNpVKsWW6HDQR63mA_9yjmiEZZ6Q-RUJaU6jCZXQv_6wfb8mZJLW_FxL0mbuzFP-kgSwiWkY0faSVP4OJVj1JVncu-zIgfnyH3nfyVI0yCQ&random=1561527055&ipr=y&pscrd=IhMIscm32fm-lgMVDAgeAB0R6gL5OhdodHRwczovL21pc3NtYXlmbHkuY29tL0JWQ2hBSThKMjYxQVlRNDlUNDFvYnNuOHRtRWl3QVdicGRiaG1Od25acWJERVFnWDFaOHRPTnh6aDRkcU9OT0tIeUpXMWUtRC00MGI5MGk1WXd5amdWOXd6DAgJYggIABAAGAAgAIIBCXABiAEB4gEBAg",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://analytics.google.com/g/collect?v=2&tid=G-GSNRWMBMFM&gtm=45je68o1h1v880954905za200zd880954905&_p=1787769855174&_gaz=1&gcs=G111&gcd=13n3n3n3n5l1&npa=0&dma=0&gdid=dMDg0Yz.dMmQyMD&_eu=EAAAAGAC&are=1&cid=1381355542.1787769856&frm=2&ir=1&pscdl=noapi&rcb=7&sr=800x600&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B151.0.7922.174%7CChromium%3B151.0.7922.174&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&sid=1787769855&sct=1&seg=0&dl=https%3A%2F%2Fmissmayfly.com%2F&dt=Miss%20Mayfly%20Fishing%20%26%20Wading%20Gear%20%E2%80%93%20Miss%20Mayfly%20Women%27s%20Fishing%20and%20Wading%20Gear&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=1377",
+          "error": "net::ERR_ABORTED"
+        }
+      ],
+      "consoleErrorCount": 4,
+      "consoleErrors": [
+        "Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n",
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Error getting redo products AxiosError: Request failed with status code 404\n    at n (https://cdn.shopify.com/extensions/01a03f4d-f194-73d8-a4dd-5988c1bce65b/redo-v1.286133/assets/main.js:15:176916)\n    at XMLHttpRequest.p (https://cdn.shopify.com/extensions/01a03f4d-f194-73d8-a4dd-5988c1bce65b/redo-v1.286133/assets/main.js:15:162762)\n    at h.request (https://cdn.shopify.com/extensions/01a03f4d-f194-73d8-a4dd-5988c1bce65b/redo-v1.286133/assets/main.js:15:167112)\n    at async l.productGetJS (https://cdn.shopify.com/extensions/01a03f4d-f194-73d8-a4dd-5988c1bce65b/redo-v1.286133/assets/main.js:1:3202)\n    at async o (https://cdn.shopify.com/extensions/01a03f4d-f194-73d8-a4dd-5988c1bce65b/redo-v1.286133/assets/main.js:15:131787)\n    at async i (https://cdn.shopify.com/extensions/01a03f4d-f194-73d8-a4dd-5988c1bce65b/redo-v1.286133/assets/main.js:15:132220)\n    at async https://cdn.shopify.com/extensions/01a03f4d-f194-73d8-a4dd-5988c1bce65b/redo-v1.286133/assets/main.js:15:293807\n    at async m (https://cdn.shopify.com/extensions/01a03f4d-f194-73d8-a4dd-5988c1bce65b/redo-v1.286133/assets/main.js:15:101435)"
+      ],
+      "error": null,
+      "note": "Laboratory snapshot without network throttling. This is diagnostic evidence, not field Core Web Vitals."
+    },
+    {
+      "competitor": "Miss Mayfly",
+      "pageType": "pdp",
+      "requestedUrl": "https://missmayfly.com/products/evo-chest-wader",
+      "status": "ok",
+      "elapsedObservedMs": 5439,
+      "title": "EVO Chest Wader – Miss Mayfly Women's Fishing and Wading Gear",
+      "finalUrl": "https://missmayfly.com/products/evo-chest-wader",
+      "h1": [
+        "EVO Chest Wader",
+        "EVO Chest Wader Sizing Chart"
+      ],
+      "domContentLoadedMs": 898.8000000119209,
+      "loadEventMs": 1902.4000000059605,
+      "responseEndMs": 618.3000000119209,
+      "resourceCount": 314,
+      "transferBytes": 3408188,
+      "encodedBytes": 3564862,
+      "byType": {
+        "other": {
+          "count": 5,
+          "transferBytes": 5549,
+          "encodedBytes": 4049
+        },
+        "early-hints": {
+          "count": 3,
+          "transferBytes": 0,
+          "encodedBytes": 163138
+        },
+        "script": {
+          "count": 130,
+          "transferBytes": 1337240,
+          "encodedBytes": 1304840
+        },
+        "beacon": {
+          "count": 16,
+          "transferBytes": 3960,
+          "encodedBytes": 60
+        },
+        "img": {
+          "count": 21,
+          "transferBytes": 769122,
+          "encodedBytes": 763722
+        },
+        "css": {
+          "count": 8,
+          "transferBytes": 261015,
+          "encodedBytes": 258615
+        },
+        "fetch": {
+          "count": 33,
+          "transferBytes": 10094,
+          "encodedBytes": 6494
+        },
+        "link": {
+          "count": 82,
+          "transferBytes": 911173,
+          "encodedBytes": 889573
+        },
+        "xmlhttprequest": {
+          "count": 12,
+          "transferBytes": 105192,
+          "encodedBytes": 170428
+        },
+        "iframe": {
+          "count": 4,
+          "transferBytes": 4843,
+          "encodedBytes": 3943
+        }
+      },
+      "domImages": 57,
+      "lazyImages": 24,
+      "scripts": 92,
+      "scrollHeight": 6673,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "failedRequestCount": 10,
+      "failures": [
+        {
+          "url": "https://missmayfly.com/api/collect",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://shop.app/pay/hop?analytics_trace_id=17119d03-19b0-4cce-8409-cf4f088b95b4&target_origin=https%3A%2F%2Fmissmayfly.com&client_handle=miss-mayfly.myshopify.com",
+          "error": "net::ERR_BLOCKED_BY_RESPONSE"
+        },
+        {
+          "url": "https://missmayfly.com/shopify_pay/accelerated_checkout",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.merchant-center-analytics.goog/mc/collect?v=2&tid=MC-EPH0ECJ6NK&gtm=45Pe68o1v9205683552za200zd9205683552&_p=1787769859958&gcs=G111&gcd=13t3t3t3t5l1&npa=0&dma=0&gdid=dN2ZkMj.dNTU0Yz.dYmNjMT&are=1&cid=1745912984.1787769860&excid=shp.74818564-7c47-41d7-a7e1-c800fc23c333&frm=0&pscdl=noapi&rcb=17&sr=390x844&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B151.0.7922.174%7CChromium%3B151.0.7922.174&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=1&tag_exp=115938466~115938468~118897920~118897930~119367802~119367810~120385423&dp=%2Fproducts%2Fevo-chest-wader&dt=EVO%20Chest%20Wader%20%E2%80%93%20Miss%20Mayfly%20Women%27s%20Fishing%20and%20Wading%20Gear&dl=https%3A%2F%2Fmissmayfly.com%2Fproducts%2Fevo-chest-wader&sid=1787769860&sct=1&seg=0&_tu=AAI&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&edid=dNzYwYj&ep.shopify_event_name=page_viewed&evnid=sh-3f6331d7-991C-4B05-3E78-A26B3466E9D8&tfd=1480",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1844278294.1787769860&gtm=45be68o1v9170915718za200zb9205683552zd9205683552xec&fmt=8",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com/ccm/collect?rcb=2&frm=0&apvc=1&auid=1844278294.1787769860&dt=EVO%20Chest%20Wader%20%E2%80%93%20Miss%20Mayfly%20Women%27s%20Fishing%20and%20Wading%20Gear&tid=AW-11298060824&en=page_view&dl=https%3A%2F%2Fmissmayfly.com%2Fproducts%2Fevo-chest-wader&scrsrc=www.googletagmanager.com&rnd=39049629.1787769860&navt=n&npa=0&did=dN2ZkMj%2CdNTU0Yz%2CdYmNjMT&gdid=dN2ZkMj.dNTU0Yz.dYmNjMT&_tu=AAI&gtm=45be68o1v9170915718za200zb9205683552zd9205683552xec&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616986~115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385423&tft=1787769860461&tfd=1551&tids=AW-11298060824&fmt=8",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://analytics.google.com/g/collect?v=2&tid=G-GSNRWMBMFM&gtm=45je68o1v880954905za200zd880954905&_p=1787769860070&_gaz=1&gcs=G111&gcd=13n3n3n3n5l1&npa=0&dma=0&gdid=dMDg0Yz.dMmQyMD&_eu=EAAAAGAC&are=1&cid=1602808176.1787769861&frm=2&ir=1&pscdl=noapi&rcb=19&sr=800x600&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B151.0.7922.174%7CChromium%3B151.0.7922.174&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115938465~115938469~118897920~118897930~119367802~119367810~120213116~120385422~120763598&cu=USD&sid=1787769860&sct=1&seg=0&dl=https%3A%2F%2Fmissmayfly.com%2Fproducts%2Fevo-chest-wader&dt=EVO%20Chest%20Wader%20%E2%80%93%20Miss%20Mayfly%20Women%27s%20Fishing%20and%20Wading%20Gear&en=view_item&_fv=1&_nsi=1&_ss=1&_ee=1&pr1=id7956391919725~nmEVO%20Chest%20Wader~pr229&epn.value=229&tfd=817",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://analytics.google.com/g/collect?v=2&tid=G-GSNRWMBMFM&gtm=45je68o1v880954905za200zd880954905&_p=1787769860070&gcs=G111&gcd=13n3n3n3n5l1&npa=0&dma=0&gdid=dMDg0Yz.dMmQyMD&_eu=EAAAAGQC&are=1&cid=1602808176.1787769861&frm=2&ir=1&pscdl=noapi&rcb=19&sr=800x600&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B151.0.7922.174%7CChromium%3B151.0.7922.174&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&gaf=2&_s=2&tag_exp=115938465~115938469~118897920~118897930~119367802~119367810~120213116~120385422~120763598&sid=1787769860&sct=1&seg=1&dl=https%3A%2F%2Fmissmayfly.com%2Fproducts%2Fevo-chest-wader&dt=EVO%20Chest%20Wader%20%E2%80%93%20Miss%20Mayfly%20Women%27s%20Fishing%20and%20Wading%20Gear&en=page_view&_ee=1&tfd=829",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com.br/pagead/1p-conversion/11298060824/?random=1836007715&cv=11&fst=1787769860457&fmt=8&bg=ffffff&guid=ON&async=1&en=view_item&gtm=45be68o1v9170915718za200zb9205683552zd9205683552xec&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616986~115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385423&u_w=390&u_h=844&url=https%3A%2F%2Fmissmayfly.com%2Fproducts%2Fevo-chest-wader&rcb=2&label=hyOGCMuarpoaEJj0qosq&capi=1&gtm_ee=1&evnid=sh-3f6331ce-8C22-4F76-2CCB-4EEE084190B6&excid=shp.74818564-7c47-41d7-a7e1-c800fc23c333&frm=0&tiba=EVO%20Chest%20Wader%20%E2%80%93%20Miss%20Mayfly%20Women%27s%20Fishing%20and%20Wading%20Gear&did=dN2ZkMj%2CdNTU0Yz%2CdYmNjMT%2CdNzYwYj&gdid=dN2ZkMj.dNTU0Yz.dYmNjMT&edid=dNzYwYj&value=229&currency_code=USD&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1844278294.1787769860&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B151.0.7922.174%7CChromium%3B151.0.7922.174&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=c&oidsrc=3&ecsid2=2687975.1787769860&_tu=ABI&gcl_ctr=2~0~0~0&data=event%3Dview_item%3Bshopify_event_name%3Dproduct_viewed%3Becomm_prodid%3Dshopify_US_7956391919725_43894731145325%3Becomm_totalvalue%3D229%3Becomm_pagetype%3Dproduct&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkMKEAjwnbrUBhD-mPyPiqGe3SESLwBDRQTUJu20qsC2S0yAwPmXZG52szSUXSYIt4mZQQiDmY4qAF7xqCeXzMjC_Vs18P8HAQ&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgjj6rECCJLrsQIIyeOxAgiX1LECCMnbsQIIzeaxAgix4bECCLPhsQIIpt2xAgiA27ECCM3hsQJKGXRyaWdnZXIsIG5vdC1ldmVudC1zb3VyY2VaAwoBAWIDCgED&cerd=Chjs370tp6e-Lf-vvi2Evr4t786-LefVvi0&fsk=ChAI8J261AYQjoaooMCKg49FEiwAh_KUGrQdyy0U8bWtxremHfQ888OCgci1Nx_v7WR0tWvhEJ7uKGz3p66UdBoCo0U&is_vtc=1&cid=CAQS7AEAQM4h3HtKqVXhhWg7Dk7T8QYxwM7tedVA28Zkrmmzi4ogpYt4SghrV4pdrGpq2Y1pTmyiWB06zuDfylUlZHhnBW7DdJkvjEuiZ41QIOxTfN8fPAZA5R4-5FA02C0uJcQI18lvo7JsWlIkTS4_qd4ZN1U8UY4KpGuDwXJQ6kmUndxKzdyAcKqPLiUVGTqVQ6vMDttttcEkeLn2GvvdImSNvF3LoRQAkYrbOoEWm0-zOHyL8aTnbXwHGx4Pje5rPz1QE7jnKPGaXSG6iUt0jok29ABU77ht3OJdsnmceGatw0R6tbnOm4_4XytHDQ&random=1032302168&ipr=y&pscrd=IhMI3qGJ3Pm-lgMVsEHdAh2wWRYaOhdodHRwczovL21pc3NtYXlmbHkuY29tL0JWQ2hBSThKMjYxQVlRNDlUNDFvYnNuOHRtRWl3QVdicGRib1BKWkdiSU9PZkIxQWZhOUJXVERoZW91UlZxQ1hrU18wZko0Z0ZxUFNpUVZmejJ4NjFFMXd6DAgJYggIABAAGAAgAIIBCXABiAEB4gEBAg",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com.br/pagead/1p-conversion/11298060824/?random=601924701&cv=11&fst=1787769860451&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be68o1v9170915718za200zb9205683552zd9205683552xec&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616986~115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385423&u_w=390&u_h=844&url=https%3A%2F%2Fmissmayfly.com%2Fproducts%2Fevo-chest-wader&rcb=2&label=GgRzCMiarpoaEJj0qosq&capi=1&gtm_ee=1&evnid=sh-3f6331d7-991C-4B05-3E78-A26B3466E9D8&excid=shp.74818564-7c47-41d7-a7e1-c800fc23c333&tiba=EVO%20Chest%20Wader%20%E2%80%93%20Miss%20Mayfly%20Women%27s%20Fishing%20and%20Wading%20Gear&frm=0&did=dN2ZkMj%2CdNTU0Yz%2CdYmNjMT%2CdNzYwYj&gdid=dN2ZkMj.dNTU0Yz.dYmNjMT&edid=dNzYwYj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1844278294.1787769860&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B151.0.7922.174%7CChromium%3B151.0.7922.174&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=c&oidsrc=3&ecsid2=2687975.1787769860&_tu=ABI&gcl_ctr=1~0~0~0&data=event%3Dpage_view%3Bshopify_event_name%3Dpage_viewed%3Bpage_path%3D%2Fproducts%2Fevo-chest-wader&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkMKEAjwnbrUBhD-mPyPiqGe3SESLwBDRQTU65m8NfIFmyMR6D9SLuWxPeGsvIZoL0AmrIRJ6zWqVEJ9KlDQpxjhc6N-8P8HAQ&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgjj6rECCJLrsQIIyeOxAgiX1LECCMnbsQIIzeaxAgix4bECCLPhsQIIpt2xAgiA27ECSgd0cmlnZ2VyWgMKAQFiAwoBAw&cerd=ChDr370tp6e-LYS-vi3vzr4t&fsk=ChAI8J261AYQjoaooMCKg49FEiwAh_KUGkt4mtiwg42AdOP8T7OfGSzu6N86ZeFcAFzylrKOa0dZHjlUhTTGohoCzyc&is_vtc=1&cid=CAQS7AEAQM4h3E6wqErDVbXwjeAA5KVRVGfoR-xvGfDlybHge3WqGVM3A9aqvm3ZwW7Ea1sxoz-ClKoFCiZwIwDcnzA9d9LMPqdMQUG-kOARcePFkb18ul3y5tTeozGvKKX_dEQ7_OJiyTxupVZawvr5wWUy8sStDO_j1ukkOc-yYP_eazpktGFF6DWjcFhRlHGQDnVirxM150CYQGzyPLrgbpYIxnkcBb3JercFjsBTotGt-SNem85xsDxovhD0Z9A-YqqHiMdVleSILI0BrS2RmzhaLPAtnMGvyK5ZiORX68PazCc8kevjgzhGyozZVA&random=3613210672&ipr=y&pscrd=IhMIl5aJ3Pm-lgMV00HdAh0XxD1HOhdodHRwczovL21pc3NtYXlmbHkuY29tL0JWQ2hBSThKMjYxQVlRNDlUNDFvYnNuOHRtRWl3QVdicGRiclBTLW1VLUdLaWI4X1J6MTAwdnJsaW8tT0RrYjFwLVdMbk1TajlLeEhvbnhUQ2FCLUw3Y0F6DAgJYggIABAAGAAgAIIBCXABiAEB4gEBAg",
+          "error": "net::ERR_ABORTED"
+        }
+      ],
+      "consoleErrorCount": 4,
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n",
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Error getting redo products AxiosError: Request failed with status code 404\n    at n (https://cdn.shopify.com/extensions/01a03f4d-f194-73d8-a4dd-5988c1bce65b/redo-v1.286133/assets/main.js:15:176916)\n    at XMLHttpRequest.p (https://cdn.shopify.com/extensions/01a03f4d-f194-73d8-a4dd-5988c1bce65b/redo-v1.286133/assets/main.js:15:162762)\n    at h.request (https://cdn.shopify.com/extensions/01a03f4d-f194-73d8-a4dd-5988c1bce65b/redo-v1.286133/assets/main.js:15:167112)\n    at async l.productGetJS (https://cdn.shopify.com/extensions/01a03f4d-f194-73d8-a4dd-5988c1bce65b/redo-v1.286133/assets/main.js:1:3202)\n    at async o (https://cdn.shopify.com/extensions/01a03f4d-f194-73d8-a4dd-5988c1bce65b/redo-v1.286133/assets/main.js:15:131787)\n    at async i (https://cdn.shopify.com/extensions/01a03f4d-f194-73d8-a4dd-5988c1bce65b/redo-v1.286133/assets/main.js:15:132220)\n    at async https://cdn.shopify.com/extensions/01a03f4d-f194-73d8-a4dd-5988c1bce65b/redo-v1.286133/assets/main.js:15:293807\n    at async m (https://cdn.shopify.com/extensions/01a03f4d-f194-73d8-a4dd-5988c1bce65b/redo-v1.286133/assets/main.js:15:101435)"
+      ],
+      "error": null,
+      "note": "Laboratory snapshot without network throttling. This is diagnostic evidence, not field Core Web Vitals."
+    },
+    {
+      "competitor": "Tilda Outdoors",
+      "pageType": "home",
+      "requestedUrl": "https://tildaoutdoors.com.au/",
+      "status": "ok",
+      "elapsedObservedMs": 5764,
+      "title": "Tilda Outdoors | Camping gear for the outdoor girl",
+      "finalUrl": "https://tildaoutdoors.com.au/",
+      "h1": [],
+      "domContentLoadedMs": 1372.7999999821186,
+      "loadEventMs": 2241,
+      "responseEndMs": 1114.4000000059605,
+      "resourceCount": 225,
+      "transferBytes": 1727754,
+      "encodedBytes": 1687122,
+      "byType": {
+        "other": {
+          "count": 10,
+          "transferBytes": 239887,
+          "encodedBytes": 236887
+        },
+        "early-hints": {
+          "count": 3,
+          "transferBytes": 0,
+          "encodedBytes": 16068
+        },
+        "link": {
+          "count": 103,
+          "transferBytes": 752727,
+          "encodedBytes": 721827
+        },
+        "script": {
+          "count": 76,
+          "transferBytes": 450776,
+          "encodedBytes": 434876
+        },
+        "beacon": {
+          "count": 14,
+          "transferBytes": 3300,
+          "encodedBytes": 0
+        },
+        "img": {
+          "count": 5,
+          "transferBytes": 219570,
+          "encodedBytes": 218070
+        },
+        "css": {
+          "count": 2,
+          "transferBytes": 27185,
+          "encodedBytes": 26585
+        },
+        "fetch": {
+          "count": 7,
+          "transferBytes": 4308,
+          "encodedBytes": 3108
+        },
+        "iframe": {
+          "count": 2,
+          "transferBytes": 30001,
+          "encodedBytes": 29701
+        },
+        "xmlhttprequest": {
+          "count": 3,
+          "transferBytes": 0,
+          "encodedBytes": 0
+        }
+      },
+      "domImages": 35,
+      "lazyImages": 33,
+      "scripts": 89,
+      "scrollHeight": 8794,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "failedRequestCount": 3,
+      "failures": [
+        {
+          "url": "https://tildaoutdoors.com.au/api/collect",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://shop.app/pay/hop?analytics_trace_id=de1b2253-14e5-4c63-808a-805d0a6a04ab&target_origin=https%3A%2F%2Ftildaoutdoors.com.au&client_handle=c59a94-13.myshopify.com",
+          "error": "net::ERR_BLOCKED_BY_RESPONSE"
+        },
+        {
+          "url": "https://www.merchant-center-analytics.goog/mc/collect?v=2&tid=MC-C2J4V8FL6W&gtm=45Pe68o1h1v9187103860za200zd9187103860&_p=1787769865967&gcs=G111&gcd=13t3t3t3t5l1&npa=0&dma=0&gdid=dN2ZkMj.dNTU0Yz.dYmNjMT&are=1&cid=1631294176.1787769867&excid=shp.16c71540-8ced-4933-87f4-d928cb8c49b9&frm=0&pscdl=noapi&rcb=8&sr=390x844&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B151.0.7922.174%7CChromium%3B151.0.7922.174&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=1&tag_exp=115938465~115938469~118897920~118897930~119367802~119367810~120385423&dp=%2F&dt=Tilda%20Outdoors%20%7C%20Camping%20gear%20for%20the%20outdoor%20girl&dl=https%3A%2F%2Ftildaoutdoors.com.au%2F&sid=1787769866&sct=1&seg=0&_tu=AAI&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&edid=dNzYwYj&ep.shopify_event_name=page_viewed&evnid=sh-3f634a9f-F69F-41C4-E0A1-880A83690AAF&tfd=2042",
+          "error": "net::ERR_ABORTED"
+        }
+      ],
+      "consoleErrorCount": 2,
+      "consoleErrors": [
+        "Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "error": null,
+      "note": "Laboratory snapshot without network throttling. This is diagnostic evidence, not field Core Web Vitals."
+    },
+    {
+      "competitor": "Tilda Outdoors",
+      "pageType": "pdp",
+      "requestedUrl": "https://tildaoutdoors.com.au/products/hanging-camp-organiser",
+      "status": "ok",
+      "elapsedObservedMs": 6686,
+      "title": "Hanging Camp Organiser - PRE ORDER – Tilda",
+      "finalUrl": "https://tildaoutdoors.com.au/products/hanging-camp-organiser",
+      "h1": [
+        "Hanging Camp Organiser - PRE ORDER"
+      ],
+      "domContentLoadedMs": 1018.1999999880791,
+      "loadEventMs": 3167.0999999940395,
+      "responseEndMs": 740.9000000059605,
+      "resourceCount": 226,
+      "transferBytes": 1751938,
+      "encodedBytes": 1767714,
+      "byType": {
+        "other": {
+          "count": 10,
+          "transferBytes": 239887,
+          "encodedBytes": 236887
+        },
+        "early-hints": {
+          "count": 3,
+          "transferBytes": 0,
+          "encodedBytes": 16068
+        },
+        "link": {
+          "count": 78,
+          "transferBytes": 785196,
+          "encodedBytes": 761796
+        },
+        "script": {
+          "count": 82,
+          "transferBytes": 533604,
+          "encodedBytes": 516204
+        },
+        "beacon": {
+          "count": 17,
+          "transferBytes": 4200,
+          "encodedBytes": 0
+        },
+        "img": {
+          "count": 1,
+          "transferBytes": 47980,
+          "encodedBytes": 47680
+        },
+        "fetch": {
+          "count": 21,
+          "transferBytes": 6612,
+          "encodedBytes": 4812
+        },
+        "iframe": {
+          "count": 2,
+          "transferBytes": 30001,
+          "encodedBytes": 29701
+        },
+        "css": {
+          "count": 3,
+          "transferBytes": 59349,
+          "encodedBytes": 58449
+        },
+        "xmlhttprequest": {
+          "count": 9,
+          "transferBytes": 45109,
+          "encodedBytes": 96117
+        }
+      },
+      "domImages": 4,
+      "lazyImages": 2,
+      "scripts": 94,
+      "scrollHeight": 3727,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "failedRequestCount": 11,
+      "failures": [
+        {
+          "url": "https://tildaoutdoors.com.au/api/collect",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://shop.app/pay/hop?analytics_trace_id=8c87bcdd-f742-4e1d-b4fe-dbcaa3dd3a44&target_origin=https%3A%2F%2Ftildaoutdoors.com.au&client_handle=c59a94-13.myshopify.com",
+          "error": "net::ERR_BLOCKED_BY_RESPONSE"
+        },
+        {
+          "url": "https://www.google-analytics.com/mp/collect?measurement_id=G-ZJRGV4WC1K&api_secret=o0clMXN-Q3yk813vKo61-w",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://monorail-edge.shopifysvc.com/v1/produce",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.merchant-center-analytics.goog/mc/collect?v=2&tid=MC-C2J4V8FL6W&gtm=45Pe68o1v9187103860za200zd9187103860&_p=1787769871419&gcs=G111&gcd=13t3t3t3t5l1&npa=0&dma=0&gdid=dN2ZkMj.dNTU0Yz.dYmNjMT&are=1&cid=1696557169.1787769872&excid=shp.24e81e52-4dac-4661-8c1a-f5097cdc4723&frm=0&pscdl=noapi&rcb=0&sr=390x844&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B151.0.7922.174%7CChromium%3B151.0.7922.174&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=1&tag_exp=115938466~115938468~118897920~118897930~119367802~119367810~120385422&dp=%2Fproducts%2Fhanging-camp-organiser&dt=Hanging%20Camp%20Organiser%20-%20PRE%20ORDER%20%E2%80%93%20Tilda&dl=https%3A%2F%2Ftildaoutdoors.com.au%2Fproducts%2Fhanging-camp-organiser&sid=1787769871&sct=1&seg=0&_tu=AAI&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&edid=dNzYwYj&ep.shopify_event_name=page_viewed&evnid=sh-3f635f34-7B85-45E4-D2A2-9EC31A23673A&tfd=1553",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://error-analytics-sessions-production.shopifysvc.com/observeonly",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://monorail-edge.shopifysvc.com/v1/produce",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://monorail-edge.shopifysvc.com/v1/produce",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://monorail-edge.shopifysvc.com/v1/produce",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://monorail-edge.shopifysvc.com/v1/produce",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://monorail-edge.shopifysvc.com/v1/produce",
+          "error": "net::ERR_ABORTED"
+        }
+      ],
+      "consoleErrorCount": 2,
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 403 ()",
+        "Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n"
+      ],
+      "error": null,
+      "note": "Laboratory snapshot without network throttling. This is diagnostic evidence, not field Core Web Vitals."
+    }
+  ]
+}

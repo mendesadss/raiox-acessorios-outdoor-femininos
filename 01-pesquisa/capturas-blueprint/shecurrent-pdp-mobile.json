@@ -1,0 +1,61 @@
+{
+  "title": "TideSafe Crossbody, PDP Blueprint",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "scrollWidth": 390,
+  "scrollHeight": 5096,
+  "images": [
+    {
+      "src": "../Referencia%20de%20imagens%20-%20cena%20e%20prompt/tidesafe-crossbody/carrossel-concorrente/referencia-01.jpg",
+      "complete": true,
+      "naturalWidth": 1200
+    },
+    {
+      "src": "../Referencia%20de%20imagens%20-%20cena%20e%20prompt/tidesafe-crossbody/carrossel-concorrente/referencia-04.jpg",
+      "complete": true,
+      "naturalWidth": 1200
+    },
+    {
+      "src": "../Referencia%20de%20imagens%20-%20cena%20e%20prompt/tidesafe-crossbody/carrossel-concorrente/referencia-05.jpg",
+      "complete": true,
+      "naturalWidth": 1200
+    },
+    {
+      "src": "../Referencia%20de%20imagens%20-%20cena%20e%20prompt/tidesafe-crossbody/carrossel-concorrente/referencia-03.jpg",
+      "complete": false,
+      "naturalWidth": 0
+    },
+    {
+      "src": "../Referencia%20de%20imagens%20-%20cena%20e%20prompt/tidesafe-crossbody/carrossel-concorrente/referencia-06.jpg",
+      "complete": false,
+      "naturalWidth": 0
+    },
+    {
+      "src": "../Referencia%20de%20imagens%20-%20cena%20e%20prompt/tidesafe-crossbody/carrossel-concorrente/referencia-05.jpg",
+      "complete": true,
+      "naturalWidth": 1200
+    },
+    {
+      "src": "../Referencia%20de%20imagens%20-%20cena%20e%20prompt/tidesafe-crossbody/carrossel-concorrente/referencia-01.jpg",
+      "complete": true,
+      "naturalWidth": 1200
+    },
+    {
+      "src": "../Referencia%20de%20imagens%20-%20cena%20e%20prompt/solshield-fingerless-gloves/carrossel-concorrente/referencia-02.jpg",
+      "complete": true,
+      "naturalWidth": 2000
+    },
+    {
+      "src": "../Referencia%20de%20imagens%20-%20cena%20e%20prompt/coolcurrent-neck-gaiter/carrossel-concorrente/referencia-03.jpg",
+      "complete": true,
+      "naturalWidth": 3000
+    },
+    {
+      "src": "../Referencia%20de%20imagens%20-%20cena%20e%20prompt/drypocket-phone-pouch/carrossel-concorrente/referencia-01.jpg",
+      "complete": true,
+      "naturalWidth": 1920
+    }
+  ]
+}
