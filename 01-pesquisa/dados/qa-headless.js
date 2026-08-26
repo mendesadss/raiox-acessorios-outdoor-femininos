@@ -57,6 +57,16 @@ const { pathToFileURL } = require('url');
       if (audit.brokenImages.length) problems.push(`${pageName}/${viewportName}: ${audit.brokenImages.length} imagens quebradas`);
       if (pageName === 'identidade' && audit.imageCount < 32) problems.push(`${pageName}/${viewportName}: somente ${audit.imageCount}/32 referências visíveis`);
       if (pageName === 'identidade' && audit.colorBlocks < 7) problems.push(`${pageName}/${viewportName}: paleta incompleta`);
+      if (pageName === 'identidade') {
+        const tabAudit = await page.evaluate(() => {
+          const tabs = [...document.querySelectorAll('.product-tab')];
+          const panels = [...document.querySelectorAll('.product-panel')];
+          tabs.at(-1)?.click();
+          const visible = panels.filter(panel => !panel.hidden);
+          return { tabs: tabs.length, panels: panels.length, visible: visible.length, selected: tabs.filter(tab => tab.getAttribute('aria-selected') === 'true').length, lastVisible: visible[0]?.id === tabs.at(-1)?.dataset.productTarget };
+        });
+        if (tabAudit.tabs !== 5 || tabAudit.panels !== 5 || tabAudit.visible !== 1 || tabAudit.selected !== 1 || !tabAudit.lastVisible) problems.push(`${pageName}/${viewportName}: navegador por produto não alterna corretamente`);
+      }
       if (pageName === 'plano' && audit.colorBlocks < 7) problems.push(`${pageName}/${viewportName}: paleta incompleta`);
       if (pageName === 'criativos' && viewportName === 'desktop' && audit.galleryColumns !== 3) problems.push(`${pageName}/${viewportName}: galeria tem ${audit.galleryColumns} colunas, esperado 3`);
       if (pageName === 'criativos' && viewportName === 'mobile' && audit.galleryColumns !== 1) problems.push(`${pageName}/${viewportName}: galeria tem ${audit.galleryColumns} colunas, esperado 1`);
@@ -64,7 +74,7 @@ const { pathToFileURL } = require('url');
       if (pageName === 'benchmark' && audit.imageCount < 20) problems.push(`${pageName}/${viewportName}: somente ${audit.imageCount}/20 comparações visuais`);
       if (pageName.startsWith('blueprint') && audit.imageCount < 3) problems.push(`${pageName}/${viewportName}: blueprint sem imagens suficientes`);
 
-      if (pageName === 'benchmark' && viewportName !== 'tablet') await page.screenshot({ path: path.join(out, `${pageName}-${viewportName}.png`) });
+      if ((pageName === 'benchmark' || pageName === 'identidade') && viewportName !== 'tablet') await page.screenshot({ path: path.join(out, `${pageName}-${viewportName}.png`) });
       await context.close();
     }
   }

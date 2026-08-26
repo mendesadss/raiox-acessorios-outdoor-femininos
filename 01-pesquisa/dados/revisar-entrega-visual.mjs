@@ -45,6 +45,9 @@ const imageAudit = JSON.parse(fs.readFileSync(path.join(here, 'auditoria-imagens
 if ((plan.match(/display:block;background:/g) || []).length < 7) problems.push('plano: paleta não exibe sete blocos de cor');
 if ((visual.match(/display:block;background:/g) || []).length < 7) problems.push('identidade: paleta não exibe sete blocos de cor');
 if ((visual.match(/carrossel-concorrente\/referencia-/g) || []).length !== 64) problems.push('identidade: referências 1:1 não aparecem como imagem e caminho em todos os 32 cards');
+if ((visual.match(/class="product-tab(?:\s|\")/g) || []).length !== 5) problems.push('identidade: menu lateral não lista os cinco produtos');
+if ((visual.match(/class="product-panel/g) || []).length !== 5) problems.push('identidade: painéis navegáveis não cobrem os cinco produtos');
+if (!visual.includes('data-product-target') || !visual.includes('aria-selected')) problems.push('identidade: navegação por produto sem contrato acessível');
 if (!demand.includes('O que a mídia qualificada confirma')) problems.push('demanda: camada de evidência qualificada ausente');
 for (const marker of ['57M', '918M', '6,3M', '19M', '68%', '21,1M', '15,5M']) if (!demand.includes(marker)) problems.push(`demanda: dado oficial ausente, ${marker}`);
 if ((ads.match(/src="criativos\//g) || []).length < 16) problems.push('criativos: galeria local com menos de 16 peças');

@@ -229,3 +229,28 @@ footer{padding:44px 0 68px;color:var(--dim2);font-size:13px}
 .promptbox .pbody b{color:var(--acc)}
 .promptbox .cp{position:absolute;top:10px;right:10px;font-size:11px;padding:5px 10px;border:1px solid var(--line);border-radius:6px;color:var(--dim);background:var(--card);cursor:pointer;font-family:var(--font-body)}
 .promptbox .cp:hover{border-color:var(--acc);color:var(--acc)}
+
+/* NAVEGADOR DE REFERENCIAS POR PRODUTO */
+.product-browser{display:grid;grid-template-columns:minmax(210px,260px) minmax(0,1fr);gap:28px;align-items:start;margin-top:24px}
+.product-sidebar{min-width:0}
+.product-sidebar-inner{position:sticky;top:18px;border:1px solid var(--line);border-radius:14px;background:var(--card);padding:16px}
+.product-sidebar .lbl{display:block;margin:0 0 12px;color:var(--dim);font-size:11px;text-transform:uppercase;letter-spacing:.12em;font-weight:800}
+.product-tabs{display:grid;gap:8px}
+.product-tab{appearance:none;width:100%;border:1px solid transparent;border-radius:10px;background:var(--bg2);color:var(--dim);font:inherit;text-align:left;padding:12px 13px;cursor:pointer;transition:.18s ease}
+.product-tab span,.product-tab small{display:block}
+.product-tab span{color:var(--txt);font-size:13px;font-weight:800;line-height:1.3}
+.product-tab small{margin-top:4px;font-size:11px;line-height:1.35}
+.product-tab:hover{border-color:var(--acc);transform:translateY(-1px)}
+.product-tab.active{background:var(--acc);border-color:var(--acc);color:#0a0a0a}
+.product-tab.active span{color:#0a0a0a}
+.product-content{min-width:0}
+.product-panel[hidden]{display:none}
+.product-panel>.op{margin-top:0}
+
+@media(max-width:760px){
+  .product-browser{grid-template-columns:1fr;gap:18px}
+  .product-sidebar-inner{position:sticky;top:0;z-index:8;margin-inline:-5vw;border-radius:0;padding:12px 5vw;background:rgba(10,10,10,.96);backdrop-filter:blur(12px)}
+  .product-sidebar .lbl{margin-bottom:8px}
+  .product-tabs{display:flex;overflow-x:auto;gap:8px;padding-bottom:4px;scrollbar-width:thin;scroll-snap-type:x proximity}
+  .product-tab{flex:0 0 190px;scroll-snap-align:start}
+}

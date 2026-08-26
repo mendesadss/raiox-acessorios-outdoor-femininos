@@ -1,0 +1,136 @@
+{
+  "schema_version": "raio-x-v4.1",
+  "research": {
+    "name": "Acessorios Outdoor Femininos",
+    "mode": "profundo",
+    "scope": "nicho",
+    "generated_at": "2026-08-26"
+  },
+  "status": "validation_only",
+  "market": {
+    "country": "US",
+    "language": "en",
+    "currency": "USD",
+    "decision": "Estados Unidos primeiro, pesca feminina casual como entrada e camping como extensao secundaria"
+  },
+  "brand": {
+    "name": "SheCurrent Outdoors",
+    "domain_candidate": "shecurrentoutdoors.com",
+    "palette": {
+      "background": "#F5F2E9",
+      "secondary_background": "#E6EBDD",
+      "primary": "#163D3A",
+      "accent": "#E57845",
+      "ink": "#172322",
+      "support": "#6E8B5B",
+      "line": "#CBD3C5"
+    },
+    "fonts": {
+      "heading": "Cormorant Garamond",
+      "body": "Inter"
+    },
+    "voice": ["calm", "capable", "adult feminine", "beginner friendly"],
+    "forbidden_claims": ["fully waterproof without a verified rating", "medical protection claims", "invented customer reviews", "unverified certifications"]
+  },
+  "catalog": {
+    "collections": [
+      {"handle": "waterside-essentials", "name": "Waterside Essentials", "role": "primary"},
+      {"handle": "camp-comfort", "name": "Camp Comfort", "role": "secondary"}
+    ],
+    "products": [
+      {
+        "handle": "tidesafe-crossbody",
+        "name": "TideSafe Crossbody",
+        "role": "hero",
+        "reference_folder": "Referencia de imagens - cena e prompt/tidesafe-crossbody",
+        "reference_manifest": "Referencia de imagens - cena e prompt/tidesafe-crossbody/manifest.json",
+        "prompt_manifest": "Referencia de imagens - cena e prompt/tidesafe-crossbody/prompts.json",
+        "pdp_reference_capture": "Referencia de imagens - cena e prompt/tidesafe-crossbody/modelo-pagina-concorrente.jpg",
+        "product_master": null,
+        "source_status": "sample_required"
+      },
+      {
+        "handle": "solshield-fingerless-gloves",
+        "name": "SolShield Fingerless Gloves",
+        "role": "upsell",
+        "reference_folder": "Referencia de imagens - cena e prompt/solshield-fingerless-gloves",
+        "reference_manifest": "Referencia de imagens - cena e prompt/solshield-fingerless-gloves/manifest.json",
+        "prompt_manifest": "Referencia de imagens - cena e prompt/solshield-fingerless-gloves/prompts.json",
+        "pdp_reference_capture": "Referencia de imagens - cena e prompt/solshield-fingerless-gloves/modelo-pagina-concorrente.jpg",
+        "product_master": null,
+        "source_status": "sample_required"
+      },
+      {
+        "handle": "coolcurrent-neck-gaiter",
+        "name": "CoolCurrent Neck Gaiter",
+        "role": "upsell",
+        "reference_folder": "Referencia de imagens - cena e prompt/coolcurrent-neck-gaiter",
+        "reference_manifest": "Referencia de imagens - cena e prompt/coolcurrent-neck-gaiter/manifest.json",
+        "prompt_manifest": "Referencia de imagens - cena e prompt/coolcurrent-neck-gaiter/prompts.json",
+        "pdp_reference_capture": "Referencia de imagens - cena e prompt/coolcurrent-neck-gaiter/modelo-pagina-concorrente.jpg",
+        "product_master": null,
+        "source_status": "sample_required"
+      },
+      {
+        "handle": "drypocket-phone-pouch",
+        "name": "DryPocket Phone Pouch",
+        "role": "bump",
+        "reference_folder": "Referencia de imagens - cena e prompt/drypocket-phone-pouch",
+        "reference_manifest": "Referencia de imagens - cena e prompt/drypocket-phone-pouch/manifest.json",
+        "prompt_manifest": "Referencia de imagens - cena e prompt/drypocket-phone-pouch/prompts.json",
+        "pdp_reference_capture": "Referencia de imagens - cena e prompt/drypocket-phone-pouch/modelo-pagina-concorrente.jpg",
+        "product_master": null,
+        "source_status": "sample_required"
+      },
+      {
+        "handle": "campnest-hanging-organizer",
+        "name": "CampNest Hanging Organizer",
+        "role": "secondary",
+        "reference_folder": "Referencia de imagens - cena e prompt/campnest-hanging-organizer",
+        "reference_manifest": "Referencia de imagens - cena e prompt/campnest-hanging-organizer/manifest.json",
+        "prompt_manifest": "Referencia de imagens - cena e prompt/campnest-hanging-organizer/prompts.json",
+        "pdp_reference_capture": "Referencia de imagens - cena e prompt/campnest-hanging-organizer/modelo-pagina-concorrente.jpg",
+        "product_master": null,
+        "source_status": "sample_required"
+      }
+    ]
+  },
+  "offer": {
+    "hero_handle": "tidesafe-crossbody",
+    "currency": "USD",
+    "single_product_price": 59,
+    "bundle": {"name": "Waterside Starter Kit", "price": 89, "compare_at": 119, "savings": 30},
+    "bump": {"handle": "drypocket-phone-pouch", "price": 12, "compare_at": 17},
+    "economics": {"revenue": 89, "cogs_estimate": 26, "shipping_estimate": 7, "gateway_estimate": 2.67, "target_cpa": 32, "contribution_estimate": 21.33}
+  },
+  "store_blueprint": {
+    "home_html": "paginas/mockup-home.html",
+    "pdp_html": "paginas/mockup-pdp.html",
+    "benchmark_html": "paginas/benchmark-visual.html",
+    "home_sections": ["announcement", "navigation", "hero", "trust", "products", "mechanism", "bundle", "pre_launch_proof", "faq", "footer"],
+    "pdp_sections": ["announcement", "navigation", "gallery", "offer", "bundle_selector", "trust", "mechanism", "comparison", "bundle", "faq", "footer"]
+  },
+  "creative_strategy": {
+    "angles": ["hands free utility", "sun comfort", "visible organization"],
+    "reference_gallery": "paginas/anuncios.html",
+    "winner_count": 16,
+    "winner_basis": "longevity, copies and public platform spread"
+  },
+  "assets": {
+    "product_references": "Referencia de imagens - cena e prompt",
+    "competitor_captures": "capturas-concorrentes",
+    "blueprint_captures": "capturas-blueprint"
+  },
+  "tracking": {
+    "pixel": "required_before_launch",
+    "capi": "required_before_launch",
+    "events": ["PageView", "ViewContent", "AddToCart", "InitiateCheckout", "Purchase"]
+  },
+  "validation": {
+    "structural_reviewer": "passed",
+    "responsive_reviewer": "passed",
+    "visual_review": "passed",
+    "problems": [],
+    "limitations": ["physical product samples not approved", "Google Trends five year series not obtained", "Keyword Planner not obtained", "field performance not measured"]
+  }
+}
