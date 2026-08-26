@@ -9,11 +9,14 @@ const mediaByAd = new Map(ads.map(ad => [String(ad.adArchiveId), (ad.imageUrls |
 const escape = value => String(value).replaceAll('&', '&amp;').replaceAll('"', '&quot;').replaceAll('<', '&lt;').replaceAll('>', '&gt;');
 let html = fs.readFileSync(page, 'utf8');
 const nav = '<nav class="nav" id="top"><div class="wrap"><a class="home" href="../Pesquisa%20-%20clique%20aqui.html">◊ Painel</a><a href="estrategia.html">Estratégia</a><a href="plano-de-acao.html">Plano</a><a href="mercados.html">Mercados</a><a href="demanda.html">Demanda</a><a href="identidade-visual.html">Identidade visual</a><a class="on" href="anuncios.html">Criativos</a></div><div class="wrap lojasnav"><span class="lbl">Lojas do raio-x</span><a href="loja-side-sling.html">SideSling</a><a href="loja-fishewear.html">FisheWear</a><a href="loja-missmayfly.html">Miss Mayfly</a><a href="loja-tildaoutdoors.html">Tilda Outdoors</a><a href="loja-freefly.html">Free Fly</a></div></nav>';
+const gallery = '<section id="galeria"><div class="wrap"><h2><span class="n">01</span>Galeria dos 16 criativos para modelar</h2><p class="lead">Seleção por longevidade de veiculação, com 12 peças da Free Fly e 4 da Miss Mayfly. Veja três por linha, abra a referência e modele a estrutura, não a marca.</p><div class="grid g3">' + ads.map((ad, index) => { const local = 'criativos/' + ad.adArchiveId + '.jpg'; const title = escape(ad.title || ad.pageName || 'Criativo público'); return '<div class="card"><img src="' + local + '" alt="' + title + '" style="display:block;width:100%;border-radius:8px;margin-bottom:12px"><span class="pill p-i">#' + (index + 1) + ' · ' + Math.max(1, Math.round((Date.now() - Date.parse(ad.startDate || Date.now())) / 86400000)) + ' dias</span><h3>' + title + '</h3><p><a href="' + escape(ad.adLibraryUrl) + '" target="_blank" rel="noopener">Abrir na Biblioteca Meta</a></p></div>'; }).join('') + '</div></div></section>';
 const tocPattern = /<div class="toc"><div class="wrap">[\s\S]*?<\/div>\s*<\/div>/;
 const toc = html.match(tocPattern)?.[0] || '';
 html = html.replace(tocPattern, '');
 html = html.replace('<body>', '<body>' + nav).replace('<header id="top">', '<header>');
 html = html.replace('</header>', '</header>' + toc);
+html = html.replace('<section id="marcas">', gallery + '<section id="marcas">');
+html = html.replace(/(<section id="marca-\d+">[\s\S]*?)(<div class="card">)([\s\S]*?)(<\/section>)/g, '$1<div class="grid g3">$2$3</div>$4');
 html = html.replace('</body>', '<footer><div class="wrap"><p>Criativos públicos curados da Meta Ad Library. Copie estrutura e clareza, nunca marca, mídia ou identidade.</p><a href="#top" class="backtotop">↑</a></div></footer></body>');
 html = html.replace(/<div class="toplinks">([\s\S]*?ads\/library\/\?id=(\d+)[\s\S]*?<\/div>)/g, (all, links, id) => {
   const remoteMedia = mediaByAd.get(id);

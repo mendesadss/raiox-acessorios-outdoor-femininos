@@ -1,0 +1,37 @@
+{
+  "coleta": "2026-08-25",
+  "mercado_inicial": "US",
+  "participacao": {
+    "mulheres_pescando_2025": 21100000,
+    "fonte": "American Sportfishing Association, 2026 Special Report on Fishing",
+    "url": "https://asafishing.org/press-release/2026-special-report-on-fishing/"
+  },
+  "meta_consultas_us": [
+    {"termo": "women outdoor", "anuncios_ativos": 2400, "tipo": "amplo"},
+    {"termo": "women fishing", "anuncios_ativos": 990, "tipo": "avatar e ocasião"},
+    {"termo": "women camping", "anuncios_ativos": 700, "tipo": "avatar e ocasião"}
+  ],
+  "meta_por_pais": [
+    {"pais":"US","amplo":2400,"pesca":990,"camping":700},
+    {"pais":"CA","amplo":810,"pesca":380,"camping":260},
+    {"pais":"GB","amplo":700,"pesca":230,"camping":150},
+    {"pais":"AU","amplo":820,"pesca":350,"camping":230},
+    {"pais":"DE","amplo":300,"pesca":3,"camping":16},
+    {"pais":"FR","amplo":34,"pesca":480,"camping":84},
+    {"pais":"NL","amplo":27,"pesca":2,"camping":6},
+    {"pais":"ES","amplo":13,"pesca":160,"camping":15}
+  ],
+  "midia_qualificada": {
+    "criativos_curados": 16,
+    "marcas": 2,
+    "miss_mayfly_ativo": 4,
+    "miss_mayfly_mais_longevo_dias": 102,
+    "free_fly_amostra_ativa": 12,
+    "observacao": "Criativos públicos curados por longevidade. Não representam share de mercado ou gasto."
+  },
+  "lacunas": [
+    "Keyword Planner não foi exposto nesta sessão, portanto não há volume absoluto de busca ou CPC do Google Ads.",
+    "Google Trends de cinco anos não foi obtido nesta atualização, portanto sazonalidade não é afirmada como fato.",
+    "Meta não divulga gasto, impressões ou receita para e-commerce neste recorte público."
+  ]
+}

@@ -14,8 +14,14 @@
       "line": "#CBD3C5"
     },
     "fontes": {
-      "titulo": {"nome": "Cormorant Garamond", "handle": "cormorant_n5"},
-      "corpo": {"nome": "Inter", "handle": "inter_n4"}
+      "titulo": {
+        "nome": "Cormorant Garamond",
+        "handle": "cormorant_n5"
+      },
+      "corpo": {
+        "nome": "Inter",
+        "handle": "inter_n4"
+      }
     },
     "logo": null,
     "announcement": "Free US shipping over $75 and 30-day returns"
@@ -25,30 +31,42 @@
       {
         "tipo": "wordmark",
         "descricao": "Wordmark principal claro e seguro para fundo verde profundo",
-        "prompt": "CONTEXTO: crie um wordmark premium para um e-commerce americano de acessórios outdoor femininos chamado SheCurrent Outdoors. A marca atende mulheres que pescam casualmente e acampam, com foco em conforto, organização e confiança sem estética infantil.\n\nA MARCA: combine a elegância orgânica de uma serifada editorial com legibilidade de varejo moderno. Use verde profundo #163D3A, marfim #F5F2E9 e um toque coral #E57845. A sensação deve ser acolhedora, prática e competente.\n\nESTILO: escreva SheCurrent em destaque e Outdoors menor, com espaçamento generoso e sem ícones óbvios de peixe. Evite rosa clichê, montanhas genéricas, gradientes, brilho e aparência de clube de caça.\n\nFORMATO: fundo transparente, composição horizontal, alta resolução, bordas limpas, sem efeito 3D, sem mockup e sem texto adicional."
+        "prompt": "ROLE: You are a world-class identity designer for an American premium outdoor accessories brand. Create wordmark for SheCurrent Outdoors. The brand serves casual women anglers and beginner campers who value calm preparation, functional comfort and adult confidence. Use deep evergreen #163D3A, warm ivory #F5F2E9 and restrained coral #E57845. Avoid literal fish, mountains, pink clichés, generic badges, gradients, metallic effects, mockups and all extra text. Deliver a distinctive, legible, commercially credible mark with clean vector-like edges and strong small-size recognition. Set “SheCurrent” as the hero, with “Outdoors” secondary, in a refined editorial serif plus modern retail sans relationship. Transparent background, horizontal lockup."
       },
       {
         "tipo": "icone_perfil",
         "descricao": "Ícone SC simplificado para Instagram e Facebook",
-        "prompt": "CONTEXTO: crie um ícone quadrado para a marca americana SheCurrent Outdoors. Ele precisa permanecer reconhecível em 64 pixels e funcionar como avatar de Instagram, Facebook e favicon.\n\nA MARCA: represente movimento de correnteza e proteção de forma abstrata, usando as letras S e C sem desenhar um peixe literal. O fundo deve ser verde profundo #163D3A e o símbolo marfim #F5F2E9, com um pequeno acento coral #E57845.\n\nESTILO: formas simples, grossas e memoráveis, sem linhas finas, sem paisagem, sem texto pequeno e sem ornamento excessivo. O resultado deve parecer marca outdoor premium, não aplicativo de clima.\n\nFORMATO: 1:1, 1080x1080px, fundo sólido, alto contraste, sem sombra, sem efeito metálico e sem mockup."
+        "prompt": "ROLE: You are a world-class identity designer for an American premium outdoor accessories brand. Create icone_perfil for SheCurrent Outdoors. The brand serves casual women anglers and beginner campers who value calm preparation, functional comfort and adult confidence. Use deep evergreen #163D3A, warm ivory #F5F2E9 and restrained coral #E57845. Avoid literal fish, mountains, pink clichés, generic badges, gradients, metallic effects, mockups and all extra text. Deliver a distinctive, legible, commercially credible mark with clean vector-like edges and strong small-size recognition. Use an abstract, memorable SC current motif with simple bold forms, 1:1 composition and excellent recognition at 64 pixels."
       },
       {
         "tipo": "capa_facebook",
         "descricao": "Capa com o sistema visual, promessa e espaço de respiro",
-        "prompt": "CONTEXTO: crie uma capa de Facebook para SheCurrent Outdoors, e-commerce americano de acessórios para pescadoras casuais e campistas iniciantes. A imagem deve comunicar que sair para a água pode ser confortável, organizado e simples.\n\nA MARCA: aplique verde profundo #163D3A, marfim #F5F2E9, sálvia #E6EBDD e coral #E57845 em elementos reais da cena. Inclua o wordmark com discrição e a frase Comfort for every current.\n\nCENA: margem de lago ao amanhecer, bolsa impermeável e luvas sobre uma cadeira de camping, com uma mulher adulta preparando o equipamento ao fundo. Preserve o produto como elemento reconhecível e evite pose heroica artificial.\n\nFORMATO: 1640x624px, zona segura central, fotografia comercial natural, sem texto miúdo, sem excesso de equipamento e sem aparência gerada por inteligência artificial."
+        "prompt": "ROLE: You are a world-class identity designer for an American premium outdoor accessories brand. Create capa_facebook for SheCurrent Outdoors. The brand serves casual women anglers and beginner campers who value calm preparation, functional comfort and adult confidence. Use deep evergreen #163D3A, warm ivory #F5F2E9 and restrained coral #E57845. Avoid literal fish, mountains, pink clichés, generic badges, gradients, metallic effects, mockups and all extra text. Deliver a distinctive, legible, commercially credible mark with clean vector-like edges and strong small-size recognition. Use an abstract, memorable SC current motif with simple bold forms, 1:1 composition and excellent recognition at 64 pixels."
       }
     ]
   },
   "colecoes": [
-    {"handle": "waterside-essentials", "titulo": "Waterside Essentials", "descricao_html": "<p>Comfort, sun protection and dry organization for relaxed days by the water.</p>"},
-    {"handle": "camp-comfort", "titulo": "Camp Comfort", "descricao_html": "<p>Compact tools that keep an easy weekend camp organized and welcoming.</p>"}
+    {
+      "handle": "waterside-essentials",
+      "titulo": "Waterside Essentials",
+      "descricao_html": "<p>Comfort, sun protection and dry organization for relaxed days by the water.</p>"
+    },
+    {
+      "handle": "camp-comfort",
+      "titulo": "Camp Comfort",
+      "descricao_html": "<p>Compact tools that keep an easy weekend camp organized and welcoming.</p>"
+    }
   ],
   "produtos": [
     {
       "handle": "tidesafe-crossbody",
       "titulo": "TideSafe Waterproof Crossbody",
       "tipo": "Waterproof Bag",
-      "tags": ["Fishing", "Waterproof", "Women"],
+      "tags": [
+        "Fishing",
+        "Waterproof",
+        "Women"
+      ],
       "colecao": "waterside-essentials",
       "preco": "59.00",
       "de": "79.00",
@@ -69,7 +87,11 @@
       "handle": "solshield-fingerless-gloves",
       "titulo": "SolShield Fingerless UPF Gloves",
       "tipo": "Fishing Gloves",
-      "tags": ["Fishing", "Sun Protection", "One Size"],
+      "tags": [
+        "Fishing",
+        "Sun Protection",
+        "One Size"
+      ],
       "colecao": "waterside-essentials",
       "preco": "24.00",
       "de": "32.00",
@@ -90,7 +112,11 @@
       "handle": "coolcurrent-neck-gaiter",
       "titulo": "CoolCurrent Neck Gaiter",
       "tipo": "Neck Gaiter",
-      "tags": ["Fishing", "Cooling", "Sun Protection"],
+      "tags": [
+        "Fishing",
+        "Cooling",
+        "Sun Protection"
+      ],
       "colecao": "waterside-essentials",
       "preco": "19.00",
       "de": "27.00",
@@ -111,7 +137,11 @@
       "handle": "drypocket-phone-pouch",
       "titulo": "DryPocket Phone Pouch",
       "tipo": "Phone Pouch",
-      "tags": ["Waterproof", "Fishing", "Camping"],
+      "tags": [
+        "Waterproof",
+        "Fishing",
+        "Camping"
+      ],
       "colecao": "waterside-essentials",
       "preco": "17.00",
       "de": "24.00",
@@ -132,7 +162,11 @@
       "handle": "campnest-hanging-organizer",
       "titulo": "CampNest Hanging Organizer",
       "tipo": "Camping Organizer",
-      "tags": ["Camping", "Organization", "Compact"],
+      "tags": [
+        "Camping",
+        "Organization",
+        "Compact"
+      ],
       "colecao": "camp-comfort",
       "preco": "39.00",
       "de": "52.00",
@@ -153,14 +187,47 @@
   "imagens_pdp": {
     "fonte": "auditoria_carrossel_concorrentes",
     "concorrentes_auditados": [
-      {"loja": "SideSling", "dominio": "side-sling.com", "n_imagens": 6, "observacao": "Demonstração direta do mecanismo e uso em deslocamento."},
-      {"loja": "FisheWear", "dominio": "fishewear.com", "n_imagens": 9, "observacao": "Mistura estúdio, detalhe e lifestyle com identidade feminina forte."},
-      {"loja": "Miss Mayfly", "dominio": "missmayfly.com", "n_imagens": 7, "observacao": "Explica ajuste e função técnica, com pouca simplificação para iniciante."},
-      {"loja": "Tilda Outdoors", "dominio": "tildaoutdoors.com.au", "n_imagens": 10, "observacao": "Mostra conforto, organização e facilidade em cenas de camping feminino."},
-      {"loja": "ReelGirl", "dominio": "reelgirlclothingcompany.com", "n_imagens": 5, "observacao": "Galeria simples de vestuário, pouca demonstração de dor ou organização."},
-      {"loja": "Free Fly Apparel", "dominio": "freeflyapparel.com", "n_imagens": 12, "observacao": "Padrão premium de material, caimento, movimento e contexto de uso."}
+      {
+        "loja": "SideSling",
+        "dominio": "side-sling.com",
+        "n_imagens": 6,
+        "observacao": "Demonstração direta do mecanismo e uso em deslocamento."
+      },
+      {
+        "loja": "FisheWear",
+        "dominio": "fishewear.com",
+        "n_imagens": 9,
+        "observacao": "Mistura estúdio, detalhe e lifestyle com identidade feminina forte."
+      },
+      {
+        "loja": "Miss Mayfly",
+        "dominio": "missmayfly.com",
+        "n_imagens": 7,
+        "observacao": "Explica ajuste e função técnica, com pouca simplificação para iniciante."
+      },
+      {
+        "loja": "Tilda Outdoors",
+        "dominio": "tildaoutdoors.com.au",
+        "n_imagens": 10,
+        "observacao": "Mostra conforto, organização e facilidade em cenas de camping feminino."
+      },
+      {
+        "loja": "ReelGirl",
+        "dominio": "reelgirlclothingcompany.com",
+        "n_imagens": 5,
+        "observacao": "Galeria simples de vestuário, pouca demonstração de dor ou organização."
+      },
+      {
+        "loja": "Free Fly Apparel",
+        "dominio": "freeflyapparel.com",
+        "n_imagens": 12,
+        "observacao": "Padrão premium de material, caimento, movimento e contexto de uso."
+      }
     ],
-    "faixa_nicho": {"min": 5, "max": 12},
+    "faixa_nicho": {
+      "min": 5,
+      "max": 12
+    },
     "achado": "As marcas fortes mostram lifestyle e material, mas poucas organizam a galeria como uma jornada para a iniciante: problema, mecanismo, uso real, limites honestos e bundle.",
     "sequencia": [
       {
@@ -170,7 +237,7 @@
         "formato": "banner_desktop",
         "descricao": "Mulher preparando uma pescaria tranquila na margem de um lago, com o kit visível e área livre para copy.",
         "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/fishewear-pdp.jpg",
-        "prompt": "CONTEXTO: fotografia comercial para o banner principal de SheCurrent Outdoors, e-commerce americano de acessórios para pescadoras casuais. A imagem deve vender conforto e organização, sem transformar a personagem em atleta profissional.\n\nREFERÊNCIA A ANEXAR: use a captura FisheWear apenas para entender densidade de produto e linguagem feminina. IGNORAR COMPLETAMENTE qualquer pessoa, roupa, logo e texto da referência; ela não define a identidade final.\n\nA PERSONA: mulher americana de 32 a 48 anos, aparência cotidiana, confiante mas não especialista, roupa funcional neutra e expressão concentrada e tranquila. Evite glamour de moda, pose de catálogo e corpo esportivo estereotipado.\n\nA CENA: margem de lago ao amanhecer, plano horizontal aberto, ela organiza uma bolsa impermeável sobre uma cadeira de camping antes de pescar. O terço esquerdo fica limpo, a mulher e o kit ocupam o lado direito, com água calma e vegetação baixa ao fundo.\n\nMUNDO DA MARCA: verde profundo, marfim, sálvia e coral aparecem em tecido, cadeira e pequenos detalhes reais. Luz macia dourada, acabamento premium e acolhedor, sem colorização artificial.\n\nZONA DE TEXTO: reserve o terço esquerdo com contraste calmo para headline, subtítulo e CTA. Nenhum objeto ou membro cruza essa área.\n\nFOTORREALISMO + FORMATO: fotografia editorial de e-commerce, textura natural, mãos corretas, produto legível, sem aparência de IA, sem texto incorporado. Horizontal 16:9, 1920x1080px."
+        "prompt": "ROLE: You are the senior art director for a premium American outdoor e-commerce launch. Produce one original, commercially usable photograph for SheCurrent Outdoors.\n\nOBJECTIVE: Create a conversion-focused campaign banner with a deliberately protected copy-safe area and a calm, credible outdoor setting.\n\nPRODUCT FIDELITY: Use the supplied competitor references only for composition, never for logos, people or products.\n\nCOMPETITOR REFERENCE: Attach the product-folder reference images named modelo-pagina-concorrente and produto-referencia. Use them only to study shot hierarchy, merchandising clarity and functional context. Do not reproduce their people, compositions, logos, packaging, products, copy, colourways or distinctive layouts.\n\nCAST AND WORLD: Feature a 32 to 48 year old American casual angler or beginner camper, competent and relaxed rather than athletic or fashion-editorial. The visual world is deep evergreen #163D3A, warm ivory #F5F2E9, soft sage #E6EBDD and restrained coral #E57845, expressed through real wardrobe and props rather than colour grading.\n\nART DIRECTION: Mulher preparando uma pescaria tranquila na margem de um lago, com o kit visível e área livre para copy. Use natural early-morning or late-afternoon light, true-to-life material texture, realistic scale, clean visual hierarchy and a calm premium retail finish. Preserve a clear subject, uncluttered background and intentional negative space when copy may be added later.\n\nQUALITY BAR: High-end commercial photography, correct anatomy and hands, physically plausible shadows, no artificial skin, no duplicated items, no accidental logos, no generated lettering, no fake badges, no watermarks and no AI artefacts.\n\nDELIVERY: Horizontal 16:9, 1920 x 1080 px."
       },
       {
         "posicao": 0,
@@ -179,7 +246,7 @@
         "formato": "banner_mobile",
         "descricao": "A mesma preparação recomposta na vertical, com espaço de copy na metade inferior.",
         "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/tildaoutdoors-pdp.jpg",
-        "prompt": "CONTEXTO: versão vertical dedicada do banner de SheCurrent Outdoors para celular. Não recorte o desktop; recomponha a cena para leitura rápida em uma tela estreita e preserve a promessa de uma saída simples e confortável.\n\nREFERÊNCIA A ANEXAR: use a captura Tilda Outdoors para entender organização visual de camping. IGNORAR COMPLETAMENTE pessoas, produtos, logos e texto da referência; ela serve só como direção de cena.\n\nA PERSONA: a mesma mulher americana de 32 a 48 anos da foto-âncora do banner desktop. A foto-âncora tem PRIORIDADE MÁXIMA para rosto, cabelo, corpo e roupa da pessoa.\n\nA CENA: câmera na altura do peito, mulher ajoelhada ao lado de uma cadeira, fechando a bolsa impermeável antes de ir para a água. Lago e vegetação ficam na parte superior, enquanto a metade inferior tem área visual simples para headline e CTA.\n\nMUNDO DA MARCA: use verde profundo, sálvia, marfim e coral em objetos reais e discretos. A luz é de manhã cedo, macia, com contraste suficiente para interface mobile.\n\nZONA DE TEXTO: reserve a metade inferior sem mãos, bolsa ou galhos competindo com headline, preço e botão.\n\nFOTORREALISMO + FORMATO: fotografia comercial natural, anatomia correta, sem plástico excessivo, sem texto embutido e sem aspecto de banco de imagem. Vertical 4:5, 1080x1350px."
+        "prompt": "ROLE: You are the senior art director for a premium American outdoor e-commerce launch. Produce one original, commercially usable photograph for SheCurrent Outdoors.\n\nOBJECTIVE: Create a conversion-focused campaign banner with a deliberately protected copy-safe area and a calm, credible outdoor setting.\n\nPRODUCT FIDELITY: Use the supplied competitor references only for composition, never for logos, people or products.\n\nCOMPETITOR REFERENCE: Attach the product-folder reference images named modelo-pagina-concorrente and produto-referencia. Use them only to study shot hierarchy, merchandising clarity and functional context. Do not reproduce their people, compositions, logos, packaging, products, copy, colourways or distinctive layouts.\n\nCAST AND WORLD: Feature a 32 to 48 year old American casual angler or beginner camper, competent and relaxed rather than athletic or fashion-editorial. The visual world is deep evergreen #163D3A, warm ivory #F5F2E9, soft sage #E6EBDD and restrained coral #E57845, expressed through real wardrobe and props rather than colour grading.\n\nART DIRECTION: A mesma preparação recomposta na vertical, com espaço de copy na metade inferior. Use natural early-morning or late-afternoon light, true-to-life material texture, realistic scale, clean visual hierarchy and a calm premium retail finish. Preserve a clear subject, uncluttered background and intentional negative space when copy may be added later.\n\nQUALITY BAR: High-end commercial photography, correct anatomy and hands, physically plausible shadows, no artificial skin, no duplicated items, no accidental logos, no generated lettering, no fake badges, no watermarks and no AI artefacts.\n\nDELIVERY: Vertical 4:5, 1080 x 1350 px."
       },
       {
         "posicao": 1,
@@ -187,8 +254,8 @@
         "produto_handle": "tidesafe-crossbody",
         "status": "nova",
         "descricao": "Foto-âncora da mulher usando a bolsa à beira d'água.",
-        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/side-sling-pdp.jpg",
-        "prompt": "CONTEXTO: foto principal de produto para a TideSafe Waterproof Crossbody, peça central da SheCurrent Outdoors. Ela deve mostrar imediatamente uso mãos-livres, tamanho real e acesso simples perto da água.\n\nREFERÊNCIA A ANEXAR: CENA, captura SideSling para o tipo de movimento; PRODUTO, REFERÊNCIA PENDENTE da bolsa real do fornecedor. IGNORAR COMPLETAMENTE a pessoa e o produto específico da captura SideSling; use apenas postura e contexto.\n\nA MULHER/O AVATAR: americana de 32 a 48 anos, pescadora casual, corpo comum, expressão tranquila. Esta será a foto-âncora e terá PRIORIDADE MÁXIMA para a identidade da pessoa nas cenas seguintes.\n\nA CENA: plano três quartos na margem de um lago, bolsa cruzada na altura do quadril, uma mão abre o compartimento e a outra segura óculos polarizados. Troque qualquer deque de madeira por margem de cascalho e vegetação baixa para não clonar a referência.\n\nMUNDO DA MARCA: roupa verde profundo, bolsa neutra, detalhe coral e luz suave de manhã. O produto deve permanecer o ponto de maior contraste e não pode ter fecho, bolso ou material inventado.\n\nFOTORREALISMO + FORMATO: fotografia editorial de e-commerce, anatomia correta, textura de tecido coerente, sem lettering falso, sem filtros e sem aparência de IA. Quadrada 1:1, 1600x1600px."
+        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/tidesafe-crossbody/modelo-pagina-concorrente.jpg",
+        "prompt": "ROLE: You are the senior art director for a premium American outdoor e-commerce launch. Produce one original, commercially usable photograph for SheCurrent Outdoors.\n\nOBJECTIVE: Create the anchor lifestyle image that defines the recurring model identity and immediately explains the product benefit in one frame.\n\nPRODUCT FIDELITY: Attach the real supplier product photos for TideSafe Waterproof Crossbody. Product geometry, closure placement, material texture, colors, seams, hardware and scale must match those photos exactly.\n\nCOMPETITOR REFERENCE: Attach the product-folder reference images named modelo-pagina-concorrente and produto-referencia. Use them only to study shot hierarchy, merchandising clarity and functional context. Do not reproduce their people, compositions, logos, packaging, products, copy, colourways or distinctive layouts.\n\nCAST AND WORLD: Feature a 32 to 48 year old American casual angler or beginner camper, competent and relaxed rather than athletic or fashion-editorial. The visual world is deep evergreen #163D3A, warm ivory #F5F2E9, soft sage #E6EBDD and restrained coral #E57845, expressed through real wardrobe and props rather than colour grading.\n\nART DIRECTION: Foto-âncora da mulher usando a bolsa à beira d'água. Use natural early-morning or late-afternoon light, true-to-life material texture, realistic scale, clean visual hierarchy and a calm premium retail finish. Preserve a clear subject, uncluttered background and intentional negative space when copy may be added later.\n\nQUALITY BAR: High-end commercial photography, correct anatomy and hands, physically plausible shadows, no artificial skin, no duplicated items, no accidental logos, no generated lettering, no fake badges, no watermarks and no AI artefacts.\n\nDELIVERY: Square 1:1, 1600 x 1600 px."
       },
       {
         "posicao": 2,
@@ -196,8 +263,8 @@
         "produto_handle": "tidesafe-crossbody",
         "status": "nova",
         "descricao": "Packshot frontal limpo com compartimentos visíveis.",
-        "referencia_cena_arquivo": null,
-        "prompt": "CONTEXTO: packshot frontal da TideSafe Waterproof Crossbody para explicar o produto sem distração. A imagem deve ser útil para compra, com proporções honestas e estrutura nítida.\n\nREFERÊNCIA A ANEXAR: PRODUTO, REFERÊNCIA PENDENTE do item real do fornecedor; CENA, nenhuma. Preserve exatamente formato, costuras, fechos, puxadores e número de compartimentos do produto anexado.\n\nA MULHER/O AVATAR: não há pessoa nesta imagem. Use apenas o produto, sem mãos, manequim ou objetos decorativos que escondam detalhes.\n\nA CENA: bolsa centralizada em fundo marfim levemente quente, alça organizada em curva natural, sombra curta e suave. Abra apenas o bolso que existe na referência real e não invente interior.\n\nMUNDO DA MARCA: marfim #F5F2E9 no fundo e um pequeno cartão coral fora do produto para escala visual. Acabamento limpo, natural e premium.\n\nFOTORREALISMO + FORMATO: fotografia de catálogo, alta nitidez, bordas corretas, sem texto, sem logo inventado e sem reflexo plástico. Quadrada 1:1, 1600x1600px."
+        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/tidesafe-crossbody/modelo-pagina-concorrente.jpg",
+        "prompt": "ROLE: You are the senior art director for a premium American outdoor e-commerce launch. Produce one original, commercially usable photograph for SheCurrent Outdoors.\n\nOBJECTIVE: Create a precise product catalogue image with honest proportions and no decorative object hiding purchase-critical details.\n\nPRODUCT FIDELITY: Attach the real supplier product photos for TideSafe Waterproof Crossbody. Product geometry, closure placement, material texture, colors, seams, hardware and scale must match those photos exactly.\n\nCOMPETITOR REFERENCE: Attach the product-folder reference images named modelo-pagina-concorrente and produto-referencia. Use them only to study shot hierarchy, merchandising clarity and functional context. Do not reproduce their people, compositions, logos, packaging, products, copy, colourways or distinctive layouts.\n\nCAST AND WORLD: Feature a 32 to 48 year old American casual angler or beginner camper, competent and relaxed rather than athletic or fashion-editorial. The visual world is deep evergreen #163D3A, warm ivory #F5F2E9, soft sage #E6EBDD and restrained coral #E57845, expressed through real wardrobe and props rather than colour grading.\n\nART DIRECTION: Packshot frontal limpo com compartimentos visíveis. Use natural early-morning or late-afternoon light, true-to-life material texture, realistic scale, clean visual hierarchy and a calm premium retail finish. Preserve a clear subject, uncluttered background and intentional negative space when copy may be added later.\n\nQUALITY BAR: High-end commercial photography, correct anatomy and hands, physically plausible shadows, no artificial skin, no duplicated items, no accidental logos, no generated lettering, no fake badges, no watermarks and no AI artefacts.\n\nDELIVERY: Square 1:1, 1600 x 1600 px."
       },
       {
         "posicao": 3,
@@ -205,8 +272,8 @@
         "produto_handle": "tidesafe-crossbody",
         "status": "nova",
         "descricao": "Macro do fechamento e da proteção contra respingo.",
-        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/missmayfly-pdp.jpg",
-        "prompt": "CONTEXTO: imagem macro de mecanismo para a TideSafe Waterproof Crossbody. O objetivo é mostrar por que a bolsa organiza e protege contra respingos sem prometer submersão total.\n\nREFERÊNCIA A ANEXAR: CENA, captura Miss Mayfly para o grau de detalhe técnico; PRODUTO, REFERÊNCIA PENDENTE da bolsa real. IGNORAR COMPLETAMENTE pessoa, roupa e equipamento da referência; ela orienta só enquadramento fechado e clareza.\n\nA MULHER/O AVATAR: apenas uma mão da foto-âncora aparece acionando o fecho. A foto-âncora tem PRIORIDADE MÁXIMA para tom de pele, unhas e proporção da mão.\n\nA CENA: macro lateral do fecho e costura, com gotas pequenas na superfície e fundo de lago totalmente desfocado. Não mergulhe o produto e não crie selos de certificação.\n\nMUNDO DA MARCA: verde profundo e sálvia no fundo natural, coral em detalhe de unha ou cordão. Luz lateral macia destaca textura e construção.\n\nFOTORREALISMO + FORMATO: macro comercial, foco preciso, mãos corretas, gotas naturais, sem texto, sem material inventado. Quadrada 1:1, 1600x1600px."
+        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/tidesafe-crossbody/modelo-pagina-concorrente.jpg",
+        "prompt": "ROLE: You are the senior art director for a premium American outdoor e-commerce launch. Produce one original, commercially usable photograph for SheCurrent Outdoors.\n\nOBJECTIVE: Create a technical macro that makes the functional mechanism legible while avoiding unsupported performance claims.\n\nPRODUCT FIDELITY: Attach the real supplier product photos for TideSafe Waterproof Crossbody. Product geometry, closure placement, material texture, colors, seams, hardware and scale must match those photos exactly.\n\nCOMPETITOR REFERENCE: Attach the product-folder reference images named modelo-pagina-concorrente and produto-referencia. Use them only to study shot hierarchy, merchandising clarity and functional context. Do not reproduce their people, compositions, logos, packaging, products, copy, colourways or distinctive layouts.\n\nCAST AND WORLD: Feature a 32 to 48 year old American casual angler or beginner camper, competent and relaxed rather than athletic or fashion-editorial. The visual world is deep evergreen #163D3A, warm ivory #F5F2E9, soft sage #E6EBDD and restrained coral #E57845, expressed through real wardrobe and props rather than colour grading.\n\nART DIRECTION: Macro do fechamento e da proteção contra respingo. Use natural early-morning or late-afternoon light, true-to-life material texture, realistic scale, clean visual hierarchy and a calm premium retail finish. Preserve a clear subject, uncluttered background and intentional negative space when copy may be added later.\n\nQUALITY BAR: High-end commercial photography, correct anatomy and hands, physically plausible shadows, no artificial skin, no duplicated items, no accidental logos, no generated lettering, no fake badges, no watermarks and no AI artefacts.\n\nDELIVERY: Square 1:1, 1600 x 1600 px."
       },
       {
         "posicao": 4,
@@ -214,8 +281,8 @@
         "produto_handle": "solshield-fingerless-gloves",
         "status": "nova",
         "descricao": "Luvas em uso ao amarrar uma linha, mostrando os dedos livres.",
-        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/fishewear-pdp.jpg",
-        "prompt": "CONTEXTO: foto de benefício para SolShield Fingerless UPF Gloves. A imagem precisa provar destreza, leveza e cobertura do dorso da mão durante uma tarefa real de pesca.\n\nREFERÊNCIA A ANEXAR: CENA, captura FisheWear para linguagem feminina outdoor; PRODUTO, REFERÊNCIA PENDENTE das luvas reais. IGNORAR COMPLETAMENTE a modelo, a roupa e qualquer estampa da referência; só a naturalidade da atividade importa.\n\nA MULHER/O AVATAR: use as mãos da mesma mulher da foto-âncora, que têm PRIORIDADE MÁXIMA sobre qualquer pessoa presente na referência de produto. Unhas curtas, sem manicure de moda e gesto competente mas casual.\n\nA CENA: close nas duas mãos amarrando uma linha simples, com pontas dos dedos livres e dorso coberto. Fundo de água e vegetação desfocado, sem peixe, anzol ameaçador ou equipamento excessivo.\n\nMUNDO DA MARCA: luva em sálvia ou neutro, roupa verde profundo e detalhe coral discreto. Luz natural difusa e textura respirável claramente visível.\n\nFOTORREALISMO + FORMATO: fotografia comercial de ação, dedos anatomicamente corretos, produto fiel, sem texto ou selos. Quadrada 1:1, 1600x1600px."
+        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/solshield-fingerless-gloves/modelo-pagina-concorrente.jpg",
+        "prompt": "ROLE: You are the senior art director for a premium American outdoor e-commerce launch. Produce one original, commercially usable photograph for SheCurrent Outdoors.\n\nOBJECTIVE: Create a close lifestyle demonstration where the functional task is visually understandable before any copy is read.\n\nPRODUCT FIDELITY: Attach the real supplier product photos for SolShield Fingerless UPF Gloves. Product geometry, closure placement, material texture, colors, seams, hardware and scale must match those photos exactly.\n\nCOMPETITOR REFERENCE: Attach the product-folder reference images named modelo-pagina-concorrente and produto-referencia. Use them only to study shot hierarchy, merchandising clarity and functional context. Do not reproduce their people, compositions, logos, packaging, products, copy, colourways or distinctive layouts.\n\nCAST AND WORLD: Feature a 32 to 48 year old American casual angler or beginner camper, competent and relaxed rather than athletic or fashion-editorial. The visual world is deep evergreen #163D3A, warm ivory #F5F2E9, soft sage #E6EBDD and restrained coral #E57845, expressed through real wardrobe and props rather than colour grading.\n\nART DIRECTION: Luvas em uso ao amarrar uma linha, mostrando os dedos livres. Use natural early-morning or late-afternoon light, true-to-life material texture, realistic scale, clean visual hierarchy and a calm premium retail finish. Preserve a clear subject, uncluttered background and intentional negative space when copy may be added later.\n\nQUALITY BAR: High-end commercial photography, correct anatomy and hands, physically plausible shadows, no artificial skin, no duplicated items, no accidental logos, no generated lettering, no fake badges, no watermarks and no AI artefacts.\n\nDELIVERY: Square 1:1, 1600 x 1600 px."
       },
       {
         "posicao": 5,
@@ -223,8 +290,8 @@
         "produto_handle": "coolcurrent-neck-gaiter",
         "status": "nova",
         "descricao": "Gaiter sendo ajustado sob sol forte, sem esconder totalmente o rosto.",
-        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/freefly-pdp.jpg",
-        "prompt": "CONTEXTO: foto de uso para CoolCurrent Neck Gaiter em uma manhã clara de pesca. O objetivo é mostrar cobertura ajustável, conforto e leveza, sem criar promessa médica.\n\nREFERÊNCIA A ANEXAR: CENA, captura Free Fly para movimento e luz outdoor; PRODUTO, REFERÊNCIA PENDENTE do gaiter real. IGNORAR COMPLETAMENTE a pessoa e a roupa da referência; elas não definem a identidade final.\n\nA MULHER/O AVATAR: a mesma mulher da foto-âncora, com PRIORIDADE MÁXIMA para rosto, cabelo e corpo. Ela parece confortável, não dramática, e usa o gaiter abaixo dos olhos enquanto o ajusta.\n\nA CENA: plano de busto perto da água, chapéu simples, uma mão puxando o tecido e vento leve. Troque qualquer paisagem de montanha por margem baixa de lago e um barco pequeno desfocado.\n\nMUNDO DA MARCA: gaiter marfim com detalhe sálvia, camisa verde profundo e ponto coral discreto. Sol lateral controlado, sombras suaves e paleta natural.\n\nFOTORREALISMO + FORMATO: fotografia editorial, tecido fiel, mãos e rosto corretos, sem texto, sem proteção solar quantificada na imagem. Vertical 4:5, 1600x2000px."
+        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/coolcurrent-neck-gaiter/modelo-pagina-concorrente.jpg",
+        "prompt": "ROLE: You are the senior art director for a premium American outdoor e-commerce launch. Produce one original, commercially usable photograph for SheCurrent Outdoors.\n\nOBJECTIVE: Create an editorial outdoor lifestyle image that communicates lightweight, adjustable coverage without medical or quantified claims.\n\nPRODUCT FIDELITY: Attach the real supplier product photos for CoolCurrent Neck Gaiter. Product geometry, closure placement, material texture, colors, seams, hardware and scale must match those photos exactly.\n\nCOMPETITOR REFERENCE: Attach the product-folder reference images named modelo-pagina-concorrente and produto-referencia. Use them only to study shot hierarchy, merchandising clarity and functional context. Do not reproduce their people, compositions, logos, packaging, products, copy, colourways or distinctive layouts.\n\nCAST AND WORLD: Feature a 32 to 48 year old American casual angler or beginner camper, competent and relaxed rather than athletic or fashion-editorial. The visual world is deep evergreen #163D3A, warm ivory #F5F2E9, soft sage #E6EBDD and restrained coral #E57845, expressed through real wardrobe and props rather than colour grading.\n\nART DIRECTION: Gaiter sendo ajustado sob sol forte, sem esconder totalmente o rosto. Use natural early-morning or late-afternoon light, true-to-life material texture, realistic scale, clean visual hierarchy and a calm premium retail finish. Preserve a clear subject, uncluttered background and intentional negative space when copy may be added later.\n\nQUALITY BAR: High-end commercial photography, correct anatomy and hands, physically plausible shadows, no artificial skin, no duplicated items, no accidental logos, no generated lettering, no fake badges, no watermarks and no AI artefacts.\n\nDELIVERY: Square 1:1, 1600 x 1600 px."
       },
       {
         "posicao": 6,
@@ -232,8 +299,8 @@
         "produto_handle": "drypocket-phone-pouch",
         "status": "nova",
         "descricao": "Telefone visível dentro do pouch perto de mãos molhadas.",
-        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/side-sling-pdp.jpg",
-        "prompt": "CONTEXTO: imagem demonstrativa para DryPocket Phone Pouch, acessório de proteção contra respingo para pesca e camping. A cena deve explicar o uso e também o limite honesto de não prometer mergulho.\n\nREFERÊNCIA A ANEXAR: CENA, captura SideSling para dinâmica de uso; PRODUTO, REFERÊNCIA PENDENTE do pouch real. IGNORAR COMPLETAMENTE produto, pessoa e fundo da referência original, usando apenas a ideia de ação simples.\n\nA MULHER/O AVATAR: mãos da foto-âncora seguram o pouch com naturalidade. A foto-âncora tem PRIORIDADE MÁXIMA para anatomia, tom de pele e identidade.\n\nA CENA: telefone visível dentro do pouch, pequenas gotas na superfície, uma mão molhada segurando o cordão acima de uma mesa de camping. Nada submerso, nenhuma onda e nenhum selo IP inventado.\n\nMUNDO DA MARCA: mesa marfim, toalha sálvia, mosquetão coral e fundo verde profundo desfocado. Luz diurna macia, sem reflexo que esconda a tela.\n\nFOTORREALISMO + FORMATO: fotografia demonstrativa de e-commerce, mãos corretas, produto fiel, texto da tela ilegível por privacidade e sem afirmação técnica falsa. Quadrada 1:1, 1600x1600px."
+        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/drypocket-phone-pouch/modelo-pagina-concorrente.jpg",
+        "prompt": "ROLE: You are the senior art director for a premium American outdoor e-commerce launch. Produce one original, commercially usable photograph for SheCurrent Outdoors.\n\nOBJECTIVE: Create an honest splash-resistance use demonstration. Do not show submersion, IP labels, certifications or claims not proven by the supplier.\n\nPRODUCT FIDELITY: Attach the real supplier product photos for DryPocket Phone Pouch. Product geometry, closure placement, material texture, colors, seams, hardware and scale must match those photos exactly.\n\nCOMPETITOR REFERENCE: Attach the product-folder reference images named modelo-pagina-concorrente and produto-referencia. Use them only to study shot hierarchy, merchandising clarity and functional context. Do not reproduce their people, compositions, logos, packaging, products, copy, colourways or distinctive layouts.\n\nCAST AND WORLD: Feature a 32 to 48 year old American casual angler or beginner camper, competent and relaxed rather than athletic or fashion-editorial. The visual world is deep evergreen #163D3A, warm ivory #F5F2E9, soft sage #E6EBDD and restrained coral #E57845, expressed through real wardrobe and props rather than colour grading.\n\nART DIRECTION: Telefone visível dentro do pouch perto de mãos molhadas. Use natural early-morning or late-afternoon light, true-to-life material texture, realistic scale, clean visual hierarchy and a calm premium retail finish. Preserve a clear subject, uncluttered background and intentional negative space when copy may be added later.\n\nQUALITY BAR: High-end commercial photography, correct anatomy and hands, physically plausible shadows, no artificial skin, no duplicated items, no accidental logos, no generated lettering, no fake badges, no watermarks and no AI artefacts.\n\nDELIVERY: Square 1:1, 1600 x 1600 px."
       },
       {
         "posicao": 7,
@@ -241,8 +308,8 @@
         "produto_handle": "campnest-hanging-organizer",
         "status": "nova",
         "descricao": "Organizador pendurado dentro da entrada da barraca, com itens visíveis.",
-        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/tildaoutdoors-pdp.jpg",
-        "prompt": "CONTEXTO: foto principal para CampNest Hanging Organizer. Ela deve comunicar organização fácil para uma campista iniciante, sem transformar a cena em expedição técnica.\n\nREFERÊNCIA A ANEXAR: CENA, captura Tilda Outdoors para linguagem de camping feminino; PRODUTO, REFERÊNCIA PENDENTE do organizador real. IGNORAR COMPLETAMENTE pessoa, produto, logo e arquitetura da referência; ela serve somente para a sensação de conforto.\n\nA MULHER/O AVATAR: a mesma mulher da foto-âncora aparece ao fundo sentada, com identidade preservada por PRIORIDADE MÁXIMA. Não posar para a câmera e não usar roupa de aventura extrema.\n\nA CENA: organizador pendurado no arco interno da entrada de uma barraca, bolsos visíveis com lanterna, chaves, lenço e itens pequenos. Troque a arquitetura da referência por barraca de teto arredondado, abertura frontal ampla e piso cinza liso.\n\nMUNDO DA MARCA: organizador sálvia, barraca marfim, manta verde profundo e pequenos detalhes coral. Luz de fim de tarde acolhedora, sem excesso de objetos.\n\nFOTORREALISMO + FORMATO: fotografia comercial, tecido e bolsos fiéis ao produto, sem texto, sem itens flutuantes e sem aparência de IA. Vertical 4:5, 1600x2000px."
+        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/campnest-hanging-organizer/modelo-pagina-concorrente.jpg",
+        "prompt": "ROLE: You are the senior art director for a premium American outdoor e-commerce launch. Produce one original, commercially usable photograph for SheCurrent Outdoors.\n\nOBJECTIVE: Create an approachable camping organization scene that feels practical for a beginner, never expeditionary or survivalist.\n\nPRODUCT FIDELITY: Attach the real supplier product photos for CampNest Hanging Organizer. Product geometry, closure placement, material texture, colors, seams, hardware and scale must match those photos exactly.\n\nCOMPETITOR REFERENCE: Attach the product-folder reference images named modelo-pagina-concorrente and produto-referencia. Use them only to study shot hierarchy, merchandising clarity and functional context. Do not reproduce their people, compositions, logos, packaging, products, copy, colourways or distinctive layouts.\n\nCAST AND WORLD: Feature a 32 to 48 year old American casual angler or beginner camper, competent and relaxed rather than athletic or fashion-editorial. The visual world is deep evergreen #163D3A, warm ivory #F5F2E9, soft sage #E6EBDD and restrained coral #E57845, expressed through real wardrobe and props rather than colour grading.\n\nART DIRECTION: Organizador pendurado dentro da entrada da barraca, com itens visíveis. Use natural early-morning or late-afternoon light, true-to-life material texture, realistic scale, clean visual hierarchy and a calm premium retail finish. Preserve a clear subject, uncluttered background and intentional negative space when copy may be added later.\n\nQUALITY BAR: High-end commercial photography, correct anatomy and hands, physically plausible shadows, no artificial skin, no duplicated items, no accidental logos, no generated lettering, no fake badges, no watermarks and no AI artefacts.\n\nDELIVERY: Square 1:1, 1600 x 1600 px."
       },
       {
         "posicao": 8,
@@ -250,8 +317,8 @@
         "produto_handle": "tidesafe-crossbody",
         "status": "nova",
         "descricao": "Composição do Waterside Starter Kit com quatro itens e função de cada um.",
-        "referencia_cena_arquivo": null,
-        "prompt": "CONTEXTO: composição limpa de catálogo para apresentar o Waterside Starter Kit da SheCurrent Outdoors. O kit reúne bolsa TideSafe, luvas SolShield, gaiter CoolCurrent e pouch DryPocket em uma única compra.\n\nREFERÊNCIA A ANEXAR: PRODUTO, anexar as referências reais dos quatro itens; CENA, nenhuma. Cada item deve manter forma, material, cor e escala da referência real, sem inventar acessórios.\n\nA MULHER/O AVATAR: não há pessoa. Os produtos ficam organizados como um flat lay comercial, com distância suficiente para reconhecer cada um.\n\nA CENA: fundo marfim, bolsa no centro, luvas à esquerda, gaiter dobrado no topo e pouch à direita. Deixe quatro zonas livres para rótulos adicionados depois no design, mas não gere texto dentro da imagem.\n\nMUNDO DA MARCA: use verde profundo, sálvia, marfim e coral em pequenos props funcionais, como cordão e mosquetão. Nada de flores, glitter ou decoração feminina clichê.\n\nFOTORREALISMO + FORMATO: fotografia de catálogo superior, sombras consistentes, escala coerente, sem texto, sem logo falso e sem duplicar peças. Quadrada 1:1, 1600x1600px."
+        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/tidesafe-crossbody/modelo-pagina-concorrente.jpg",
+        "prompt": "ROLE: You are the senior art director for a premium American outdoor e-commerce launch. Produce one original, commercially usable photograph for SheCurrent Outdoors.\n\nOBJECTIVE: Create a clean modular flat lay with ample negative space reserved for later designer-added labels. Generate no text inside the image.\n\nPRODUCT FIDELITY: Attach the real supplier product photos for TideSafe Waterproof Crossbody. Product geometry, closure placement, material texture, colors, seams, hardware and scale must match those photos exactly.\n\nCOMPETITOR REFERENCE: Attach the product-folder reference images named modelo-pagina-concorrente and produto-referencia. Use them only to study shot hierarchy, merchandising clarity and functional context. Do not reproduce their people, compositions, logos, packaging, products, copy, colourways or distinctive layouts.\n\nCAST AND WORLD: Feature a 32 to 48 year old American casual angler or beginner camper, competent and relaxed rather than athletic or fashion-editorial. The visual world is deep evergreen #163D3A, warm ivory #F5F2E9, soft sage #E6EBDD and restrained coral #E57845, expressed through real wardrobe and props rather than colour grading.\n\nART DIRECTION: Composição do Waterside Starter Kit com quatro itens e função de cada um. Use natural early-morning or late-afternoon light, true-to-life material texture, realistic scale, clean visual hierarchy and a calm premium retail finish. Preserve a clear subject, uncluttered background and intentional negative space when copy may be added later.\n\nQUALITY BAR: High-end commercial photography, correct anatomy and hands, physically plausible shadows, no artificial skin, no duplicated items, no accidental logos, no generated lettering, no fake badges, no watermarks and no AI artefacts.\n\nDELIVERY: Square 1:1, 1600 x 1600 px."
       },
       {
         "posicao": 9,
@@ -259,8 +326,8 @@
         "produto_handle": "tidesafe-crossbody",
         "status": "nova",
         "descricao": "Cliente real voltando ao carro com a bolsa, sensação de saída concluída.",
-        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/reelgirl-pdp.jpg",
-        "prompt": "CONTEXTO: imagem orgânica de review para TideSafe Waterproof Crossbody. Ela deve parecer foto enviada por cliente após uma pescaria casual, mantendo o produto reconhecível sem produção excessiva.\n\nREFERÊNCIA A ANEXAR: CENA, captura ReelGirl apenas para espontaneidade; PRODUTO, REFERÊNCIA PENDENTE da bolsa real; IDENTIDADE, foto-âncora da mulher. A foto-âncora tem PRIORIDADE MÁXIMA e qualquer pessoa nas outras referências deve ser IGNORADA COMPLETAMENTE.\n\nA MULHER/O AVATAR: mesma mulher de 32 a 48 anos, cabelo um pouco desalinhado pelo vento, sorriso discreto e postura relaxada. Roupa funcional comum, sem maquiagem editorial.\n\nA CENA: fim da manhã perto do porta-malas aberto, bolsa cruzada e uma vara já guardada ao fundo. Troque qualquer fundo de praia por estacionamento de cascalho junto a lago arborizado.\n\nMUNDO DA MARCA: cores reais e levemente menos polidas que uma campanha, com verde, marfim e coral discretos. Luz natural e enquadramento de celular bem composto, não perfeito.\n\nFOTORREALISMO + FORMATO: foto orgânica premium, anatomia correta, produto fiel, sem texto, sem logotipo inventado e sem filtro forte. Vertical 4:5, 1600x2000px."
+        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/tidesafe-crossbody/modelo-pagina-concorrente.jpg",
+        "prompt": "ROLE: You are the senior art director for a premium American outdoor e-commerce launch. Produce one original, commercially usable photograph for SheCurrent Outdoors.\n\nOBJECTIVE: Create a credible customer-style image with controlled imperfection, recognisable product scale and no fake testimonial text.\n\nPRODUCT FIDELITY: Attach the real supplier product photos for TideSafe Waterproof Crossbody. Product geometry, closure placement, material texture, colors, seams, hardware and scale must match those photos exactly.\n\nCOMPETITOR REFERENCE: Attach the product-folder reference images named modelo-pagina-concorrente and produto-referencia. Use them only to study shot hierarchy, merchandising clarity and functional context. Do not reproduce their people, compositions, logos, packaging, products, copy, colourways or distinctive layouts.\n\nCAST AND WORLD: Feature a 32 to 48 year old American casual angler or beginner camper, competent and relaxed rather than athletic or fashion-editorial. The visual world is deep evergreen #163D3A, warm ivory #F5F2E9, soft sage #E6EBDD and restrained coral #E57845, expressed through real wardrobe and props rather than colour grading.\n\nART DIRECTION: Cliente real voltando ao carro com a bolsa, sensação de saída concluída. Use natural early-morning or late-afternoon light, true-to-life material texture, realistic scale, clean visual hierarchy and a calm premium retail finish. Preserve a clear subject, uncluttered background and intentional negative space when copy may be added later.\n\nQUALITY BAR: High-end commercial photography, correct anatomy and hands, physically plausible shadows, no artificial skin, no duplicated items, no accidental logos, no generated lettering, no fake badges, no watermarks and no AI artefacts.\n\nDELIVERY: Square 1:1, 1600 x 1600 px."
       },
       {
         "posicao": 10,
@@ -268,8 +335,8 @@
         "produto_handle": "solshield-fingerless-gloves",
         "status": "nova",
         "descricao": "Review mostrando as luvas e um nó concluído, em linguagem de celular.",
-        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/missmayfly-pdp.jpg",
-        "prompt": "CONTEXTO: foto orgânica de review para SolShield Fingerless UPF Gloves. A imagem precisa reforçar destreza e conforto depois do uso, sem prometer proteção clínica ou mostrar captura de peixe.\n\nREFERÊNCIA A ANEXAR: CENA, captura Miss Mayfly para clareza técnica; PRODUTO, REFERÊNCIA PENDENTE das luvas reais; IDENTIDADE, foto-âncora. A foto-âncora tem PRIORIDADE MÁXIMA e a pessoa de qualquer referência de produto deve ser IGNORADA COMPLETAMENTE.\n\nA MULHER/O AVATAR: mãos da mesma cliente, unhas curtas e sinais normais de uso. Nada de mãos perfeitas de joalheria ou pose de catálogo.\n\nA CENA: fotografia de celular apontada para as mãos, luvas vestidas e linha já amarrada sobre um banco simples. Fundo de água desfocado e um pano pequeno ao lado para sugerir uso real.\n\nMUNDO DA MARCA: luvas sálvia, manga verde profundo e detalhe coral discreto. Exposição natural, pequena imperfeição de enquadramento e cores consistentes.\n\nFOTORREALISMO + FORMATO: foto orgânica, dedos corretos, produto fiel, sem texto, sem selo UPF gerado e sem peixe em sofrimento. Quadrada 1:1, 1600x1600px."
+        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/solshield-fingerless-gloves/modelo-pagina-concorrente.jpg",
+        "prompt": "ROLE: You are the senior art director for a premium American outdoor e-commerce launch. Produce one original, commercially usable photograph for SheCurrent Outdoors.\n\nOBJECTIVE: Create a believable close customer-detail image, with accurate hands, product fidelity and relaxed documentary framing.\n\nPRODUCT FIDELITY: Attach the real supplier product photos for SolShield Fingerless UPF Gloves. Product geometry, closure placement, material texture, colors, seams, hardware and scale must match those photos exactly.\n\nCOMPETITOR REFERENCE: Attach the product-folder reference images named modelo-pagina-concorrente and produto-referencia. Use them only to study shot hierarchy, merchandising clarity and functional context. Do not reproduce their people, compositions, logos, packaging, products, copy, colourways or distinctive layouts.\n\nCAST AND WORLD: Feature a 32 to 48 year old American casual angler or beginner camper, competent and relaxed rather than athletic or fashion-editorial. The visual world is deep evergreen #163D3A, warm ivory #F5F2E9, soft sage #E6EBDD and restrained coral #E57845, expressed through real wardrobe and props rather than colour grading.\n\nART DIRECTION: Review mostrando as luvas e um nó concluído, em linguagem de celular. Use natural early-morning or late-afternoon light, true-to-life material texture, realistic scale, clean visual hierarchy and a calm premium retail finish. Preserve a clear subject, uncluttered background and intentional negative space when copy may be added later.\n\nQUALITY BAR: High-end commercial photography, correct anatomy and hands, physically plausible shadows, no artificial skin, no duplicated items, no accidental logos, no generated lettering, no fake badges, no watermarks and no AI artefacts.\n\nDELIVERY: Square 1:1, 1600 x 1600 px."
       },
       {
         "posicao": 11,
@@ -277,28 +344,81 @@
         "produto_handle": "campnest-hanging-organizer",
         "status": "nova",
         "descricao": "Review noturno mostrando o organizador iluminado e o ganho de ordem.",
-        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/castingqueens-pdp.jpg",
-        "prompt": "CONTEXTO: foto orgânica de review para CampNest Hanging Organizer em um acampamento de fim de semana. A cena deve mostrar o benefício de encontrar itens pequenos depois de escurecer.\n\nREFERÊNCIA A ANEXAR: CENA, captura Casting Queens só para sensação comunitária e casual; PRODUTO, REFERÊNCIA PENDENTE do organizador real; IDENTIDADE, foto-âncora. IGNORAR COMPLETAMENTE pessoa, logo e produto da captura concorrente.\n\nA MULHER/O AVATAR: a mesma mulher aparece parcialmente ao lado da barraca, preservada pela foto-âncora com PRIORIDADE MÁXIMA. Ela está sentada e alcança uma lanterna no bolso do organizador.\n\nA CENA: interior da entrada da barraca ao anoitecer, luz quente de lanterninha, organizador visível e poucos itens bem separados. A arquitetura deve ser barraca arredondada com teto liso, diferente de qualquer referência.\n\nMUNDO DA MARCA: sálvia e marfim dominam, com verde profundo na manta e coral em um cordão. O clima é seguro e acolhedor, sem sugerir que o produto substitui práticas reais de segurança.\n\nFOTORREALISMO + FORMATO: foto de celular bem exposta, produto fiel, mãos corretas, sem texto, sem itens duplicados e sem aparência de IA. Vertical 4:5, 1600x2000px."
+        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/campnest-hanging-organizer/modelo-pagina-concorrente.jpg",
+        "prompt": "ROLE: You are the senior art director for a premium American outdoor e-commerce launch. Produce one original, commercially usable photograph for SheCurrent Outdoors.\n\nOBJECTIVE: Create a warm, believable dusk camping scene that shows order and access without implying safety protection.\n\nPRODUCT FIDELITY: Attach the real supplier product photos for CampNest Hanging Organizer. Product geometry, closure placement, material texture, colors, seams, hardware and scale must match those photos exactly.\n\nCOMPETITOR REFERENCE: Attach the product-folder reference images named modelo-pagina-concorrente and produto-referencia. Use them only to study shot hierarchy, merchandising clarity and functional context. Do not reproduce their people, compositions, logos, packaging, products, copy, colourways or distinctive layouts.\n\nCAST AND WORLD: Feature a 32 to 48 year old American casual angler or beginner camper, competent and relaxed rather than athletic or fashion-editorial. The visual world is deep evergreen #163D3A, warm ivory #F5F2E9, soft sage #E6EBDD and restrained coral #E57845, expressed through real wardrobe and props rather than colour grading.\n\nART DIRECTION: Review noturno mostrando o organizador iluminado e o ganho de ordem. Use natural early-morning or late-afternoon light, true-to-life material texture, realistic scale, clean visual hierarchy and a calm premium retail finish. Preserve a clear subject, uncluttered background and intentional negative space when copy may be added later.\n\nQUALITY BAR: High-end commercial photography, correct anatomy and hands, physically plausible shadows, no artificial skin, no duplicated items, no accidental logos, no generated lettering, no fake badges, no watermarks and no AI artefacts.\n\nDELIVERY: Square 1:1, 1600 x 1600 px."
       }
     ]
   },
   "addons": [
-    {"handle": "solshield-fingerless-gloves", "titulo": "SolShield Fingerless UPF Gloves", "preco": "24.00", "de": "32.00", "sku": "SC-SG-02"},
-    {"handle": "coolcurrent-neck-gaiter", "titulo": "CoolCurrent Neck Gaiter", "preco": "19.00", "de": "27.00", "sku": "SC-CG-03"},
-    {"handle": "drypocket-phone-pouch", "titulo": "DryPocket Phone Pouch", "preco": "17.00", "de": "24.00", "sku": "SC-DP-04"}
+    {
+      "handle": "solshield-fingerless-gloves",
+      "titulo": "SolShield Fingerless UPF Gloves",
+      "preco": "24.00",
+      "de": "32.00",
+      "sku": "SC-SG-02"
+    },
+    {
+      "handle": "coolcurrent-neck-gaiter",
+      "titulo": "CoolCurrent Neck Gaiter",
+      "preco": "19.00",
+      "de": "27.00",
+      "sku": "SC-CG-03"
+    },
+    {
+      "handle": "drypocket-phone-pouch",
+      "titulo": "DryPocket Phone Pouch",
+      "preco": "17.00",
+      "de": "24.00",
+      "sku": "SC-DP-04"
+    }
   ],
-  "bump_pdp": {"handle": "drypocket-phone-pouch"},
+  "bump_pdp": {
+    "handle": "drypocket-phone-pouch"
+  },
   "paginas": [
-    {"handle": "contact", "titulo": "Contact", "corpo_html": "<p>Questions about SheCurrent Outdoors? Contact our US support team at support@example.com. Replace this placeholder before launch.</p>"},
-    {"handle": "shipping-policy", "titulo": "Shipping Policy", "corpo_html": "<p>Orders are processed in 1 to 3 business days. Standard US delivery is estimated at 7 to 12 business days. Confirm supplier service levels before launch.</p>"},
-    {"handle": "refund-policy", "titulo": "Refund Policy", "corpo_html": "<p>We accept eligible returns within 30 days of delivery. Items must be unused and returned in original condition. Final terms must be legally reviewed before launch.</p>"},
-    {"handle": "privacy-policy", "titulo": "Privacy Policy", "corpo_html": "<p>This professional placeholder describes data collection, checkout processing and marketing consent for a US Shopify store. Replace it with the Shopify-generated policy and legal review.</p>"},
-    {"handle": "terms-of-service", "titulo": "Terms of Service", "corpo_html": "<p>These placeholder terms cover site use, product information, orders and limitations. Replace them with the final Shopify terms and obtain legal review before launch.</p>"}
+    {
+      "handle": "contact",
+      "titulo": "Contact",
+      "corpo_html": "<p>Questions about SheCurrent Outdoors? Contact our US support team at support@example.com. Replace this placeholder before launch.</p>"
+    },
+    {
+      "handle": "shipping-policy",
+      "titulo": "Shipping Policy",
+      "corpo_html": "<p>Orders are processed in 1 to 3 business days. Standard US delivery is estimated at 7 to 12 business days. Confirm supplier service levels before launch.</p>"
+    },
+    {
+      "handle": "refund-policy",
+      "titulo": "Refund Policy",
+      "corpo_html": "<p>We accept eligible returns within 30 days of delivery. Items must be unused and returned in original condition. Final terms must be legally reviewed before launch.</p>"
+    },
+    {
+      "handle": "privacy-policy",
+      "titulo": "Privacy Policy",
+      "corpo_html": "<p>This professional placeholder describes data collection, checkout processing and marketing consent for a US Shopify store. Replace it with the Shopify-generated policy and legal review.</p>"
+    },
+    {
+      "handle": "terms-of-service",
+      "titulo": "Terms of Service",
+      "corpo_html": "<p>These placeholder terms cover site use, product information, orders and limitations. Replace them with the final Shopify terms and obtain legal review before launch.</p>"
+    }
   ],
   "menu": [
-    {"tipo": "frontpage", "titulo": "Home"},
-    {"tipo": "collection", "titulo": "Waterside Essentials", "handle": "waterside-essentials"},
-    {"tipo": "collection", "titulo": "Camp Comfort", "handle": "camp-comfort"}
+    {
+      "tipo": "frontpage",
+      "titulo": "Home"
+    },
+    {
+      "tipo": "collection",
+      "titulo": "Waterside Essentials",
+      "handle": "waterside-essentials"
+    },
+    {
+      "tipo": "collection",
+      "titulo": "Camp Comfort",
+      "handle": "camp-comfort"
+    }
   ],
-  "tema": {"settings": {}}
+  "tema": {
+    "settings": {}
+  }
 }

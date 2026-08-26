@@ -7,10 +7,10 @@ const source = 'C:\\Users\\nican\\OneDrive\\Documentos\\MENDES\\Mendes OS\\globa
 const allowed = new Set(['freeflyapparel.com', 'missmayfly.com']);
 const raw = JSON.parse(fs.readFileSync(source, 'utf8'));
 const accepted = raw.filter(ad => allowed.has((ad.linkDomain || '').toLowerCase()));
-const recentFirst = accepted.sort((a, b) => String(b.startDate || '').localeCompare(String(a.startDate || '')));
+const oldestFirst = accepted.sort((a, b) => String(a.startDate || '').localeCompare(String(b.startDate || '')));
 const selected = [];
 for (const domain of allowed) {
-  selected.push(...recentFirst.filter(ad => ad.linkDomain === domain).slice(0, 12));
+  selected.push(...oldestFirst.filter(ad => ad.linkDomain === domain).slice(0, 12));
 }
 fs.writeFileSync(path.join(here, 'anuncios-curados.json'), JSON.stringify(selected, null, 2));
 console.log('Criativos reais curados:', selected.length, '| Free Fly:', selected.filter(x => x.linkDomain === 'freeflyapparel.com').length, '| Miss Mayfly:', selected.filter(x => x.linkDomain === 'missmayfly.com').length);
