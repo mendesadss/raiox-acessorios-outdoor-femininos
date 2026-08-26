@@ -1,0 +1,258 @@
+{
+  "generated_at": "2026-08-26T17:07:00.772Z",
+  "rule": "Uma imagem local para cada imagem publicada no carrossel da PDP concorrente, sem amostragem.",
+  "products": [
+    {
+      "product_handle": "tidesafe-crossbody",
+      "product_name": "TideSafe Crossbody",
+      "competitor": "FisheWear x Orvis",
+      "competitor_product_title": "Unbound Brown Orvis + Fishe Mini Sling",
+      "competitor_page": "https://fishewear.com/products/unbound-brown-orvis-fishe-mini-sling",
+      "competitor_json": "https://fishewear.com/products/unbound-brown-orvis-fishe-mini-sling.js",
+      "expected_carousel_count": 6,
+      "downloaded_carousel_count": 6,
+      "files": [
+        {
+          "position": 1,
+          "file": "carrossel-concorrente/referencia-01.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/1347/4439/files/Unbound_Brown_Orvis_Fishe_Mini_Sling_1_6812d269-77ca-47e4-bd3e-784647299167.jpg?v=1780522977",
+          "bytes": 326729
+        },
+        {
+          "position": 2,
+          "file": "carrossel-concorrente/referencia-02.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/1347/4439/files/Unbound_Brown_Orvis_Fishe_Mini_Sling_2.jpg?v=1780522977",
+          "bytes": 226199
+        },
+        {
+          "position": 3,
+          "file": "carrossel-concorrente/referencia-03.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/1347/4439/files/Unbound_Brown_Orvis_Fishe_Mini_Sling_3_53e9cf2e-f2ae-48d7-acfa-17824f307ca3.jpg?v=1780522977",
+          "bytes": 336947
+        },
+        {
+          "position": 4,
+          "file": "carrossel-concorrente/referencia-04.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/1347/4439/files/Unbound_Brown_Orvis_Fishe_Mini_Sling_4.jpg?v=1780522977",
+          "bytes": 285720
+        },
+        {
+          "position": 5,
+          "file": "carrossel-concorrente/referencia-05.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/1347/4439/files/Unbound_Brown_Orvis_Fishe_Mini_Sling_6.jpg?v=1780522977",
+          "bytes": 304484
+        },
+        {
+          "position": 6,
+          "file": "carrossel-concorrente/referencia-06.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/1347/4439/files/Unbound_Brown_Orvis_Fishe_Mini_Sling_7.jpg?v=1780522977",
+          "bytes": 241839
+        }
+      ]
+    },
+    {
+      "product_handle": "solshield-fingerless-gloves",
+      "product_name": "SolShield Fingerless Gloves",
+      "competitor": "AFTCO",
+      "competitor_product_title": "Solblok Gloves",
+      "competitor_page": "https://www.aftco.com/products/solblok-fishing-sun-gloves",
+      "competitor_json": "https://www.aftco.com/products/solblok-fishing-sun-gloves.js",
+      "expected_carousel_count": 10,
+      "downloaded_carousel_count": 10,
+      "files": [
+        {
+          "position": 1,
+          "file": "carrossel-concorrente/referencia-01.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/1127/7790/files/GLOVESB-NSTC-1_82cb2f8e-a9ce-4ade-81b0-e85a40cce91e.jpg?v=1729721372",
+          "bytes": 379629
+        },
+        {
+          "position": 2,
+          "file": "carrossel-concorrente/referencia-02.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/1127/7790/files/GLOVESB-HGRA-1_2f4440f0-ad3d-48c8-811a-bad841486494.jpg?v=1729098742",
+          "bytes": 228566
+        },
+        {
+          "position": 3,
+          "file": "carrossel-concorrente/referencia-03.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/1127/7790/files/GLOVESB-NSTC-2_67c99101-c0d9-428f-8c59-d21bc4588d1d.jpg?v=1726512796",
+          "bytes": 233875
+        },
+        {
+          "position": 4,
+          "file": "carrossel-concorrente/referencia-04.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/1127/7790/files/GLOVESB-HGRA-2_c1366bf9-1ef1-46b4-bd03-797758f9d53d.jpg?v=1729098742",
+          "bytes": 333040
+        },
+        {
+          "position": 5,
+          "file": "carrossel-concorrente/referencia-05.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/1127/7790/files/BEAV6292.jpg?v=1730394759",
+          "bytes": 190431
+        },
+        {
+          "position": 6,
+          "file": "carrossel-concorrente/referencia-06.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/1127/7790/files/BEAV6324-_1.jpg?v=1730394758",
+          "bytes": 265173
+        },
+        {
+          "position": 7,
+          "file": "carrossel-concorrente/referencia-07.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/1127/7790/files/BEAV6375.jpg?v=1730394758",
+          "bytes": 255790
+        },
+        {
+          "position": 8,
+          "file": "carrossel-concorrente/referencia-08.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/1127/7790/files/BEAV6324-_1_01e300d8-a5b0-4fd0-bffd-4d301ff21915.jpg?v=1730394766",
+          "bytes": 265173
+        },
+        {
+          "position": 9,
+          "file": "carrossel-concorrente/referencia-09.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/1127/7790/files/BEAV6375_4e9cb5d7-fdb3-4bbf-ab21-4927a826e608.jpg?v=1730394766",
+          "bytes": 255790
+        },
+        {
+          "position": 10,
+          "file": "carrossel-concorrente/referencia-10.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/1127/7790/files/BEAV6292_5f8fbd1a-4fb0-49f9-9701-c7a1f4d02273.jpg?v=1730394766",
+          "bytes": 190431
+        }
+      ]
+    },
+    {
+      "product_handle": "coolcurrent-neck-gaiter",
+      "product_name": "CoolCurrent Neck Gaiter",
+      "competitor": "DSG Outerwear",
+      "competitor_product_title": "Emery Neck Gaiter - UPF 50+",
+      "competitor_page": "https://www.dsgouterwear.com/products/emery-neck-gaiter-upf-50",
+      "competitor_json": "https://www.dsgouterwear.com/products/emery-neck-gaiter-upf-50.js",
+      "expected_carousel_count": 6,
+      "downloaded_carousel_count": 6,
+      "files": [
+        {
+          "position": 1,
+          "file": "carrossel-concorrente/referencia-01.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0688/7630/4596/files/Emery-Neck-Gaiter_1__28799.1626297449.1280.1280_40659104-3442-40c6-b7e8-b06cb193f2ae.jpg?v=1717090530",
+          "bytes": 217940
+        },
+        {
+          "position": 2,
+          "file": "carrossel-concorrente/referencia-02.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0688/7630/4596/files/Emery-Neck-Gaiter-Navy_1__49407.1626297449.1280.1280_15ccc27a-2837-4ddf-824e-81fdbe52b33f.jpg?v=1717090530",
+          "bytes": 337452
+        },
+        {
+          "position": 3,
+          "file": "carrossel-concorrente/referencia-03.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0688/7630/4596/files/Emery-Neck-Gaiter-White_1__71763.1626297449.1280.1280_9f495e2b-4b22-4d22-87c5-a01d53e8cd08.jpg?v=1717090530",
+          "bytes": 351439
+        },
+        {
+          "position": 4,
+          "file": "carrossel-concorrente/referencia-04.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0688/7630/4596/files/221218-DSG-1198__50291.1646236500.1280.1280_de52cb4f-b268-47c4-90bb-c08dfb6b65ec.jpg?v=1717090530",
+          "bytes": 251492
+        },
+        {
+          "position": 5,
+          "file": "carrossel-concorrente/referencia-05.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0688/7630/4596/files/Fish_-_Wendy_02_1__41750.1646236537.1280.1280.jpg?v=1717090530",
+          "bytes": 175688
+        },
+        {
+          "position": 6,
+          "file": "carrossel-concorrente/referencia-06.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0688/7630/4596/files/Fish_-_Wendy_01_1__78377.1646236535.1280.1280.jpg?v=1717090530",
+          "bytes": 190570
+        }
+      ]
+    },
+    {
+      "product_handle": "drypocket-phone-pouch",
+      "product_name": "DryPocket Phone Pouch",
+      "competitor": "Southerly Fishing",
+      "competitor_product_title": "Waterproof Pouch",
+      "competitor_page": "https://southerlyfishing.com/products/acs-wppou-1",
+      "competitor_json": "https://southerlyfishing.com/products/acs-wppou-1.js",
+      "expected_carousel_count": 4,
+      "downloaded_carousel_count": 4,
+      "files": [
+        {
+          "position": 1,
+          "file": "carrossel-concorrente/referencia-01.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0867/9941/7645/files/NB071525_Southerly2058.jpg?v=1755034640",
+          "bytes": 92535
+        },
+        {
+          "position": 2,
+          "file": "carrossel-concorrente/referencia-02.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0867/9941/7645/files/NB070825_Southerly0719.jpg?v=1755102132",
+          "bytes": 185532
+        },
+        {
+          "position": 3,
+          "file": "carrossel-concorrente/referencia-03.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0867/9941/7645/files/HD-06083.jpg?v=1771280437",
+          "bytes": 278894
+        },
+        {
+          "position": 4,
+          "file": "carrossel-concorrente/referencia-04.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0867/9941/7645/files/HD-06090.jpg?v=1771280448",
+          "bytes": 179052
+        }
+      ]
+    },
+    {
+      "product_handle": "campnest-hanging-organizer",
+      "product_name": "CampNest Hanging Organizer",
+      "competitor": "Trekking Up",
+      "competitor_product_title": "Summit Storage by Trekking Up",
+      "competitor_page": "https://www.trekkingup.com/products/summit-storage",
+      "competitor_json": "https://www.trekkingup.com/products/summit-storage.js",
+      "expected_carousel_count": 6,
+      "downloaded_carousel_count": 6,
+      "files": [
+        {
+          "position": 1,
+          "file": "carrossel-concorrente/referencia-01.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0730/0117/3232/files/prod-img4.png?v=1744232903",
+          "bytes": 715387
+        },
+        {
+          "position": 2,
+          "file": "carrossel-concorrente/referencia-02.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0730/0117/3232/files/stab_5ce42902-fe92-4071-a45d-98e7fbb24bda.png?v=1744232972",
+          "bytes": 1222758
+        },
+        {
+          "position": 3,
+          "file": "carrossel-concorrente/referencia-03.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0730/0117/3232/files/trekbag.png?v=1729830521",
+          "bytes": 1280600
+        },
+        {
+          "position": 4,
+          "file": "carrossel-concorrente/referencia-04.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0730/0117/3232/files/prod-img1.png?v=1729834723",
+          "bytes": 1712248
+        },
+        {
+          "position": 5,
+          "file": "carrossel-concorrente/referencia-05.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0730/0117/3232/files/prod-img2.png?v=1744233075",
+          "bytes": 511512
+        },
+        {
+          "position": 6,
+          "file": "carrossel-concorrente/referencia-06.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0730/0117/3232/files/prod-img3.png?v=1744233171",
+          "bytes": 551313
+        }
+      ]
+    }
+  ]
+}

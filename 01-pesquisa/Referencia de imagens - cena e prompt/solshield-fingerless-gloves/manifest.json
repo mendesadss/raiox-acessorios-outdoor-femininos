@@ -1,0 +1,72 @@
+{
+  "product_handle": "solshield-fingerless-gloves",
+  "product_name": "SolShield Fingerless Gloves",
+  "competitor": "AFTCO",
+  "competitor_product_title": "Solblok Gloves",
+  "competitor_page": "https://www.aftco.com/products/solblok-fishing-sun-gloves",
+  "competitor_json": "https://www.aftco.com/products/solblok-fishing-sun-gloves.js",
+  "expected_carousel_count": 10,
+  "downloaded_carousel_count": 10,
+  "files": [
+    {
+      "position": 1,
+      "file": "carrossel-concorrente/referencia-01.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/1127/7790/files/GLOVESB-NSTC-1_82cb2f8e-a9ce-4ade-81b0-e85a40cce91e.jpg?v=1729721372",
+      "bytes": 379629
+    },
+    {
+      "position": 2,
+      "file": "carrossel-concorrente/referencia-02.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/1127/7790/files/GLOVESB-HGRA-1_2f4440f0-ad3d-48c8-811a-bad841486494.jpg?v=1729098742",
+      "bytes": 228566
+    },
+    {
+      "position": 3,
+      "file": "carrossel-concorrente/referencia-03.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/1127/7790/files/GLOVESB-NSTC-2_67c99101-c0d9-428f-8c59-d21bc4588d1d.jpg?v=1726512796",
+      "bytes": 233875
+    },
+    {
+      "position": 4,
+      "file": "carrossel-concorrente/referencia-04.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/1127/7790/files/GLOVESB-HGRA-2_c1366bf9-1ef1-46b4-bd03-797758f9d53d.jpg?v=1729098742",
+      "bytes": 333040
+    },
+    {
+      "position": 5,
+      "file": "carrossel-concorrente/referencia-05.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/1127/7790/files/BEAV6292.jpg?v=1730394759",
+      "bytes": 190431
+    },
+    {
+      "position": 6,
+      "file": "carrossel-concorrente/referencia-06.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/1127/7790/files/BEAV6324-_1.jpg?v=1730394758",
+      "bytes": 265173
+    },
+    {
+      "position": 7,
+      "file": "carrossel-concorrente/referencia-07.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/1127/7790/files/BEAV6375.jpg?v=1730394758",
+      "bytes": 255790
+    },
+    {
+      "position": 8,
+      "file": "carrossel-concorrente/referencia-08.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/1127/7790/files/BEAV6324-_1_01e300d8-a5b0-4fd0-bffd-4d301ff21915.jpg?v=1730394766",
+      "bytes": 265173
+    },
+    {
+      "position": 9,
+      "file": "carrossel-concorrente/referencia-09.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/1127/7790/files/BEAV6375_4e9cb5d7-fdb3-4bbf-ab21-4927a826e608.jpg?v=1730394766",
+      "bytes": 255790
+    },
+    {
+      "position": 10,
+      "file": "carrossel-concorrente/referencia-10.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/1127/7790/files/BEAV6292_5f8fbd1a-4fb0-49f9-9701-c7a1f4d02273.jpg?v=1730394766",
+      "bytes": 190431
+    }
+  ]
+}

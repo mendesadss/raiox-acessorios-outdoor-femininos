@@ -1,0 +1,70 @@
+{
+  "product_handle": "drypocket-phone-pouch",
+  "product_name": "DryPocket Phone Pouch",
+  "competitor": "Southerly Fishing",
+  "competitor_product_title": "Waterproof Pouch",
+  "competitor_page": "https://southerlyfishing.com/products/acs-wppou-1",
+  "competitor_json": "https://southerlyfishing.com/products/acs-wppou-1.js",
+  "expected_carousel_count": 4,
+  "downloaded_carousel_count": 4,
+  "files": [
+    {
+      "position": 1,
+      "file": "carrossel-concorrente/referencia-01.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0867/9941/7645/files/NB071525_Southerly2058.jpg?v=1755034640",
+      "bytes": 92535
+    },
+    {
+      "position": 2,
+      "file": "carrossel-concorrente/referencia-02.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0867/9941/7645/files/NB070825_Southerly0719.jpg?v=1755102132",
+      "bytes": 185532
+    },
+    {
+      "position": 3,
+      "file": "carrossel-concorrente/referencia-03.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0867/9941/7645/files/HD-06083.jpg?v=1771280437",
+      "bytes": 278894
+    },
+    {
+      "position": 4,
+      "file": "carrossel-concorrente/referencia-04.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0867/9941/7645/files/HD-06090.jpg?v=1771280448",
+      "bytes": 179052
+    }
+  ],
+  "references": [
+    {
+      "position": 1,
+      "type": "Studio front hero",
+      "description": "A clean front-facing hero image showing the complete pouch, transparent window, zipper and tether laid out without distortion.",
+      "reference_file": "Referencia de imagens - cena e prompt/drypocket-phone-pouch/carrossel-concorrente/referencia-01.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0867/9941/7645/files/NB071525_Southerly2058.jpg?v=1755034640",
+      "prompt": "Create one premium US e-commerce PDP image for SheCurrent Outdoors. This is image 1 in the DryPocket Phone Pouch carousel.\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached DryPocket Phone Pouch Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nA clean front-facing hero image showing the complete pouch, transparent window, zipper and tether laid out without distortion. 85 mm product lens, camera perfectly parallel, large diffused key light, controlled reflection cards, pale warm-gray seamless background. Build a premium, calm and capable visual language for a women-focused outdoor brand serving casual anglers and beginner campers in the United States. The image should feel refined, practical, adult and trustworthy, never overly rugged, tactical or juvenile. Use the SheCurrent palette naturally: deep evergreen, soft sage, warm sand, controlled coral accents and clean coastal neutrals. Keep styling functional and attainable for a woman aged 32 to 48.\n\nPRODUCT FIDELITY\nPreserve the exact outer contour, transparent window, zipper path, tether points, edge welds, dimensions and material translucency shown in the separate DryPocket Product Master photographs. Show a compact transparent waterside phone and valuables pouch. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories. Maintain plausible scale, gravity, tension, fabric behavior, hand interaction and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, watermarks and readable brand text from the reference. Do not imitate proprietary artwork. Apply only the approved SheCurrent identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, badges, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished 4:5 vertical image at 2400 x 3000 px, sRGB, with safe crop margins for Shopify mobile and desktop."
+    },
+    {
+      "position": 2,
+      "type": "Phone fit demonstration",
+      "description": "A woman holding the pouch at chest height with a modern smartphone clearly visible inside, while the opening and tether remain legible.",
+      "reference_file": "Referencia de imagens - cena e prompt/drypocket-phone-pouch/carrossel-concorrente/referencia-02.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0867/9941/7645/files/NB070825_Southerly0719.jpg?v=1755102132",
+      "prompt": "Create one premium US e-commerce PDP image for SheCurrent Outdoors. This is image 2 in the DryPocket Phone Pouch carousel.\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached DryPocket Phone Pouch Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nA woman holding the pouch at chest height with a modern smartphone clearly visible inside, while the opening and tether remain legible. 70 mm lens, close torso crop, soft studio daylight, hands anatomically correct, transparent material free of distracting glare. Build a premium, calm and capable visual language for a women-focused outdoor brand serving casual anglers and beginner campers in the United States. The image should feel refined, practical, adult and trustworthy, never overly rugged, tactical or juvenile. Use the SheCurrent palette naturally: deep evergreen, soft sage, warm sand, controlled coral accents and clean coastal neutrals. Keep styling functional and attainable for a woman aged 32 to 48.\n\nPRODUCT FIDELITY\nPreserve the exact outer contour, transparent window, zipper path, tether points, edge welds, dimensions and material translucency shown in the separate DryPocket Product Master photographs. Show a compact transparent waterside phone and valuables pouch. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories. Maintain plausible scale, gravity, tension, fabric behavior, hand interaction and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, watermarks and readable brand text from the reference. Do not imitate proprietary artwork. Apply only the approved SheCurrent identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, badges, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished 4:5 vertical image at 2400 x 3000 px, sRGB, with safe crop margins for Shopify mobile and desktop."
+    },
+    {
+      "position": 3,
+      "type": "Waterside utility loadout",
+      "description": "The pouch used on a boat with compact fishing essentials visible inside, held naturally by gloved hands to demonstrate usable capacity.",
+      "reference_file": "Referencia de imagens - cena e prompt/drypocket-phone-pouch/carrossel-concorrente/referencia-03.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0867/9941/7645/files/HD-06083.jpg?v=1771280437",
+      "prompt": "Create one premium US e-commerce PDP image for SheCurrent Outdoors. This is image 3 in the DryPocket Phone Pouch carousel.\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached DryPocket Phone Pouch Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nThe pouch used on a boat with compact fishing essentials visible inside, held naturally by gloved hands to demonstrate usable capacity. 50 mm environmental close-up, directional morning light, boat and reel context visible but secondary, honest product scale. Build a premium, calm and capable visual language for a women-focused outdoor brand serving casual anglers and beginner campers in the United States. The image should feel refined, practical, adult and trustworthy, never overly rugged, tactical or juvenile. Use the SheCurrent palette naturally: deep evergreen, soft sage, warm sand, controlled coral accents and clean coastal neutrals. Keep styling functional and attainable for a woman aged 32 to 48.\n\nPRODUCT FIDELITY\nPreserve the exact outer contour, transparent window, zipper path, tether points, edge welds, dimensions and material translucency shown in the separate DryPocket Product Master photographs. Show a compact transparent waterside phone and valuables pouch. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories. Maintain plausible scale, gravity, tension, fabric behavior, hand interaction and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, watermarks and readable brand text from the reference. Do not imitate proprietary artwork. Apply only the approved SheCurrent identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, badges, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished 4:5 vertical image at 2400 x 3000 px, sRGB, with safe crop margins for Shopify mobile and desktop."
+    },
+    {
+      "position": 4,
+      "type": "Macro zipper and seal detail",
+      "description": "An extreme close-up of fingers operating the waterproof-style zipper pull, emphasizing the closure track, welded edge and water droplets.",
+      "reference_file": "Referencia de imagens - cena e prompt/drypocket-phone-pouch/carrossel-concorrente/referencia-04.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0867/9941/7645/files/HD-06090.jpg?v=1771280448",
+      "prompt": "Create one premium US e-commerce PDP image for SheCurrent Outdoors. This is image 4 in the DryPocket Phone Pouch carousel.\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached DryPocket Phone Pouch Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nAn extreme close-up of fingers operating the waterproof-style zipper pull, emphasizing the closure track, welded edge and water droplets. 100 mm macro lens, very shallow depth of field, crisp raking light, tactile material detail, realistic droplets, no certification text. Build a premium, calm and capable visual language for a women-focused outdoor brand serving casual anglers and beginner campers in the United States. The image should feel refined, practical, adult and trustworthy, never overly rugged, tactical or juvenile. Use the SheCurrent palette naturally: deep evergreen, soft sage, warm sand, controlled coral accents and clean coastal neutrals. Keep styling functional and attainable for a woman aged 32 to 48.\n\nPRODUCT FIDELITY\nPreserve the exact outer contour, transparent window, zipper path, tether points, edge welds, dimensions and material translucency shown in the separate DryPocket Product Master photographs. Show a compact transparent waterside phone and valuables pouch. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories. Maintain plausible scale, gravity, tension, fabric behavior, hand interaction and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, watermarks and readable brand text from the reference. Do not imitate proprietary artwork. Apply only the approved SheCurrent identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, badges, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished 4:5 vertical image at 2400 x 3000 px, sRGB, with safe crop margins for Shopify mobile and desktop."
+    }
+  ]
+}

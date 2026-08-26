@@ -1,0 +1,48 @@
+{
+  "product_handle": "coolcurrent-neck-gaiter",
+  "product_name": "CoolCurrent Neck Gaiter",
+  "competitor": "DSG Outerwear",
+  "competitor_product_title": "Emery Neck Gaiter - UPF 50+",
+  "competitor_page": "https://www.dsgouterwear.com/products/emery-neck-gaiter-upf-50",
+  "competitor_json": "https://www.dsgouterwear.com/products/emery-neck-gaiter-upf-50.js",
+  "expected_carousel_count": 6,
+  "downloaded_carousel_count": 6,
+  "files": [
+    {
+      "position": 1,
+      "file": "carrossel-concorrente/referencia-01.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0688/7630/4596/files/Emery-Neck-Gaiter_1__28799.1626297449.1280.1280_40659104-3442-40c6-b7e8-b06cb193f2ae.jpg?v=1717090530",
+      "bytes": 217940
+    },
+    {
+      "position": 2,
+      "file": "carrossel-concorrente/referencia-02.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0688/7630/4596/files/Emery-Neck-Gaiter-Navy_1__49407.1626297449.1280.1280_15ccc27a-2837-4ddf-824e-81fdbe52b33f.jpg?v=1717090530",
+      "bytes": 337452
+    },
+    {
+      "position": 3,
+      "file": "carrossel-concorrente/referencia-03.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0688/7630/4596/files/Emery-Neck-Gaiter-White_1__71763.1626297449.1280.1280_9f495e2b-4b22-4d22-87c5-a01d53e8cd08.jpg?v=1717090530",
+      "bytes": 351439
+    },
+    {
+      "position": 4,
+      "file": "carrossel-concorrente/referencia-04.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0688/7630/4596/files/221218-DSG-1198__50291.1646236500.1280.1280_de52cb4f-b268-47c4-90bb-c08dfb6b65ec.jpg?v=1717090530",
+      "bytes": 251492
+    },
+    {
+      "position": 5,
+      "file": "carrossel-concorrente/referencia-05.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0688/7630/4596/files/Fish_-_Wendy_02_1__41750.1646236537.1280.1280.jpg?v=1717090530",
+      "bytes": 175688
+    },
+    {
+      "position": 6,
+      "file": "carrossel-concorrente/referencia-06.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0688/7630/4596/files/Fish_-_Wendy_01_1__78377.1646236535.1280.1280.jpg?v=1717090530",
+      "bytes": 190570
+    }
+  ]
+}

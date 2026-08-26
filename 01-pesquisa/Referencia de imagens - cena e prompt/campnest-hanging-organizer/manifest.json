@@ -1,0 +1,48 @@
+{
+  "product_handle": "campnest-hanging-organizer",
+  "product_name": "CampNest Hanging Organizer",
+  "competitor": "Trekking Up",
+  "competitor_product_title": "Summit Storage by Trekking Up",
+  "competitor_page": "https://www.trekkingup.com/products/summit-storage",
+  "competitor_json": "https://www.trekkingup.com/products/summit-storage.js",
+  "expected_carousel_count": 6,
+  "downloaded_carousel_count": 6,
+  "files": [
+    {
+      "position": 1,
+      "file": "carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0730/0117/3232/files/prod-img4.png?v=1744232903",
+      "bytes": 715387
+    },
+    {
+      "position": 2,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0730/0117/3232/files/stab_5ce42902-fe92-4071-a45d-98e7fbb24bda.png?v=1744232972",
+      "bytes": 1222758
+    },
+    {
+      "position": 3,
+      "file": "carrossel-concorrente/referencia-03.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0730/0117/3232/files/trekbag.png?v=1729830521",
+      "bytes": 1280600
+    },
+    {
+      "position": 4,
+      "file": "carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0730/0117/3232/files/prod-img1.png?v=1729834723",
+      "bytes": 1712248
+    },
+    {
+      "position": 5,
+      "file": "carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0730/0117/3232/files/prod-img2.png?v=1744233075",
+      "bytes": 511512
+    },
+    {
+      "position": 6,
+      "file": "carrossel-concorrente/referencia-06.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0730/0117/3232/files/prod-img3.png?v=1744233171",
+      "bytes": 551313
+    }
+  ]
+}

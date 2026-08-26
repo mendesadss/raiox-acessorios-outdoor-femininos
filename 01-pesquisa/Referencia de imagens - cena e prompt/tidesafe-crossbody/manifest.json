@@ -1,0 +1,48 @@
+{
+  "product_handle": "tidesafe-crossbody",
+  "product_name": "TideSafe Crossbody",
+  "competitor": "FisheWear x Orvis",
+  "competitor_product_title": "Unbound Brown Orvis + Fishe Mini Sling",
+  "competitor_page": "https://fishewear.com/products/unbound-brown-orvis-fishe-mini-sling",
+  "competitor_json": "https://fishewear.com/products/unbound-brown-orvis-fishe-mini-sling.js",
+  "expected_carousel_count": 6,
+  "downloaded_carousel_count": 6,
+  "files": [
+    {
+      "position": 1,
+      "file": "carrossel-concorrente/referencia-01.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/1347/4439/files/Unbound_Brown_Orvis_Fishe_Mini_Sling_1_6812d269-77ca-47e4-bd3e-784647299167.jpg?v=1780522977",
+      "bytes": 326729
+    },
+    {
+      "position": 2,
+      "file": "carrossel-concorrente/referencia-02.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/1347/4439/files/Unbound_Brown_Orvis_Fishe_Mini_Sling_2.jpg?v=1780522977",
+      "bytes": 226199
+    },
+    {
+      "position": 3,
+      "file": "carrossel-concorrente/referencia-03.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/1347/4439/files/Unbound_Brown_Orvis_Fishe_Mini_Sling_3_53e9cf2e-f2ae-48d7-acfa-17824f307ca3.jpg?v=1780522977",
+      "bytes": 336947
+    },
+    {
+      "position": 4,
+      "file": "carrossel-concorrente/referencia-04.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/1347/4439/files/Unbound_Brown_Orvis_Fishe_Mini_Sling_4.jpg?v=1780522977",
+      "bytes": 285720
+    },
+    {
+      "position": 5,
+      "file": "carrossel-concorrente/referencia-05.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/1347/4439/files/Unbound_Brown_Orvis_Fishe_Mini_Sling_6.jpg?v=1780522977",
+      "bytes": 304484
+    },
+    {
+      "position": 6,
+      "file": "carrossel-concorrente/referencia-06.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/1347/4439/files/Unbound_Brown_Orvis_Fishe_Mini_Sling_7.jpg?v=1780522977",
+      "bytes": 241839
+    }
+  ]
+}
